@@ -65,7 +65,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/bleu.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/bt-super160.png": {
 		"fileType": 32768,
@@ -76,7 +76,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/bt-super160.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/bt-superB.png": {
 		"fileType": 32768,
@@ -87,7 +87,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/bt-superB.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/bt-superNR.png": {
 		"fileType": 32768,
@@ -98,7 +98,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/bt-superNR.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/bt_demo.png": {
 		"fileType": 32768,
@@ -109,7 +109,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/bt_demo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/cinetique.png": {
 		"fileType": 32768,
@@ -120,7 +120,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/cinetique.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/economiser.png": {
 		"fileType": 32768,
@@ -131,7 +131,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/economiser.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/etiquette-globale-sprite.png": {
 		"fileType": 32768,
@@ -142,7 +142,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/etiquette-globale-sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/etiquette-globale.png": {
 		"fileType": 32768,
@@ -153,7 +153,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/etiquette-globale.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/iphone-bg-menu.png": {
 		"fileType": 32768,
@@ -164,7 +164,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/iphone-bg-menu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/iphone-bg.png": {
 		"fileType": 32768,
@@ -175,7 +175,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/iphone-bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/images\/nav-indicator-bg.png": {
 		"fileType": 32768,
@@ -186,7 +186,7 @@
 		"outputAbbreviatedPath": "\/bankin\/images\/nav-indicator-bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bankin\/inc\/master_functions.js": {
 		"fileType": 64,
@@ -282,7 +282,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/176x176.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/410x230.png": {
 		"fileType": 32768,
@@ -293,7 +293,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/410x230.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/a-rss.png": {
 		"fileType": 32768,
@@ -304,7 +304,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/a-rss.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/h\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
@@ -315,7 +315,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/h\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -326,7 +326,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/h\/splash.png": {
 		"fileType": 32768,
@@ -337,7 +337,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/splash.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/l\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -348,7 +348,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/l\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -359,7 +359,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/l\/splash.png": {
 		"fileType": 32768,
@@ -370,7 +370,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/splash.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/m\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -381,7 +381,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/m\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-retina.png": {
 		"fileType": 32768,
@@ -392,7 +392,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-tablet-landscape.png": {
 		"fileType": 32768,
@@ -403,7 +403,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-tablet-landscape.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-tablet-portrait.png": {
 		"fileType": 32768,
@@ -414,7 +414,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-tablet-portrait.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup.png": {
 		"fileType": 32768,
@@ -425,7 +425,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/320andup\/index.html": {
 		"fileType": 8192,
@@ -3082,7 +3082,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/logo_files\/960_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_12_col.png": {
 		"fileType": 32768,
@@ -3093,7 +3093,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_12_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_16_col.png": {
 		"fileType": 32768,
@@ -3104,7 +3104,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_16_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_24_col.png": {
 		"fileType": 32768,
@@ -3115,7 +3115,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_24_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/animate.css\/animate.css": {
 		"fileType": 16,
@@ -4830,7 +4830,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/html5-boilerplate\/CHANGELOG.md": {
 		"enableFootnoteSupport": 0,
@@ -7550,38 +7550,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/ie.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/ie.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/master_eponyme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/master_eponyme.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/print.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/print.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/screen.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/screen.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7622,7 +7595,7 @@
 		"outputAbbreviatedPath": "\/ico\/129x129.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/512.png": {
 		"fileType": 32768,
@@ -7633,7 +7606,7 @@
 		"outputAbbreviatedPath": "\/ico\/512.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/app-touch-icon.png": {
 		"fileType": 32768,
@@ -7644,7 +7617,7 @@
 		"outputAbbreviatedPath": "\/ico\/app-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/apple-touch-icon-ipad-retina.png": {
 		"fileType": 32768,
@@ -7655,7 +7628,7 @@
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-ipad-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/apple-touch-icon-ipad.png": {
 		"fileType": 32768,
@@ -7666,7 +7639,7 @@
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-ipad.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/apple-touch-icon-iphone-retina.png": {
 		"fileType": 32768,
@@ -7677,7 +7650,7 @@
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ico\/apple-touch-icon-iphone.png": {
 		"fileType": 32768,
@@ -7688,7 +7661,7 @@
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/arrows.png": {
 		"fileType": 32768,
@@ -7699,7 +7672,7 @@
 		"outputAbbreviatedPath": "\/images\/arrows.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/bg-bottom-chain.png": {
 		"fileType": 32768,
@@ -7710,7 +7683,7 @@
 		"outputAbbreviatedPath": "\/images\/bg-bottom-chain.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/bg-sign.png": {
 		"fileType": 32768,
@@ -7721,7 +7694,7 @@
 		"outputAbbreviatedPath": "\/images\/bg-sign.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/bg-under-video.png": {
 		"fileType": 32768,
@@ -7732,7 +7705,7 @@
 		"outputAbbreviatedPath": "\/images\/bg-under-video.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/close.png": {
 		"fileType": 32768,
@@ -7743,7 +7716,7 @@
 		"outputAbbreviatedPath": "\/images\/close.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/closeopenleftright.png": {
 		"fileType": 32768,
@@ -7754,7 +7727,7 @@
 		"outputAbbreviatedPath": "\/images\/closeopenleftright.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/motif.png": {
 		"fileType": 32768,
@@ -7765,7 +7738,7 @@
 		"outputAbbreviatedPath": "\/images\/motif.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/arrows@2x.png": {
 		"fileType": 32768,
@@ -7776,7 +7749,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/arrows@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/bg-bottom-chain@2x.png": {
 		"fileType": 32768,
@@ -7787,7 +7760,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/bg-bottom-chain@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/bg-sign@2x.png": {
 		"fileType": 32768,
@@ -7798,7 +7771,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/bg-sign@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/bg-under-video@2x.png": {
 		"fileType": 32768,
@@ -7809,7 +7782,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/bg-under-video@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/signature@2x.png": {
 		"fileType": 32768,
@@ -7820,7 +7793,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/signature@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/retina\/teasing@2x.jpg": {
 		"fileType": 16384,
@@ -7831,7 +7804,7 @@
 		"outputAbbreviatedPath": "\/images\/retina\/teasing@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/signature.png": {
 		"fileType": 32768,
@@ -7842,7 +7815,7 @@
 		"outputAbbreviatedPath": "\/images\/signature.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/sr.png": {
 		"fileType": 32768,
@@ -7853,7 +7826,7 @@
 		"outputAbbreviatedPath": "\/images\/sr.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/teasing.jpg": {
 		"fileType": 16384,
@@ -7864,7 +7837,7 @@
 		"outputAbbreviatedPath": "\/images\/teasing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/video-js.png": {
 		"fileType": 32768,
@@ -7875,172 +7848,7 @@
 		"outputAbbreviatedPath": "\/images\/video-js.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/inc\/css3-mediaqueries.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/css3-mediaqueries.js",
-		"outputAbbreviatedPath": "\/inc\/min\/css3-mediaqueries-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.effects.blind.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.effects.blind.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.effects.blind-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.fittext.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.fittext.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.fittext-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.mb.CSSAnimate.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.mb.CSSAnimate.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.mb.CSSAnimate-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.mb.momentumSlide.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.mb.momentumSlide.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.mb.momentumSlide-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.touchwipe.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.touchwipe.min.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.touchwipe.min-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.ui.effect-blind.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.ui.effect-blind.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.ui.effect-blind-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jquery.ui.effect.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jquery.ui.effect.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jquery.ui.effect-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/jresize.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/jresize.js",
-		"outputAbbreviatedPath": "\/inc\/min\/jresize-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/master_functions.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/master_functions.js",
-		"outputAbbreviatedPath": "\/inc\/min\/master_functions-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/modernizr.custom.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/modernizr.custom.js",
-		"outputAbbreviatedPath": "\/inc\/min\/modernizr.custom-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/prefixfree.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/prefixfree.js",
-		"outputAbbreviatedPath": "\/inc\/min\/prefixfree-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/retina.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/retina.js",
-		"outputAbbreviatedPath": "\/inc\/min\/retina-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/screenfull.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/screenfull.js",
-		"outputAbbreviatedPath": "\/inc\/min\/screenfull-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/inc\/video.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/inc\/video.js",
-		"outputAbbreviatedPath": "\/inc\/min\/video-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -8111,6 +7919,171 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scripts\/css3-mediaqueries.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/css3-mediaqueries.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/css3-mediaqueries-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.effects.blind.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.effects.blind.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.effects.blind-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.fittext.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.fittext.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.fittext-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.mb.CSSAnimate.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.mb.CSSAnimate.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.CSSAnimate-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.mb.momentumSlide.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.mb.momentumSlide.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.momentumSlide-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.touchwipe.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.touchwipe.min.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.touchwipe.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.ui.effect-blind.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.ui.effect-blind.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.ui.effect-blind-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jquery.ui.effect.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jquery.ui.effect.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.ui.effect-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/jresize.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/jresize.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jresize-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/master_functions.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/master_functions.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/master_functions-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/modernizr.custom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/modernizr.custom.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/modernizr.custom-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/prefixfree.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/prefixfree.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/prefixfree-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/retina.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/retina.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/retina-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/screenfull.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/screenfull.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/screenfull-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/video.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/video.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/video-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/tigerlily\/images\/bg-choices.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -8120,7 +8093,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/bg-choices.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/bg.png": {
 		"fileType": 32768,
@@ -8131,7 +8104,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/bg_form.png": {
 		"fileType": 32768,
@@ -8142,7 +8115,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/bg_form.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/bg_input.png": {
 		"fileType": 32768,
@@ -8153,7 +8126,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/bg_input.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/bt_envoyer.png": {
 		"fileType": 32768,
@@ -8164,7 +8137,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/bt_envoyer.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/mobile.png": {
 		"fileType": 32768,
@@ -8175,7 +8148,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/orange.png": {
 		"fileType": 32768,
@@ -8186,7 +8159,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/orange.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/rounded.png": {
 		"fileType": 32768,
@@ -8197,7 +8170,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/rounded.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/rounded_input.png": {
 		"fileType": 32768,
@@ -8208,7 +8181,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/rounded_input.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/images\/x.png": {
 		"fileType": 32768,
@@ -8219,7 +8192,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/images\/x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/index.html": {
 		"fileType": 8192,
@@ -8281,7 +8254,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bg-choices.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/bg.png": {
 		"fileType": 32768,
@@ -8292,7 +8265,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/bg_focus_input.png": {
 		"fileType": 32768,
@@ -8303,7 +8276,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bg_focus_input.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/bg_form.png": {
 		"fileType": 32768,
@@ -8314,7 +8287,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bg_form.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/bg_input.png": {
 		"fileType": 32768,
@@ -8325,7 +8298,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bg_input.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/bt_envoyer.png": {
 		"fileType": 32768,
@@ -8336,7 +8309,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/bt_envoyer.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/mobile.png": {
 		"fileType": 32768,
@@ -8347,7 +8320,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/orange.png": {
 		"fileType": 32768,
@@ -8358,7 +8331,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/orange.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/rounded.png": {
 		"fileType": 32768,
@@ -8369,7 +8342,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/rounded.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/rounded_input.png": {
 		"fileType": 32768,
@@ -8380,7 +8353,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/rounded_input.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/images\/x.png": {
 		"fileType": 32768,
@@ -8391,7 +8364,7 @@
 		"outputAbbreviatedPath": "\/tigerlily\/mobile\/images\/x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tigerlily\/mobile\/index.html": {
 		"fileType": 8192,
