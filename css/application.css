@@ -16,6 +16,7 @@ box-shadow: 0 1px 25px #111;}
 #press {width: 100%;height: 0px;color: #999;overflow: hidden;position: relative;z-index: 3;display:inline-block;}
 #switch-navigation {display:block;width:100%;color:#555;padding:0;border-top:1px solid rgba(255,255,255,.1);height:5em;}
 
+
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;}
 a.vim, a.vims, a.tree, a.trees {background:#1b1a1a url("../images/closeopenleftright.png") no-repeat 0 0;background-size:75px 98px;height:27px;width:60px;text-indent:-4000px;display:block;margin: 0 auto;position: relative;z-index: 1;cursor:pointer;border:none;}
 
@@ -27,9 +28,9 @@ a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;}
-.inner > figure img{margin:4% 0 3.5%;padding:0;text-align:center;width:350px;}
+.inner > figure img{margin:4% 0 3.5%;padding:0;text-align:center;width:350px;height:auto;}
 .inner > figure h2{margin:0;}
-.inner > figure p {margin:2.5% 0 4%;padding:0;text-align:center;font-size: 130%;}
+.inner > figure p{margin:2.5% 0 4%;padding:0;text-align:center;font-size: 130%;}
 #nav {position: relative;background:#020109 url('../images/bg-sign.png') 0 -380px repeat-x;border-top:0.1rem dashed rgba(255,255,255,0.2);box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);bottom:0;}
 nav {border-bottom:0.1rem dashed rgba(255,255,255,0.2);background:#171020;margin:0;}
 #nav ul {list-style:none;margin:0 4% 0 4%;padding:0;text-align:center;}
@@ -72,7 +73,7 @@ body .inner > figure img {width: 80%;}
 nav li a {font-size:85%;
   }
 }
-@media only screen and (min-device-width: 320px) (max-device-width: 480px)  {
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px)  {
 header[role="banner"] {margin:0 0 10px -26px;}
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;}
 #nav {margin-left:-6.3px;}
