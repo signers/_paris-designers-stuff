@@ -1,0 +1,14 @@
+{
+  "name": "320andup",
+  "homepage": "https://github.com/malarkey/320andup",
+  "_release": "3785b42274",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3785b42274aa26bf11dbf780f9ab1570ac258a44"
+  },
+  "_source": "git://github.com/malarkey/320andup.git",
+  "_target": "*",
+  "_originalSource": "320andup",
+  "_direct": true
+}
