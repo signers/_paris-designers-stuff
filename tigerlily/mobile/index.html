@@ -1,0 +1,141 @@
+<!-- / test 3 heures STE Tigerlily pour un poste de developer Front-End/webdesigner... 2011 +++-->	
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="fr" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<title>Test Form + web mobile => candidature 2011 - Jobs…, Tigerlily </title>
+<meta name='author' content='apps' />
+<meta name='Description' content="" />
+
+<meta name="viewport" content="width=320 initial-scale=1.0; maximum-scale=1.0;"> 
+
+<link rel="stylesheet" href="master_tgly.css" type="text/css" media="all" />
+
+<!--
+<script type="text/javascript" src="http://use.typekit.com/rlj5jei.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->	
+
+  <script charset="utf-8" src="../js/jquery.min.js" type="text/javascript"></script>
+  <script charset="utf-8" src="../js/modernizr.custom.65716.js" type="text/javascript"></script>
+  <script  src="../js/jquery.validate-.js" type="text/javascript"></script>
+
+</head>
+<body>
+<div id="global">	
+<div id="content">
+
+<h1>Select the job you'd like to apply to</h1>	
+<h2>by clicking on the position of your choice</h2>	
+
+<div class="wrapper">
+<!-- / remplacer l'image sur les éléments (form) par des propriétés (CSS3) box-shadow, radius... medias queries-->	
+<div class="corner topLeft"></div>
+<div class="corner topRight"></div>
+
+<div class="choices">
+<!-- / comportement accordion et/ou tabs jquery +++-->   
+<ul class="position tabs">
+  <li class="active"><a href="#ceo"><span>CEO</span>  Intern</a></li>
+  <li><a href="#developer"><span>Awesome</span>  front-end developer</a></li>
+  <li><a href="#communication"><span>Communication</span>  strategist</a></li>
+  <li><a href="#senior"><span>Senior</span>  Marketing buzz</a></li>
+  <li><a href="#visual"><span>Visual</span> Designer</a></li>
+</ul>
+
+<!-- / remplacer l'image sur les éléments (form) par des propriétés (CSS3) box-shadow, radius... medias queries-->	
+<form id="commentForm" method="get" action="">
+<fieldset>
+<div style="display: block;" class="tab_content" id="ceo">
+	
+<div class="type_form_textarea">
+<div class="corner_form topLeft_form"></div><div class="corner_form topRight_form"></div>
+	     <label for="cname"></label>
+	     <input id="cname" name="name" size="25" class="required" minlength="2" placeholder="Name..." />
+<div class="corner_form bottomLeft_form"></div><div class="corner_form bottomRight_form"></div>
+</div>
+<div class="type_form_textarea">
+		<div class="corner_form topLeft_form"></div><div class="corner_form topRight_form"></div>
+	     <label for="cemail"></label>
+	     <input id="cemail" name="email" size="25"  class="required email" placeholder="Email..." />
+<div class="corner_form bottomLeft_form"></div><div class="corner_form bottomRight_form"></div>
+</div>
+<div class="type_form_textarea">
+		<div class="corner_form topLeft_form"></div><div class="corner_form topRight_form"></div>
+	     <label for="ccomment"></label>
+	     <textarea id="ccomment" name="comment" cols="22" rows="5"  class="required" placeholder="Message..."></textarea>
+	     <div class="corner_form bottomLeft_form"></div><div class="corner_form bottomRight_form"></div>
+</div>
+		<ul>
+		<li><a class="cancel" href="#"  onclick= "document.getElementById('commentForm').reset();">Annuler</a></li>
+		<li><button class="button" type="submit" name="login" value="Envoyer" tabindex="4">Envoyer</button></li>
+		</ul>
+	
+		</div>
+
+		<div  style="display: none;"  id="developer" class="tab_content">
+
+		<p>job => focus </p>
+
+		</div>
+
+		<div  id="communication" class="tab_content">
+
+		<p>job => focus </p>
+
+		</div>
+
+		<div style="display: none;"  id="senior" class="tab_content">
+
+		<p>job => focus </p>
+
+		</div>
+
+		<div style="display: none;"  id="visual" class="tab_content">
+
+		<p>job => focus </p>
+
+
+		
+	    </div>
+
+
+		</fieldset>
+		</form> 
+	 
+ 
+		<!-- / end -choices -->   
+		</div>
+
+		<div class="corner bottomLeft"></div>
+		<div class="corner bottomRight"></div>
+
+
+		<!-- / end -wrapper-->   
+		</div>
+		<br />
+		<!-- / end -content-->   
+		</div>
+
+		<div class="container">
+			<h2>There are serious errors in your form submission, please see below for details.</h2>
+				<ol style="list-style:none">
+					<li><label for="name"></label></li>
+				</ol>
+		</div>
+
+<!-- / contrôles coté server pour le formulaire à développer, Temps utilisé pour le test 3 heures à minima... +++-->	
+<!-- / test concluant validé par Tigerlily - www.tigerlilyapps.com - 2011 +++-->		
+	</div>
+	
+<script type="text/javascript">$(document).ready(function() {$("#commentForm").validate();});</script>		
+</body>
+</html>
+
+
+
