@@ -2,6 +2,7 @@
 
 .sp-content {float:left:3%;width: auto;margin:3% 3.2%;height: 80%;overflow: hidden;background:#020109 url('../images/retina/teasing@2x.jpg') top left no-repeat;background-size:100% 100%;box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);-moz-box-sizing:border-box;box-sizing:border-box;
 box-shadow: 1px 1px 1px #111;}
+
 .sp-slideshow input {display:none;}
 .sp-selector-1, .button-label-1 {margin-left: -36px;}
 .sp-selector-2, .button-label-2 {margin-left: -18px;}
@@ -119,8 +120,8 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 
 /* SLIDE BOTTOM
 -------------------------------------------------- */
-.section {position:absolute;white-space:nowrap;width:100%;height:100%;overflow:hidden;}
-#s-sign, #s-text, #s-liter, #s-video {position:absolute;white-space:nowrap;width:100%;height:100%;overflow:hidden;}
+section > .section{position:absolute;width:100%;height:100%;overflow:hidden;}
+#s-sign, #s-text, #s-liter, #s-video {position:absolute;width:100%;height:100%;overflow:hidden;}
 .page{position:relative;display:inline-block;vertical-align:top;width:100%;height:100%;}
 .page > .pageContent{margin:0;width:100%;height:auto;background:#fff;}
 .page > .pageContent > article{width:100%;height:100%;position:absolute;z-index:9999;}
