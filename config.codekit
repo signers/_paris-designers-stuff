@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16903",
+"creatorBuild": "17625",
 "files": {
 	"\/bankin\/bankin-demo-1\/css\/application.css": {
 		"fileType": 16,
@@ -182,7 +182,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bankin\/inc\/master_functions.js",
-		"outputAbbreviatedPath": "\/bankin\/inc\/min\/master_functions-ck.js",
+		"outputAbbreviatedPath": "\/bankin\/inc\/min\/master_functions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -193,7 +193,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bankin\/inc\/modernizr.custom.js",
-		"outputAbbreviatedPath": "\/bankin\/inc\/min\/modernizr.custom-ck.js",
+		"outputAbbreviatedPath": "\/bankin\/inc\/min\/modernizr.custom-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -271,7 +271,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/176x176.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/410x230.png": {
 		"fileType": 32768,
@@ -282,7 +282,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/410x230.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/a-rss.png": {
 		"fileType": 32768,
@@ -293,7 +293,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/a-rss.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/h\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
@@ -304,7 +304,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/h\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -315,7 +315,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/h\/splash.png": {
 		"fileType": 32768,
@@ -326,7 +326,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/h\/splash.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/l\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -337,7 +337,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/l\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -348,7 +348,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/l\/splash.png": {
 		"fileType": 32768,
@@ -359,7 +359,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/l\/splash.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/m\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -370,7 +370,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/m\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-retina.png": {
 		"fileType": 32768,
@@ -381,7 +381,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-tablet-landscape.png": {
 		"fileType": 32768,
@@ -392,7 +392,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-tablet-landscape.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup-tablet-portrait.png": {
 		"fileType": 32768,
@@ -403,7 +403,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup-tablet-portrait.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/img\/startup\/startup.png": {
 		"fileType": 32768,
@@ -414,7 +414,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/320andup\/img\/startup\/startup.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/320andup\/index.html": {
 		"fileType": 8192,
@@ -430,7 +430,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/helper.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/helper-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/helper-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -441,7 +441,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/jquery-1.7.2.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/jquery-1.7.2.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/jquery-1.7.2.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -452,7 +452,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/modernizr-2.5.3-min.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/modernizr-2.5.3-min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/modernizr-2.5.3-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -463,7 +463,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/plugins-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/plugins-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -474,7 +474,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/script.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/script-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/script-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -485,7 +485,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/320andup\/js\/selectivizr-min.js",
-		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/selectivizr-min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/320andup\/js\/min\/selectivizr-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1071,7 +1071,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_1382.sass": {
 		"createSourceMap": 1,
@@ -1087,7 +1087,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_2x.sass": {
 		"createSourceMap": 1,
@@ -1103,7 +1103,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_480.sass": {
 		"createSourceMap": 1,
@@ -1119,7 +1119,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_600.sass": {
 		"createSourceMap": 1,
@@ -1135,7 +1135,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_768.sass": {
 		"createSourceMap": 1,
@@ -1151,7 +1151,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_992.sass": {
 		"createSourceMap": 1,
@@ -1167,7 +1167,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_buttons.sass": {
 		"createSourceMap": 1,
@@ -1183,7 +1183,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_colour.sass": {
 		"createSourceMap": 1,
@@ -1199,7 +1199,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_elements.sass": {
 		"createSourceMap": 1,
@@ -1215,7 +1215,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_font-awesome.sass": {
 		"createSourceMap": 1,
@@ -1231,7 +1231,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_forms.sass": {
 		"createSourceMap": 1,
@@ -1247,7 +1247,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_mixins.sass": {
 		"createSourceMap": 1,
@@ -1263,7 +1263,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_modernizr.sass": {
 		"createSourceMap": 1,
@@ -1279,7 +1279,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_page.sass": {
 		"createSourceMap": 1,
@@ -1295,7 +1295,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_print.sass": {
 		"createSourceMap": 1,
@@ -1311,7 +1311,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_reset.sass": {
 		"createSourceMap": 1,
@@ -1327,7 +1327,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_site.sass": {
 		"createSourceMap": 1,
@@ -1343,7 +1343,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_tables.sass": {
 		"createSourceMap": 1,
@@ -1359,7 +1359,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_texture.sass": {
 		"createSourceMap": 1,
@@ -1375,7 +1375,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_typography.sass": {
 		"createSourceMap": 1,
@@ -1391,7 +1391,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/_variables.sass": {
 		"createSourceMap": 1,
@@ -1407,7 +1407,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/upstarts\/320andup-display-table\/_upstart.sass": {
 		"createSourceMap": 1,
@@ -1423,7 +1423,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/upstarts\/320andup-display-table\/index.html": {
 		"fileType": 8192,
@@ -1448,7 +1448,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/upstarts\/320andup-modules\/example.html": {
 		"fileType": 8192,
@@ -1482,7 +1482,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass-compass\/upstarts\/320andup-panels\/index.html": {
 		"fileType": 8192,
@@ -1507,7 +1507,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_1382.sass": {
 		"createSourceMap": 1,
@@ -1523,7 +1523,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_2x.sass": {
 		"createSourceMap": 1,
@@ -1539,7 +1539,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_480.sass": {
 		"createSourceMap": 1,
@@ -1555,7 +1555,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_600.sass": {
 		"createSourceMap": 1,
@@ -1571,7 +1571,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_768.sass": {
 		"createSourceMap": 1,
@@ -1587,7 +1587,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_992.sass": {
 		"createSourceMap": 1,
@@ -1603,7 +1603,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_buttons.sass": {
 		"createSourceMap": 1,
@@ -1619,7 +1619,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_colour.sass": {
 		"createSourceMap": 1,
@@ -1635,7 +1635,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_elements.sass": {
 		"createSourceMap": 1,
@@ -1651,7 +1651,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_font-awesome.sass": {
 		"createSourceMap": 1,
@@ -1667,7 +1667,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_forms.sass": {
 		"createSourceMap": 1,
@@ -1683,7 +1683,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_mixins.sass": {
 		"createSourceMap": 1,
@@ -1699,7 +1699,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_modernizr.sass": {
 		"createSourceMap": 1,
@@ -1715,7 +1715,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_page.sass": {
 		"createSourceMap": 1,
@@ -1731,7 +1731,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_print.sass": {
 		"createSourceMap": 1,
@@ -1747,7 +1747,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_reset.sass": {
 		"createSourceMap": 1,
@@ -1763,7 +1763,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_site.sass": {
 		"createSourceMap": 1,
@@ -1779,7 +1779,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_tables.sass": {
 		"createSourceMap": 1,
@@ -1795,7 +1795,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_texture.sass": {
 		"createSourceMap": 1,
@@ -1811,7 +1811,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_typography.sass": {
 		"createSourceMap": 1,
@@ -1827,7 +1827,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/_variables.sass": {
 		"createSourceMap": 1,
@@ -1843,7 +1843,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/upstarts\/320andup-display-table\/_upstart.sass": {
 		"createSourceMap": 1,
@@ -1859,7 +1859,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/upstarts\/320andup-display-table\/index.html": {
 		"fileType": 8192,
@@ -1884,7 +1884,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/upstarts\/320andup-modules\/example.html": {
 		"fileType": 8192,
@@ -1918,7 +1918,7 @@
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": false
 		},
 	"\/bower_components\/320andup\/sass\/upstarts\/320andup-panels\/index.html": {
 		"fileType": 8192,
@@ -3066,45 +3066,45 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 194913,
+		"initialSize": 36729,
 		"inputAbbreviatedPath": "\/bower_components\/960-grid-system\/logo_files\/960_logo.png",
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/logo_files\/960_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_12_col.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 55928,
+		"initialSize": 17497,
 		"inputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_12_col.png",
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_12_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_16_col.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 59068,
+		"initialSize": 17499,
 		"inputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_16_col.png",
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_16_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_24_col.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 58770,
+		"initialSize": 17465,
 		"inputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_24_col.png",
 		"outputAbbreviatedPath": "\/bower_components\/960-grid-system\/templates\/fireworks\/960_grid_24_col.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/animate.css\/animate.css": {
 		"fileType": 16,
@@ -3129,7 +3129,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/animate.css\/Gruntfile.js",
-		"outputAbbreviatedPath": "\/bower_components\/animate.css\/min\/Gruntfile-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/animate.css\/min\/Gruntfile-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3773,7 +3773,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/min\/bootstrap-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/min\/bootstrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3784,7 +3784,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/min\/bootstrap.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/dist\/js\/min\/bootstrap.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3795,7 +3795,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/bs-glyphicons-data-generator.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-glyphicons-data-generator-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-glyphicons-data-generator-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3806,7 +3806,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/bs-lessdoc-parser.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-lessdoc-parser-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-lessdoc-parser-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3817,7 +3817,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/bs-raw-files-generator.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-raw-files-generator-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/bs-raw-files-generator-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3828,7 +3828,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/shrinkwrap.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/shrinkwrap-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/grunt\/min\/shrinkwrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3839,7 +3839,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/Gruntfile.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/min\/Gruntfile-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/min\/Gruntfile-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3850,7 +3850,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/affix.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/affix-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/affix-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3861,7 +3861,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/alert.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/alert-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/alert-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3872,7 +3872,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/button.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/button-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/button-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3883,7 +3883,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/carousel.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/carousel-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/carousel-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3894,7 +3894,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/collapse.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/collapse-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/collapse-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3905,7 +3905,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/dropdown.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/dropdown-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3916,7 +3916,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/modal.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/modal-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/modal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3927,7 +3927,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/popover.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/popover-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/popover-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3938,7 +3938,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/scrollspy.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/scrollspy-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/scrollspy-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3949,7 +3949,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/tab.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/tab-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/tab-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3960,7 +3960,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/tooltip.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/tooltip-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/tooltip-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3971,7 +3971,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/transition.js",
-		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/transition-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/bootstrap\/js\/min\/transition-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4985,7 +4985,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/main.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/min\/main-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/min\/main-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4996,7 +4996,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/min\/plugins-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/min\/plugins-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5007,7 +5007,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/jquery-1.10.2.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/min\/jquery-1.10.2.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/min\/jquery-1.10.2.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5018,7 +5018,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/modernizr-2.6.2.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/min\/modernizr-2.6.2.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5-boilerplate\/js\/vendor\/min\/modernizr-2.6.2.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5053,7 +5053,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5064,7 +5064,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5075,7 +5075,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/ajax-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/ajax-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5086,7 +5086,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/jsonp.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/jsonp-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/jsonp-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5097,7 +5097,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/load.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/load-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/load-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5108,7 +5108,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/parseJSON.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseJSON-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseJSON-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5119,7 +5119,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/parseXML.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseXML-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseXML-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5130,7 +5130,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/script.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/script-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/script-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5141,7 +5141,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/nonce.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/nonce-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/nonce-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5152,7 +5152,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/rquery.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/rquery-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/rquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5163,7 +5163,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/xhr.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/xhr-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/xhr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5174,7 +5174,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/attributes-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/attributes-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5185,7 +5185,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/attr.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/attr-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/attr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5196,7 +5196,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/classes.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/classes-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/classes-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5207,7 +5207,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/prop.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/prop-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/prop-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5218,7 +5218,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/support.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/support-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/support-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5229,7 +5229,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/val.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/val-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/val-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5240,7 +5240,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/callbacks.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/callbacks-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/callbacks-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5251,7 +5251,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/core-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/core-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5262,7 +5262,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/access.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/access-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/access-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5273,7 +5273,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/init.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/init-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/init-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5284,7 +5284,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/parseHTML.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/parseHTML-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/parseHTML-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5295,7 +5295,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/ready.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/ready-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/ready-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5306,7 +5306,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/var\/min\/rsingleTag-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/var\/min\/rsingleTag-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5317,7 +5317,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/css-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/css-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5328,7 +5328,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/addGetHookIf.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/addGetHookIf-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/addGetHookIf-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5339,7 +5339,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/curCSS.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/curCSS-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/curCSS-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5350,7 +5350,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/defaultDisplay.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/defaultDisplay-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/defaultDisplay-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5361,7 +5361,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/hiddenVisibleSelectors-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/hiddenVisibleSelectors-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5372,7 +5372,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/support.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/support-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/support-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5383,7 +5383,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/swap.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/swap-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/swap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5394,7 +5394,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/cssExpand.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/cssExpand-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/cssExpand-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5405,7 +5405,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/getStyles.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/getStyles-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/getStyles-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5416,7 +5416,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/isHidden.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/isHidden-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/isHidden-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5427,7 +5427,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rmargin-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rmargin-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5438,7 +5438,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rnumnonpx-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rnumnonpx-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5449,7 +5449,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/data-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/data-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5460,7 +5460,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/accepts.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/accepts-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/accepts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5471,7 +5471,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/Data.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/Data-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/Data-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5482,7 +5482,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/data_priv.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_priv-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_priv-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5493,7 +5493,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/data_user.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_user-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_user-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5504,7 +5504,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/deferred.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deferred-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deferred-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5515,7 +5515,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/deprecated.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deprecated-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deprecated-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5526,7 +5526,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/dimensions.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/dimensions-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/dimensions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5537,7 +5537,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/effects-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/effects-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5548,7 +5548,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/animatedSelector.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/animatedSelector-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/animatedSelector-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5559,7 +5559,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/Tween.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/Tween-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/Tween-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5570,7 +5570,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/event-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/event-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5581,7 +5581,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/alias.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/alias-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/alias-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5592,7 +5592,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/support.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/support-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/support-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5603,7 +5603,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/amd.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/amd-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/amd-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5614,7 +5614,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/global.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/global-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/global-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5625,7 +5625,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/intro.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/intro-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/intro-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5636,7 +5636,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/jquery.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/jquery-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/jquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5647,7 +5647,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/manipulation-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/manipulation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5658,7 +5658,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/_evalUrl-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/_evalUrl-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5669,7 +5669,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/support.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/support-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/support-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5680,7 +5680,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/var\/min\/rcheckableType-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/var\/min\/rcheckableType-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5691,7 +5691,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/offset.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/offset-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/offset-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5702,7 +5702,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/outro.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/outro-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/outro-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5713,7 +5713,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/queue-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/queue-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5724,7 +5724,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue\/delay.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue\/min\/delay-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue\/min\/delay-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5735,7 +5735,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector-native.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-native-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-native-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5746,7 +5746,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector-sizzle.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-sizzle-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-sizzle-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5757,7 +5757,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5768,7 +5768,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/serialize.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/serialize-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/serialize-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5779,7 +5779,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5790,7 +5790,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5801,7 +5801,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/traversing-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/traversing-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5812,7 +5812,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/findFilter.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/min\/findFilter-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/min\/findFilter-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5823,7 +5823,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/var\/min\/rneedsContext-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/var\/min\/rneedsContext-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5834,7 +5834,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/arr.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/arr-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/arr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5845,7 +5845,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/class2type.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/class2type-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/class2type-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5856,7 +5856,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/concat.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/concat-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/concat-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5867,7 +5867,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/hasOwn.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/hasOwn-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/hasOwn-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5878,7 +5878,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/indexOf.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/indexOf-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/indexOf-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5889,7 +5889,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/pnum.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/pnum-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/pnum-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5900,7 +5900,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/push.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/push-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/push-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5911,7 +5911,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/rnotwhite.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/rnotwhite-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/rnotwhite-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5922,7 +5922,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/slice.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/slice-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/slice-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5933,7 +5933,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/strundefined.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/strundefined-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/strundefined-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5944,7 +5944,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/support.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/support-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/support-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5955,7 +5955,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/toString.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/toString-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/toString-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5966,7 +5966,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/wrap.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/wrap-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/wrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6292,7 +6292,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/semantic-grid\/js\/less-1.1.3.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/semantic-grid\/js\/min\/less-1.1.3.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/semantic-grid\/js\/min\/less-1.1.3.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6312,7 +6312,7 @@
 		},
 	"\/bower_components\/semantic-grid\/stylesheets\/demo.css": {
 		"fileType": 16,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/semantic-grid\/stylesheets\/demo.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -6341,7 +6341,7 @@
 		},
 	"\/bower_components\/semantic-grid\/stylesheets\/reset.css": {
 		"fileType": 16,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/semantic-grid\/stylesheets\/reset.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -6384,7 +6384,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/a-download.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/a-download-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/a-download-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6395,7 +6395,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/audio-audiodata-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/audio-audiodata-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/audio-audiodata-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6406,7 +6406,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/audio-webaudio-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/audio-webaudio-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/audio-webaudio-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6417,7 +6417,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/battery-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/battery-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/battery-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6428,7 +6428,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/battery-level.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/battery-level-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/battery-level-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6439,7 +6439,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/blob-constructor.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/blob-constructor-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/blob-constructor-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6450,7 +6450,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/canvas-todataurl-type.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/canvas-todataurl-type-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/canvas-todataurl-type-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6461,7 +6461,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/contenteditable.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contenteditable-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contenteditable-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6472,7 +6472,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/contentsecuritypolicy.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contentsecuritypolicy-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contentsecuritypolicy-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6483,7 +6483,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/contextmenu.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contextmenu-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/contextmenu-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6494,7 +6494,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/cookies.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/cookies-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/cookies-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6505,7 +6505,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/cors.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/cors-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/cors-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6516,7 +6516,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-backgroundposition-shorthand.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundposition-shorthand-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundposition-shorthand-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6527,7 +6527,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-backgroundposition-xy.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundposition-xy-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundposition-xy-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6538,7 +6538,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-backgroundrepeat.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundrepeat-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundrepeat-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6549,7 +6549,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-backgroundsizecover.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundsizecover-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-backgroundsizecover-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6560,7 +6560,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-boxsizing.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-boxsizing-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-boxsizing-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6571,7 +6571,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-calc.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-calc-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-calc-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6582,7 +6582,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-cubicbezierrange.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-cubicbezierrange-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-cubicbezierrange-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6593,7 +6593,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-displayrunin.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-displayrunin-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-displayrunin-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6604,7 +6604,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-displaytable.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-displaytable-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-displaytable-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6615,7 +6615,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-filters.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-filters-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-filters-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6626,7 +6626,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-hyphens.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-hyphens-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-hyphens-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6637,7 +6637,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-lastchild.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-lastchild-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-lastchild-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6648,7 +6648,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-mask.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-mask-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-mask-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6659,7 +6659,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-mediaqueries.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-mediaqueries-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-mediaqueries-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6670,7 +6670,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-objectfit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-objectfit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-objectfit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6681,7 +6681,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-overflow-scrolling.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-overflow-scrolling-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-overflow-scrolling-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6692,7 +6692,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-pointerevents.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-pointerevents-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-pointerevents-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6703,7 +6703,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-positionsticky.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-positionsticky-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-positionsticky-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6714,7 +6714,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-regions.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-regions-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-regions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6725,7 +6725,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-remunit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-remunit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-remunit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6736,7 +6736,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-resize.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-resize-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-resize-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6747,7 +6747,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-scrollbars.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-scrollbars-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-scrollbars-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6758,7 +6758,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-subpixelfont.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-subpixelfont-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-subpixelfont-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6769,7 +6769,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-supports.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-supports-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-supports-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6780,7 +6780,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-userselect.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-userselect-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-userselect-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6791,7 +6791,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-vhunit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vhunit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vhunit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6802,7 +6802,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-vmaxunit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vmaxunit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vmaxunit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6813,7 +6813,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-vminunit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vminunit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vminunit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6824,7 +6824,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/css-vwunit.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vwunit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/css-vwunit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6835,7 +6835,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/custom-protocol-handler.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/custom-protocol-handler-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/custom-protocol-handler-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6846,7 +6846,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dart.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dart-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dart-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6857,7 +6857,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dataview-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dataview-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dataview-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6868,7 +6868,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dom-classlist.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-classlist-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-classlist-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6879,7 +6879,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dom-createElement-attrs.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-createElement-attrs-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-createElement-attrs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6890,7 +6890,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dom-dataset.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-dataset-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-dataset-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6901,7 +6901,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/dom-microdata.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-microdata-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/dom-microdata-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6912,7 +6912,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-datalist.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-datalist-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-datalist-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6923,7 +6923,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-details.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-details-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-details-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6934,7 +6934,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-output.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-output-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-output-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6945,7 +6945,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-progress-meter.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-progress-meter-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-progress-meter-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6956,7 +6956,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-ruby.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-ruby-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-ruby-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6967,7 +6967,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-time.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-time-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-time-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6978,7 +6978,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/elem-track.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-track-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/elem-track-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6989,7 +6989,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/emoji.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/emoji-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/emoji-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7000,7 +7000,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/es5-strictmode.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/es5-strictmode-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/es5-strictmode-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7011,7 +7011,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/event-deviceorientation-motion.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/event-deviceorientation-motion-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/event-deviceorientation-motion-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7022,7 +7022,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/exif-orientation.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/exif-orientation-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/exif-orientation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7033,7 +7033,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/file-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/file-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/file-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7044,7 +7044,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/file-filesystem.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/file-filesystem-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/file-filesystem-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7055,7 +7055,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-fileinput.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-fileinput-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-fileinput-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7066,7 +7066,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-formattribute.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-formattribute-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-formattribute-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7077,7 +7077,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-inputnumber-l10n.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-inputnumber-l10n-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-inputnumber-l10n-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7088,7 +7088,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-placeholder.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-placeholder-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-placeholder-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7099,7 +7099,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-speechinput.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-speechinput-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-speechinput-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7110,7 +7110,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/forms-validation.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-validation-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/forms-validation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7121,7 +7121,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/fullscreen-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/fullscreen-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/fullscreen-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7132,7 +7132,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/gamepad.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/gamepad-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/gamepad-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7143,7 +7143,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/getusermedia.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/getusermedia-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/getusermedia-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7154,7 +7154,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/ie8compat.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/ie8compat-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/ie8compat-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7165,7 +7165,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/iframe-sandbox.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-sandbox-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-sandbox-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7176,7 +7176,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/iframe-seamless.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-seamless-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-seamless-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7187,7 +7187,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/iframe-srcdoc.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-srcdoc-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/iframe-srcdoc-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7198,7 +7198,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/img-apng.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/img-apng-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/img-apng-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7209,7 +7209,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/img-webp.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/img-webp-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/img-webp-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7220,7 +7220,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/json.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/json-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/json-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7231,7 +7231,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/lists-reversed.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/lists-reversed-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/lists-reversed-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7242,7 +7242,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/mathml.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/mathml-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/mathml-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7253,7 +7253,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/modernizr.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/modernizr-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/modernizr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7264,7 +7264,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/network-connection.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-connection-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-connection-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7275,7 +7275,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/network-eventsource.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-eventsource-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-eventsource-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7286,7 +7286,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/network-xhr2.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-xhr2-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/network-xhr2-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7297,7 +7297,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/notification.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/notification-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/notification-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7308,7 +7308,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/performance.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/performance-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/performance-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7319,7 +7319,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/pointerlock-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/pointerlock-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/pointerlock-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7330,7 +7330,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/quota-management-api.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/quota-management-api-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/quota-management-api-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7341,7 +7341,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/requestanimationframe.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/requestanimationframe-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/requestanimationframe-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7352,7 +7352,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/script-async.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/script-async-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/script-async-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7363,7 +7363,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/script-defer.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/script-defer-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/script-defer-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7374,7 +7374,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/style-scoped.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/style-scoped-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/style-scoped-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7385,7 +7385,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/svg-filters.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/svg-filters-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/svg-filters-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7396,7 +7396,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/unicode.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/unicode-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/unicode-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7407,7 +7407,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/url-data-uri.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/url-data-uri-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/url-data-uri-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7418,7 +7418,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/userdata.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/userdata-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/userdata-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7429,7 +7429,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/vibration.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/vibration-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/vibration-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7440,7 +7440,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/web-intents.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/web-intents-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/web-intents-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7451,7 +7451,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/webgl-extensions.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/webgl-extensions-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/webgl-extensions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7462,7 +7462,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/websockets-binary.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/websockets-binary-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/websockets-binary-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7473,7 +7473,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/window-framed.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/window-framed-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/window-framed-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7484,7 +7484,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/workers-blobworkers.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-blobworkers-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-blobworkers-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7495,7 +7495,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/workers-dataworkers.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-dataworkers-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-dataworkers-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7506,7 +7506,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/workers-sharedworkers.js",
-		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-sharedworkers-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/sprockets-modernizr\/min\/workers-sharedworkers-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7539,29 +7539,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/ie.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/ie.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/master_eponyme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/master_eponyme.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/print.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/print.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7572,7 +7554,7 @@
 		"decimalPrecision": 15,
 		"fileType": 4,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/sass\/ie.scss",
 		"outputAbbreviatedPath": "\/css\/ie.css",
 		"outputPathIsOutsideProject": 0,
@@ -7604,7 +7586,7 @@
 		"decimalPrecision": 15,
 		"fileType": 4,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/sass\/screen.scss",
 		"outputAbbreviatedPath": "\/css\/screen.css",
 		"outputPathIsOutsideProject": 0,
@@ -7613,15 +7595,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
-		},
-	"\/css\/screen.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/screen.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/css\/strip.css": {
 		"fileType": 16,
@@ -7659,7 +7632,7 @@
 		"outputAbbreviatedPath": "\/ico\/129x129.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/512.png": {
 		"fileType": 32768,
@@ -7670,18 +7643,18 @@
 		"outputAbbreviatedPath": "\/ico\/512.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/app-touch-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10818,
+		"initialSize": 10785,
 		"inputAbbreviatedPath": "\/ico\/app-touch-icon.png",
 		"outputAbbreviatedPath": "\/ico\/app-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/apple-touch-icon-ipad-retina.png": {
 		"fileType": 32768,
@@ -7692,172 +7665,172 @@
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-ipad-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/apple-touch-icon-ipad.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8338,
+		"initialSize": 8060,
 		"inputAbbreviatedPath": "\/ico\/apple-touch-icon-ipad.png",
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-ipad.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/apple-touch-icon-iphone-retina.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17034,
+		"initialSize": 16789,
 		"inputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone-retina.png",
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone-retina.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/ico\/apple-touch-icon-iphone.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3962,
+		"initialSize": 3958,
 		"inputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone.png",
 		"outputAbbreviatedPath": "\/ico\/apple-touch-icon-iphone.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/arrows.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4546,
+		"initialSize": 3470,
 		"inputAbbreviatedPath": "\/images\/arrows.png",
 		"outputAbbreviatedPath": "\/images\/arrows.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/bg-bottom-chain.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5684,
+		"initialSize": 5682,
 		"inputAbbreviatedPath": "\/images\/bg-bottom-chain.png",
 		"outputAbbreviatedPath": "\/images\/bg-bottom-chain.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/bg-sign.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6483,
+		"initialSize": 6452,
 		"inputAbbreviatedPath": "\/images\/bg-sign.png",
 		"outputAbbreviatedPath": "\/images\/bg-sign.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/bg-under-video.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 992,
+		"initialSize": 974,
 		"inputAbbreviatedPath": "\/images\/bg-under-video.png",
 		"outputAbbreviatedPath": "\/images\/bg-under-video.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/close.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 406,
+		"initialSize": 331,
 		"inputAbbreviatedPath": "\/images\/close.png",
 		"outputAbbreviatedPath": "\/images\/close.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/closeopenleftright.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2430,
+		"initialSize": 2117,
 		"inputAbbreviatedPath": "\/images\/closeopenleftright.png",
 		"outputAbbreviatedPath": "\/images\/closeopenleftright.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/motif.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76589,
+		"initialSize": 76147,
 		"inputAbbreviatedPath": "\/images\/motif.png",
 		"outputAbbreviatedPath": "\/images\/motif.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/arrows@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4477,
+		"initialSize": 3430,
 		"inputAbbreviatedPath": "\/images\/retina\/arrows@2x.png",
 		"outputAbbreviatedPath": "\/images\/retina\/arrows@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/bg-bottom-chain@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 24496,
+		"initialSize": 24394,
 		"inputAbbreviatedPath": "\/images\/retina\/bg-bottom-chain@2x.png",
 		"outputAbbreviatedPath": "\/images\/retina\/bg-bottom-chain@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/bg-sign@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 34465,
+		"initialSize": 34437,
 		"inputAbbreviatedPath": "\/images\/retina\/bg-sign@2x.png",
 		"outputAbbreviatedPath": "\/images\/retina\/bg-sign@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/bg-under-video@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2344,
+		"initialSize": 2309,
 		"inputAbbreviatedPath": "\/images\/retina\/bg-under-video@2x.png",
 		"outputAbbreviatedPath": "\/images\/retina\/bg-under-video@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/signature@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17697,
+		"initialSize": 13964,
 		"inputAbbreviatedPath": "\/images\/retina\/signature@2x.png",
 		"outputAbbreviatedPath": "\/images\/retina\/signature@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/retina\/teasing@2x.jpg": {
 		"fileType": 16384,
@@ -7868,29 +7841,29 @@
 		"outputAbbreviatedPath": "\/images\/retina\/teasing@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/signature.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8392,
+		"initialSize": 6888,
 		"inputAbbreviatedPath": "\/images\/signature.png",
 		"outputAbbreviatedPath": "\/images\/signature.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/sr.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1444,
+		"initialSize": 1388,
 		"inputAbbreviatedPath": "\/images\/sr.png",
 		"outputAbbreviatedPath": "\/images\/sr.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/teasing.jpg": {
 		"fileType": 16384,
@@ -7901,18 +7874,18 @@
 		"outputAbbreviatedPath": "\/images\/teasing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/video-js.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7970,
+		"initialSize": 6648,
 		"inputAbbreviatedPath": "\/images\/video-js.png",
 		"outputAbbreviatedPath": "\/images\/video-js.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -7937,7 +7910,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/media\/master_functions.js",
-		"outputAbbreviatedPath": "\/media\/min\/master_functions-ck.js",
+		"outputAbbreviatedPath": "\/media\/min\/master_functions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7948,7 +7921,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/media\/modernizr.custom.js",
-		"outputAbbreviatedPath": "\/media\/min\/modernizr.custom-ck.js",
+		"outputAbbreviatedPath": "\/media\/min\/modernizr.custom-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8000,7 +7973,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/css3-mediaqueries.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/css3-mediaqueries-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/css3-mediaqueries-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8011,7 +7984,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/jquery.fittext.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/jquery.fittext-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.fittext-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8022,7 +7995,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/jquery.mb.CSSAnimate.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.CSSAnimate-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8033,7 +8006,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/jquery.mb.momentumSlide.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.momentumSlide-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.mb.momentumSlide-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8044,7 +8017,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/jquery.touchwipe.min.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/jquery.touchwipe.min-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/jquery.touchwipe.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8055,7 +8028,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/master_functions.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/master_functions-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/master_functions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8063,10 +8036,10 @@
 		},
 	"\/scripts\/min\/modernizr.custom-ck.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/min\/modernizr.custom-ck.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/min\/modernizr.custom-ck-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/min\/modernizr.custom-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8077,7 +8050,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/modernizr.custom.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/modernizr.custom-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/modernizr.custom-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8088,7 +8061,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/prefixfree.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/prefixfree-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/prefixfree-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8099,7 +8072,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/retina.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/retina-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/retina-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8110,7 +8083,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/screenfull.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/screenfull-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/screenfull-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8121,7 +8094,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/video.js",
-		"outputAbbreviatedPath": "\/scripts\/min\/video-ck.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/video-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -8130,7 +8103,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "signer",
+"lastSavedByUser": "Laurent Leveau",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -8146,6 +8119,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -8196,12 +8171,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
+		"no_backticks": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"no_backticks": {
+		"no_debugger": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -8213,6 +8192,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -8240,6 +8223,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"non_empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
@@ -8255,6 +8246,8 @@
 	"externalServerAddress": "http:\/\/localhost",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -8266,19 +8259,22 @@
 	"hamlUseCDATA": 1,
 	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 1,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
-	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -8355,10 +8351,6 @@
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"gcl": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -8474,10 +8466,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -8514,10 +8502,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -8530,10 +8514,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -8544,10 +8524,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -8673,11 +8649,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -8690,6 +8670,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -8698,6 +8680,8 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 1,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -8710,6 +8694,8 @@
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -8718,6 +8704,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -8726,6 +8714,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",
