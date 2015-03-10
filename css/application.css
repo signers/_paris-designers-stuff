@@ -86,7 +86,7 @@ header[role="banner"] {margin:0 0 10px -26px;}
 #switch-navigation {height:2em;}
 .sp-content {background-size:2000px 450px;} 
 body .inner > figure img {width: 90%;}
-body .inner > figure p {margin:0 35px 0 35px;font-size:90%;  line-height:1.9em;         
+body .inner > figure p {margin:0 1.8em 0 1.8em;font-size:90%;  line-height:1.8em;         
   }
 }
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
