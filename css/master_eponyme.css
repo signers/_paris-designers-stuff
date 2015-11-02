@@ -4,6 +4,7 @@
 @import url("box.css");
 @import url("application.css");
 @import url("video-js.css");
+@import url("device.css");
 }
 
 html, body, button {
