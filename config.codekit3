@@ -1,14 +1,87 @@
 {
 "AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
 "buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
+		}
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
+		"oF": 0
+		},
+	"\/bower_components\/jquery2\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery2\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/.gitignore",
+		"oF": 0
+		},
+	"\/bower_components\/jquery2\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery2\/component.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/component.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery2\/composer.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/composer.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/bower_components\/jquery2\/jquery-migrate.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery2\/jquery-migrate.js",
+		"oAP": "\/build\/bower_components\/jquery2\/jquery-migrate.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -17,7 +90,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery2\/jquery-migrate.min.js",
+		"oAP": "\/build\/bower_components\/jquery2\/jquery-migrate.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -26,7 +99,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery2\/jquery.js",
+		"oAP": "\/build\/bower_components\/jquery2\/jquery.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -35,18 +108,56 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery2\/jquery.min.js",
+		"oAP": "\/build\/bower_components\/jquery2\/jquery.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/bower_components\/jquery2\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery2\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery2\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
+	"\/config.rb": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/config.rb",
+		"oF": 0
 		},
 	"\/css\/ie.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/ie-min.css",
+		"oA": 0,
+		"oAP": "\/build\/css\/ie-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -56,7 +167,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/master_eponyme-min.css",
+		"oAP": "\/build\/css\/master_eponyme-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -65,8 +176,8 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/print-min.css",
+		"oA": 0,
+		"oAP": "\/build\/css\/print-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -114,8 +225,8 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/screen-min.css",
+		"oA": 0,
+		"oAP": "\/build\/css\/screen-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -125,7 +236,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/typography-min.css",
+		"oAP": "\/build\/css\/typography-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -135,7 +246,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/video-js-min.css",
+		"oAP": "\/build\/css\/video-js-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -145,7 +256,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/Flexbox\/css\/flexboxgrid-min.css",
+		"oAP": "\/build\/Flexbox\/css\/flexboxgrid-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -155,18 +266,644 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/Flexbox\/css\/style-min.css",
+		"oAP": "\/build\/Flexbox\/css\/style-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/Flexbox\/Flexbox.textClipping": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/Flexbox\/Flexbox.textClipping",
+		"oF": 0
+		},
+	"\/Flexbox\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/Flexbox\/index.html",
+		"oF": 0
 		},
 	"\/Flexbox\/js\/index.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/Flexbox\/js\/min\/index-min.js",
+		"oAP": "\/build\/Flexbox\/js\/min\/index-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/ico\/129x129.png": {
+		"ft": 32768,
+		"iS": 19949,
+		"oA": 0,
+		"oAP": "\/build\/ico\/129x129.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/512.png": {
+		"ft": 32768,
+		"iS": 215633,
+		"oA": 0,
+		"oAP": "\/build\/ico\/512.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/app-touch-icon.png": {
+		"ft": 32768,
+		"iS": 10785,
+		"oA": 0,
+		"oAP": "\/build\/ico\/app-touch-icon.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/apple-touch-icon-ipad-retina.png": {
+		"ft": 32768,
+		"iS": 22576,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-touch-icon-ipad-retina.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/apple-touch-icon-ipad.png": {
+		"ft": 32768,
+		"iS": 8060,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-touch-icon-ipad.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/apple-touch-icon-iphone-retina.png": {
+		"ft": 32768,
+		"iS": 16789,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-touch-icon-iphone-retina.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/apple-touch-icon-iphone.png": {
+		"ft": 32768,
+		"iS": 3958,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-touch-icon-iphone.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/ico\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/ico\/favicon.ico",
+		"oF": 0
+		},
+	"\/images\/arrows.png": {
+		"ft": 32768,
+		"iS": 3470,
+		"oA": 0,
+		"oAP": "\/build\/images\/arrows.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/bg-bottom-chain.png": {
+		"ft": 32768,
+		"iS": 5682,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-bottom-chain.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/bg-sign.png": {
+		"ft": 32768,
+		"iS": 6452,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-sign.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/bg-under-video.png": {
+		"ft": 32768,
+		"iS": 974,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-under-video.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/close.png": {
+		"ft": 32768,
+		"iS": 331,
+		"oA": 0,
+		"oAP": "\/build\/images\/close.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/closeopenleftright.png": {
+		"ft": 32768,
+		"iS": 2117,
+		"oA": 0,
+		"oAP": "\/build\/images\/closeopenleftright.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/Fast.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/images\/Fast.mp3",
+		"oF": 0
+		},
+	"\/images\/motif.png": {
+		"ft": 32768,
+		"iS": 76147,
+		"oA": 0,
+		"oAP": "\/build\/images\/motif.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/arrows@2x.png": {
+		"ft": 32768,
+		"iS": 3430,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/arrows@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/bg-bottom-chain@2x.png": {
+		"ft": 32768,
+		"iS": 24394,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/bg-bottom-chain@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/bg-sign@2x.png": {
+		"ft": 32768,
+		"iS": 34437,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/bg-sign@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/bg-under-video@2x.png": {
+		"ft": 32768,
+		"iS": 2309,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/bg-under-video@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/signature@2x.png": {
+		"ft": 32768,
+		"iS": 13964,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/signature@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/retina\/teasing@2x.jpg": {
+		"ft": 16384,
+		"iS": 369181,
+		"oA": 0,
+		"oAP": "\/build\/images\/retina\/teasing@2x.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/signature.png": {
+		"ft": 32768,
+		"iS": 6888,
+		"oA": 0,
+		"oAP": "\/build\/images\/signature.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/spinner.gif": {
+		"ft": 4194304,
+		"iS": 2209,
+		"oA": 0,
+		"oAP": "\/build\/images\/spinner.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/sr.png": {
+		"ft": 32768,
+		"iS": 1388,
+		"oA": 0,
+		"oAP": "\/build\/images\/sr.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/teasing.jpg": {
+		"ft": 16384,
+		"iS": 259593,
+		"oA": 0,
+		"oAP": "\/build\/images\/teasing.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/video-js.png": {
+		"ft": 32768,
+		"iS": 6648,
+		"oA": 0,
+		"oAP": "\/build\/images\/video-js.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/writings.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/writings.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/index.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/.gitignore",
+		"oF": 0
+		},
+	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc",
+		"oF": 0
+		},
+	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc",
+		"oF": 0
+		},
+	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
+		"oF": 0
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/.gitignore",
+		"oF": 0
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/component.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/component.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/composer.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/composer.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/LLE\/build\/bower_components\/jquery2\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/LLE\/build\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/build\/.gitignore",
+		"oF": 0
+		},
+	"\/LLE\/build\/Flexbox\/Flexbox.textClipping": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/Flexbox\/Flexbox.textClipping",
+		"oF": 0
+		},
+	"\/LLE\/build\/Flexbox\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/Flexbox\/index.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/ico\/129x129.png": {
+		"ft": 32768,
+		"iS": 19949,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/129x129.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/512.png": {
+		"ft": 32768,
+		"iS": 215633,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/512.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/app-touch-icon.png": {
+		"ft": 32768,
+		"iS": 10785,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/app-touch-icon.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/apple-touch-icon-ipad-retina.png": {
+		"ft": 32768,
+		"iS": 22576,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-ipad-retina.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/apple-touch-icon-ipad.png": {
+		"ft": 32768,
+		"iS": 8060,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-ipad.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/apple-touch-icon-iphone-retina.png": {
+		"ft": 32768,
+		"iS": 16789,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-iphone-retina.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/apple-touch-icon-iphone.png": {
+		"ft": 32768,
+		"iS": 3958,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-iphone.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/ico\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/ico\/favicon.ico",
+		"oF": 0
+		},
+	"\/LLE\/build\/images\/arrows.png": {
+		"ft": 32768,
+		"iS": 3470,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/arrows.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/bg-sign.png": {
+		"ft": 32768,
+		"iS": 6452,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/bg-sign.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/bg-under-video.png": {
+		"ft": 32768,
+		"iS": 974,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/bg-under-video.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/close.png": {
+		"ft": 32768,
+		"iS": 331,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/close.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/closeopenleftright.png": {
+		"ft": 32768,
+		"iS": 2117,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/closeopenleftright.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/Fast.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/images\/Fast.mp3",
+		"oF": 0
+		},
+	"\/LLE\/build\/images\/motif.png": {
+		"ft": 32768,
+		"iS": 76147,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/motif.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/retina\/arrows@2x.png": {
+		"ft": 32768,
+		"iS": 3430,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/retina\/arrows@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/retina\/bg-bottom-chain@2x.png": {
+		"ft": 32768,
+		"iS": 24394,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-bottom-chain@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/retina\/bg-sign@2x.png": {
+		"ft": 32768,
+		"iS": 34437,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-sign@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/retina\/bg-under-video@2x.png": {
+		"ft": 32768,
+		"iS": 2309,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-under-video@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/retina\/signature@2x.png": {
+		"ft": 32768,
+		"iS": 13964,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/retina\/signature@2x.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/signature.png": {
+		"ft": 32768,
+		"iS": 6888,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/signature.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/spinner.gif": {
+		"ft": 4194304,
+		"iS": 2209,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/spinner.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/sr.png": {
+		"ft": 32768,
+		"iS": 1388,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/sr.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/video-js.png": {
+		"ft": 32768,
+		"iS": 6648,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/images\/video-js.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/images\/writings.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/images\/writings.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/LLE\/build\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/index.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/media\/wheel.png": {
+		"ft": 32768,
+		"iS": 324546,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/build\/media\/wheel.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/LLE\/build\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/base\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/base\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/components\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/components\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/layout\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/layout\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/pages\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/pages\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/themes\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/themes\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/utils\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/utils\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/build\/stylesheets\/vendor\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/build\/stylesheets\/vendor\/README.html",
+		"oF": 0
+		},
+	"\/LLE\/images\/retina\/teasing@2x.jpg": {
+		"ft": 16384,
+		"iS": 369177,
+		"oA": 0,
+		"oAP": "\/build\/LLE\/images\/retina\/teasing@2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/LLE\/stylesheets\/pages\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/LLE\/stylesheets\/pages\/README.html",
+		"oF": 0
 		},
 	"\/media\/d.css": {
 		"aP": 1,
@@ -174,7 +911,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/media\/d-min.css",
+		"oAP": "\/build\/media\/d-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -182,7 +919,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/media\/min\/master_functions-min.js",
+		"oAP": "\/build\/media\/min\/master_functions-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -191,7 +928,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/media\/min\/modernizr.custom-min.js",
+		"oAP": "\/build\/media\/min\/modernizr.custom-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -202,15 +939,47 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/media\/screen-min.css",
+		"oAP": "\/build\/media\/screen-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/media\/wheel.png": {
+		"ft": 32768,
+		"iS": 325202,
+		"oA": 0,
+		"oAP": "\/build\/media\/wheel.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/README.html",
+		"oF": 0
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/scripts\/css3-mediaqueries.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/css3-mediaqueries-min.js",
+		"oAP": "\/build\/scripts\/min\/css3-mediaqueries-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -219,7 +988,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/device-min.js",
+		"oAP": "\/build\/scripts\/min\/device-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -228,7 +997,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/jquery.fittext-min.js",
+		"oAP": "\/build\/scripts\/min\/jquery.fittext-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -237,7 +1006,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
+		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -246,7 +1015,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/jquery.mb.momentumSlide-min.js",
+		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -255,7 +1024,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/jquery.touchwipe.min-min.js",
+		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -264,7 +1033,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/master_functions-min.js",
+		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -273,7 +1042,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/min\/device-min-min.js",
+		"oAP": "\/build\/scripts\/min\/min\/device-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -282,7 +1051,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/min\/master_functions-min-min.js",
+		"oAP": "\/build\/scripts\/min\/min\/master_functions-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -291,7 +1060,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/modernizr.custom-min.js",
+		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -300,7 +1069,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/prefixfree-min.js",
+		"oAP": "\/build\/scripts\/min\/prefixfree-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -309,7 +1078,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/retina-min.js",
+		"oAP": "\/build\/scripts\/min\/retina-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -318,7 +1087,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/screenfull-min.js",
+		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -327,7 +1096,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/scripts\/min\/video-min.js",
+		"oAP": "\/build\/scripts\/min\/video-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -384,6 +1153,30 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/stylesheets\/base\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/base\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/base\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/base\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/stylesheets\/components\/_buttons.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -396,6 +1189,30 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/stylesheets\/components\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/components\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/components\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/components\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/stylesheets\/layout\/_footer.scss": {
 		"aP": 1,
@@ -423,6 +1240,30 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/stylesheets\/layout\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/layout\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/layout\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/layout\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/stylesheets\/main.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -449,6 +1290,54 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/stylesheets\/pages\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/stylesheets\/pages\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/pages\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/pages\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/stylesheets\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/stylesheets\/themes\/_default.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -461,6 +1350,30 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/stylesheets\/themes\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/themes\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/themes\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/themes\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/stylesheets\/utils\/_functions.scss": {
 		"aP": 1,
@@ -501,6 +1414,30 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/stylesheets\/utils\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/utils\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/utils\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/utils\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/stylesheets\/vendor\/_normalize.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -513,6 +1450,30 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/stylesheets\/vendor\/README.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/stylesheets\/vendor\/README.html",
+		"oF": 0
+		},
+	"\/stylesheets\/vendor\/README.md": {
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/build\/stylesheets\/vendor\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		}
 	},
 "hooks": [
@@ -523,7 +1484,8 @@
 	"creationDate": 506473496,
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "defaultFrameworkIcon"
+	"iconImageName": "defaultFrameworkIcon",
+	"lastBuiltDate": 506473758
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -778,7 +1740,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -2611,7 +3573,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/"
+	"websiteRelativeRoot": "\/build"
 	},
 "settingsFileVersion": "3"
 }
