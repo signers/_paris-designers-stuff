@@ -146,7 +146,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -493,7 +493,7 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/teasing.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/video-js.png": {
 		"ft": 32768,
