@@ -139,8 +139,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/config.rb": {
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
