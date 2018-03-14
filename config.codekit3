@@ -7,33 +7,38 @@
 		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "26330",
 "files": {
 	"\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
@@ -48,6 +53,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery2\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery2\/.gitignore",
@@ -79,6 +85,7 @@
 		},
 	"\/bower_components\/jquery2\/jquery-migrate.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bower_components\/jquery2\/jquery-migrate.js",
@@ -88,6 +95,7 @@
 		},
 	"\/bower_components\/jquery2\/jquery-migrate.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bower_components\/jquery2\/jquery-migrate.min.js",
@@ -97,6 +105,7 @@
 		},
 	"\/bower_components\/jquery2\/jquery.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bower_components\/jquery2\/jquery.js",
@@ -106,6 +115,7 @@
 		},
 	"\/bower_components\/jquery2\/jquery.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bower_components\/jquery2\/jquery.min.js",
@@ -122,10 +132,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery2\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -139,13 +149,8 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
 	"\/config.rb": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
@@ -271,12 +276,14 @@
 		"oS": 0
 		},
 	"\/Flexbox\/Flexbox.textClipping": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/Flexbox\/Flexbox.textClipping",
 		"oF": 0
 		},
 	"\/Flexbox\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/Flexbox\/index.html",
@@ -284,6 +291,7 @@
 		},
 	"\/Flexbox\/js\/index.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/Flexbox\/js\/min\/index-min.js",
@@ -297,7 +305,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/129x129.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/512.png": {
 		"ft": 32768,
@@ -305,7 +316,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/512.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/app-touch-icon.png": {
 		"ft": 32768,
@@ -313,7 +327,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/app-touch-icon.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/apple-touch-icon-ipad-retina.png": {
 		"ft": 32768,
@@ -321,7 +338,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/apple-touch-icon-ipad-retina.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/apple-touch-icon-ipad.png": {
 		"ft": 32768,
@@ -329,7 +349,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/apple-touch-icon-ipad.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/apple-touch-icon-iphone-retina.png": {
 		"ft": 32768,
@@ -337,7 +360,10 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/apple-touch-icon-iphone-retina.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/apple-touch-icon-iphone.png": {
 		"ft": 32768,
@@ -345,9 +371,13 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/apple-touch-icon-iphone.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/ico\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/ico\/favicon.ico",
@@ -359,7 +389,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/arrows.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/bg-bottom-chain.png": {
 		"ft": 32768,
@@ -367,7 +400,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/bg-bottom-chain.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/bg-sign.png": {
 		"ft": 32768,
@@ -375,7 +411,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/bg-sign.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/bg-under-video.png": {
 		"ft": 32768,
@@ -383,7 +422,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/bg-under-video.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/close.png": {
 		"ft": 32768,
@@ -391,7 +433,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/close.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/closeopenleftright.png": {
 		"ft": 32768,
@@ -399,9 +444,13 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/closeopenleftright.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/Fast.mp3": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/images\/Fast.mp3",
@@ -413,7 +462,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/motif.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/arrows@2x.png": {
 		"ft": 32768,
@@ -421,7 +473,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/arrows@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/bg-bottom-chain@2x.png": {
 		"ft": 32768,
@@ -429,7 +484,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/bg-bottom-chain@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/bg-sign@2x.png": {
 		"ft": 32768,
@@ -437,7 +495,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/bg-sign@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/bg-under-video@2x.png": {
 		"ft": 32768,
@@ -445,7 +506,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/bg-under-video@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/signature@2x.png": {
 		"ft": 32768,
@@ -453,7 +517,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/signature@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/retina\/teasing@2x.jpg": {
 		"ft": 16384,
@@ -461,7 +528,9 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/retina\/teasing@2x.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/signature.png": {
 		"ft": 32768,
@@ -469,7 +538,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/signature.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/spinner.gif": {
 		"ft": 4194304,
@@ -485,7 +557,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/sr.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/teasing.jpg": {
 		"ft": 16384,
@@ -493,7 +568,9 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/teasing.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/video-js.png": {
 		"ft": 32768,
@@ -501,7 +578,10 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/video-js.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/writings.svg": {
 		"ft": 2097152,
@@ -514,30 +594,35 @@
 		"prP": 0
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/.gitignore",
 		"oF": 0
 		},
 	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc",
 		"oF": 0
 		},
 	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc",
 		"oF": 0
 		},
 	"\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
@@ -552,6 +637,7 @@
 		"oS": 1
 		},
 	"\/LLE\/build\/bower_components\/jquery2\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/bower_components\/jquery2\/.gitignore",
@@ -590,10 +676,10 @@
 		"oS": 1
 		},
 	"\/LLE\/build\/bower_components\/jquery2\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -608,18 +694,21 @@
 		"uCM": 0
 		},
 	"\/LLE\/build\/build\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/build\/.gitignore",
 		"oF": 0
 		},
 	"\/LLE\/build\/Flexbox\/Flexbox.textClipping": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/Flexbox\/Flexbox.textClipping",
 		"oF": 0
 		},
 	"\/LLE\/build\/Flexbox\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/Flexbox\/index.html",
@@ -631,7 +720,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/129x129.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/512.png": {
 		"ft": 32768,
@@ -639,7 +731,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/512.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/app-touch-icon.png": {
 		"ft": 32768,
@@ -647,7 +742,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/app-touch-icon.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/apple-touch-icon-ipad-retina.png": {
 		"ft": 32768,
@@ -655,7 +753,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-ipad-retina.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/apple-touch-icon-ipad.png": {
 		"ft": 32768,
@@ -663,7 +764,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-ipad.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/apple-touch-icon-iphone-retina.png": {
 		"ft": 32768,
@@ -671,7 +775,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-iphone-retina.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/apple-touch-icon-iphone.png": {
 		"ft": 32768,
@@ -679,9 +786,13 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/ico\/apple-touch-icon-iphone.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/ico\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/ico\/favicon.ico",
@@ -693,7 +804,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/arrows.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/bg-sign.png": {
 		"ft": 32768,
@@ -701,7 +815,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/bg-sign.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/bg-under-video.png": {
 		"ft": 32768,
@@ -709,7 +826,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/bg-under-video.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/close.png": {
 		"ft": 32768,
@@ -717,7 +837,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/close.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/closeopenleftright.png": {
 		"ft": 32768,
@@ -725,9 +848,13 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/closeopenleftright.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/Fast.mp3": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/images\/Fast.mp3",
@@ -739,7 +866,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/motif.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/retina\/arrows@2x.png": {
 		"ft": 32768,
@@ -747,7 +877,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/retina\/arrows@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/retina\/bg-bottom-chain@2x.png": {
 		"ft": 32768,
@@ -755,7 +888,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-bottom-chain@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/retina\/bg-sign@2x.png": {
 		"ft": 32768,
@@ -763,7 +899,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-sign@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/retina\/bg-under-video@2x.png": {
 		"ft": 32768,
@@ -771,7 +910,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/retina\/bg-under-video@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/retina\/signature@2x.png": {
 		"ft": 32768,
@@ -779,7 +921,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/retina\/signature@2x.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/signature.png": {
 		"ft": 32768,
@@ -787,7 +932,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/signature.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/spinner.gif": {
 		"ft": 4194304,
@@ -803,7 +951,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/sr.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/video-js.png": {
 		"ft": 32768,
@@ -811,7 +962,10 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/images\/video-js.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/images\/writings.svg": {
 		"ft": 2097152,
@@ -824,6 +978,7 @@
 		"prP": 0
 		},
 	"\/LLE\/build\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/index.html",
@@ -835,57 +990,69 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/build\/media\/wheel.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/LLE\/build\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/base\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/base\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/components\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/components\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/layout\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/layout\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/pages\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/pages\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/themes\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/themes\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/utils\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/utils\/README.html",
 		"oF": 0
 		},
 	"\/LLE\/build\/stylesheets\/vendor\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/build\/stylesheets\/vendor\/README.html",
@@ -897,9 +1064,12 @@
 		"oA": 0,
 		"oAP": "\/build\/LLE\/images\/retina\/teasing@2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/LLE\/stylesheets\/pages\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/LLE\/stylesheets\/pages\/README.html",
@@ -917,6 +1087,7 @@
 		},
 	"\/media\/master_functions.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/media\/min\/master_functions-min.js",
@@ -926,6 +1097,7 @@
 		},
 	"\/media\/modernizr.custom.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/media\/min\/modernizr.custom-min.js",
@@ -949,19 +1121,23 @@
 		"oA": 0,
 		"oAP": "\/build\/media\/wheel.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -977,6 +1153,7 @@
 		},
 	"\/scripts\/css3-mediaqueries.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/css3-mediaqueries-min.js",
@@ -986,6 +1163,7 @@
 		},
 	"\/scripts\/device.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/device-min.js",
@@ -995,6 +1173,7 @@
 		},
 	"\/scripts\/jquery.fittext.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.fittext-min.js",
@@ -1004,6 +1183,7 @@
 		},
 	"\/scripts\/jquery.mb.CSSAnimate.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
@@ -1013,6 +1193,7 @@
 		},
 	"\/scripts\/jquery.mb.momentumSlide.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
@@ -1022,6 +1203,7 @@
 		},
 	"\/scripts\/jquery.touchwipe.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
@@ -1031,6 +1213,7 @@
 		},
 	"\/scripts\/master_functions.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
@@ -1040,6 +1223,7 @@
 		},
 	"\/scripts\/min\/device-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/min\/device-min-min.js",
@@ -1049,6 +1233,7 @@
 		},
 	"\/scripts\/min\/master_functions-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/min\/master_functions-min-min.js",
@@ -1058,6 +1243,7 @@
 		},
 	"\/scripts\/modernizr.custom.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
@@ -1067,6 +1253,7 @@
 		},
 	"\/scripts\/prefixfree.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/prefixfree-min.js",
@@ -1076,6 +1263,7 @@
 		},
 	"\/scripts\/retina.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/retina-min.js",
@@ -1085,6 +1273,7 @@
 		},
 	"\/scripts\/screenfull.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
@@ -1094,6 +1283,7 @@
 		},
 	"\/scripts\/video.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/video-min.js",
@@ -1154,16 +1344,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/base\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/base\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/base\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1191,16 +1382,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/components\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/components\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/components\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1241,16 +1433,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/layout\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/layout\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/layout\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1291,16 +1484,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/pages\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/stylesheets\/pages\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/pages\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1315,16 +1509,17 @@
 		"uCM": 0
 		},
 	"\/stylesheets\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1352,16 +1547,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/themes\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/themes\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/themes\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1415,16 +1611,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/utils\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/utils\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/utils\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1452,16 +1649,17 @@
 		"uL": 1
 		},
 	"\/stylesheets\/vendor\/README.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/build\/stylesheets\/vendor\/README.html",
 		"oF": 0
 		},
 	"\/stylesheets\/vendor\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1485,7 +1683,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 506473758
+	"lastBuiltDate": 542726002
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1493,6 +1691,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1889,6 +2088,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -1896,6 +2099,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -1993,6 +2200,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -2009,9 +2220,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -2036,6 +2255,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2069,9 +2292,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -2101,6 +2324,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2110,14 +2337,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2141,6 +2360,10 @@
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-caller": {
 			"active": 0,
 			"optionString": ""
@@ -2155,6 +2378,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -2357,6 +2584,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -2434,6 +2665,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2633,6 +2868,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -2669,6 +2908,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -2684,6 +2927,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2733,6 +2980,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -2773,11 +3024,19 @@
 			"active": 0,
 			"optionString": "'safe'"
 			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
 		"symbol-description": {
 			"active": 0,
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -3181,7 +3440,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -3214,6 +3474,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 1,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 1
@@ -3224,7 +3485,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -3248,21 +3510,14 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3294,13 +3549,13 @@
 		"enableFootnotes": 0,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3309,7 +3564,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3317,7 +3573,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -3327,7 +3585,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3355,7 +3614,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3402,9 +3662,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
