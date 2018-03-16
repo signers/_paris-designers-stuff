@@ -164,8 +164,7 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"cB": 0,
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -608,11 +607,11 @@
 		"prP": 0
 		},
 	"\/index.html": {
-		"cB": 0,
+		"cB": 1,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/build\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/LLE\/build\/.gitignore": {
 		"cB": 0,
@@ -1697,7 +1696,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 542765145
+	"lastBuiltDate": 542926595
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
