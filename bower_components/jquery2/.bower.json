@@ -17,6 +17,5 @@
   },
   "_source": "https://github.com/iki/jquery2.git",
   "_target": "^2.0.0",
-  "_originalSource": "jquery2",
-  "_direct": true
+  "_originalSource": "jquery2"
 }
