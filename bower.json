@@ -33,6 +33,20 @@
   ],
   "private": true,
   "dependencies": {
-    "jquery2": "^2.0.0"
+    "jquery2": "^2.0.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "wordpress": "4.9.4",
+    "animate.css": "3.5.2",
+    "normalize-css": "8.0.0",
+    "bootstrap": "4.0.0",
+    "backbone": "1.3.3",
+    "modernizr": "components-modernizr#3.5.0",
+    "html5-boilerplate": "6.0.1",
+    "foundation": "5.5.3"
+  },
+  "resolutions": {
+    "modernizr": "^3.5.0"
   }
 }
