@@ -16,7 +16,8 @@
 		"oF": 0
 		},
 	"\/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -691,7 +692,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 543043199
+	"lastBuiltDate": 543044806
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
