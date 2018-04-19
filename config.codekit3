@@ -7,6 +7,7 @@
 		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
 		}
 	],
+<<<<<<< HEAD
 "creatorBuild": "26330",
 "files": {
 	"\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc": {
@@ -44,6 +45,10 @@
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
 		"oF": 0
 		},
+=======
+"creatorBuild": "26268",
+"files": {
+>>>>>>> master
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
@@ -53,6 +58,7 @@
 	"\/config.rb": {
 		"cB": 0,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -134,20 +140,94 @@
 		"oA": 0,
 		"oAP": "\/build\/css\/screen-min.css",
 		"oF": 0,
+=======
+		"oA": 2,
+		"oAP": "\/config.rb",
+		"oF": 1
+		},
+	"\/css\/ie.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/ie-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/css\/index.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/index-min.css",
+		"oF": 1,
+		"oS": 3
+		},
+	"\/css\/index.min.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/index.min-min.css",
+		"oF": 1,
+		"oS": 3
+		},
+	"\/css\/master_eponyme.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/build\/css\/master_eponyme-min.css",
+		"oF": 1,
+		"oS": 2
+		},
+	"\/css\/print.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/print-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/css\/screen.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/screen-min.css",
+		"oF": 1,
+>>>>>>> master
 		"oS": 0
 		},
 	"\/css\/typography.css": {
 		"aP": 1,
+<<<<<<< HEAD
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/css\/typography-min.css",
 		"oF": 0,
+=======
+		"bl": 1,
+		"ft": 16,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/build\/css\/typography-min.css",
+		"oF": 1,
+>>>>>>> master
 		"oS": 0
 		},
 	"\/css\/video-js.css": {
 		"aP": 1,
+<<<<<<< HEAD
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
@@ -200,6 +280,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+=======
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/video-js-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+>>>>>>> master
 	"\/ico\/129x129.png": {
 		"ft": 32768,
 		"iS": 19949,
@@ -497,6 +587,7 @@
 	"\/index.html": {
 		"cB": 1,
 		"ft": 8192,
+<<<<<<< HEAD
 		"oA": 0,
 		"oAP": "\/build\/index.html",
 		"oF": 1
@@ -576,6 +667,12 @@
 		"oT": 1,
 		"q": 100
 		},
+=======
+		"oA": 2,
+		"oAP": "\/build\/index.html",
+		"oF": 1
+		},
+>>>>>>> master
 	"\/README.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -601,6 +698,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+<<<<<<< HEAD
 	"\/scripts\/css3-mediaqueries.js": {
 		"ft": 64,
 		"ma": 0,
@@ -628,41 +726,75 @@
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.fittext-min.js",
 		"oF": 0,
+=======
+	"\/scripts\/device.js": {
+		"ft": 64,
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/device-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.mb.CSSAnimate.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.mb.momentumSlide.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.touchwipe.min.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/master_functions.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
@@ -688,11 +820,19 @@
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/min\/master_functions-min-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/modernizr.custom.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
@@ -708,14 +848,27 @@
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/prefixfree-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/retina.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 0,
+>>>>>>> master
 		"oAP": "\/build\/scripts\/min\/retina-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -723,21 +876,37 @@
 		},
 	"\/scripts\/screenfull.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/video.js": {
 		"ft": 64,
+<<<<<<< HEAD
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/scripts\/min\/video-min.js",
 		"oF": 0,
+=======
+		"ma": 1,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/scripts\/min\/video-min.js",
+		"oF": 1,
+>>>>>>> master
 		"sC": 1,
 		"tS": 0
 		}
@@ -751,7 +920,11 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
+<<<<<<< HEAD
 	"lastBuiltDate": 543019491
+=======
+	"lastBuiltDate": 545872247
+>>>>>>> master
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2521,7 +2694,11 @@
 		"createSourceMap": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
+<<<<<<< HEAD
 		"shouldRunBless": 0
+=======
+		"shouldRunBless": 1
+>>>>>>> master
 		},
 	"languageDefaultsGIF": {
 		"autoOutputAction": 0,
@@ -2563,7 +2740,11 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+<<<<<<< HEAD
 		"createSourceMap": 0,
+=======
+		"createSourceMap": 1,
+>>>>>>> master
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0
