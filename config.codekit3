@@ -7,7 +7,7 @@
 		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26268",
 "files": {
 	"\/build": {
 		"ft": 65536,
@@ -18,152 +18,89 @@
 	"\/config.rb": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/config.rb",
-		"oF": 0
+		"oF": 1
 		},
 	"\/css\/ie.css": {
 		"aP": 1,
-		"bl": 0,
+		"bl": 1,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/css\/ie-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
+		},
+	"\/css\/index.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/index-min.css",
+		"oF": 1,
+		"oS": 3
+		},
+	"\/css\/index.min.css": {
+		"aP": 1,
+		"bl": 1,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/index.min-min.css",
+		"oF": 1,
+		"oS": 3
 		},
 	"\/css\/master_eponyme.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 1,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/css\/master_eponyme-min.css",
 		"oF": 1,
 		"oS": 2
 		},
 	"\/css\/print.css": {
 		"aP": 1,
-		"bl": 0,
+		"bl": 1,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/css\/print-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
-		},
-	"\/css\/sass\/ie.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 15,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/css\/ie.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/css\/sass\/print.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 15,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/css\/print.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/css\/sass\/screen.scss": {
-		"aP": 1,
-		"bl": 1,
-		"dP": 15,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/css\/screen.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
 		},
 	"\/css\/screen.css": {
 		"aP": 1,
-		"bl": 0,
+		"bl": 1,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/css\/screen-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
 		},
 	"\/css\/typography.css": {
 		"aP": 1,
-		"bl": 0,
+		"bl": 1,
 		"ft": 16,
-		"ma": 0,
-		"oA": 1,
+		"ma": 1,
+		"oA": 2,
 		"oAP": "\/build\/css\/typography-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
 		},
 	"\/css\/video-js.css": {
 		"aP": 1,
-		"bl": 0,
+		"bl": 1,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/css\/video-js-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
-		},
-	"\/Flexbox\/css\/flexboxgrid.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/Flexbox\/css\/flexboxgrid-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/Flexbox\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/Flexbox\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/Flexbox\/Flexbox.textClipping": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/Flexbox\/Flexbox.textClipping",
-		"oF": 0
-		},
-	"\/Flexbox\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/Flexbox\/index.html",
-		"oF": 0
-		},
-	"\/Flexbox\/js\/index.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/Flexbox\/js\/min\/index-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/ico\/129x129.png": {
 		"ft": 32768,
@@ -462,60 +399,9 @@
 	"\/index.html": {
 		"cB": 1,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/index.html",
 		"oF": 1
-		},
-	"\/media\/d.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/media\/d-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/media\/master_functions.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/media\/min\/master_functions-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/media\/modernizr.custom.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/media\/min\/modernizr.custom-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/media\/screen.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/media\/screen-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/media\/wheel.png": {
-		"ft": 32768,
-		"iS": 325202,
-		"oA": 0,
-		"oAP": "\/build\/media\/wheel.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"\/README.html": {
 		"cB": 0,
@@ -542,121 +428,71 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/scripts\/css3-mediaqueries.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/scripts\/min\/css3-mediaqueries-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/scripts\/device.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/device-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/scripts\/jquery.fittext.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/scripts\/min\/jquery.fittext-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.mb.CSSAnimate.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.mb.momentumSlide.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/jquery.touchwipe.min.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/master_functions.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/scripts\/min\/device-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/scripts\/min\/min\/device-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/scripts\/min\/master_functions-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/scripts\/min\/min\/master_functions-min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/modernizr.custom.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/scripts\/prefixfree.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/scripts\/min\/prefixfree-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/retina.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/retina-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -664,21 +500,21 @@
 		},
 	"\/scripts\/screenfull.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/scripts\/video.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/scripts\/min\/video-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		}
@@ -692,7 +528,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 543045061
+	"lastBuiltDate": 545872035
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2462,7 +2298,7 @@
 		"createSourceMap": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0
+		"shouldRunBless": 1
 		},
 	"languageDefaultsGIF": {
 		"autoOutputAction": 0,
@@ -2504,7 +2340,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0

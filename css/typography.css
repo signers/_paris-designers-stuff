@@ -6,9 +6,10 @@ header h1 {font: 700 1.4em/46px 'Titillium Web', sans-serif;}
 figure p  {font: 400 1.35em/40px 'Roboto Condensed', sans-serif;}
 
 
-#nav li {font-weight: bold; font-family:'Roboto Condensed', sans-serif;}
-.inner > figure p a {font: 400 0.75em/0px 'Roboto Condensed', sans-serif;color:#777;}
-.text p {font: 400 18px/34px 'PT Sans', sans-serif;}
+#nav li {font: 600 1em/10px 'Roboto Condensed', sans-serif;color:#777;}
+.inner figure p {font: 400 1.15em/2.2em 'Roboto Condensed', sans-serif;color:#888;}
+.inner a {font: 400 0.85em/0em 'Roboto Condensed', sans-serif;color:#777;}
+.text p {font: 400 1.05em/2.1em 'PT Sans', sans-serif;}
 .-box h3 {font: 600 1.1em 'Roboto Condensed', sans-serif;}	
 .-box p {font: 400 0.8em 'Titillium Web', sans-serif;}
 
