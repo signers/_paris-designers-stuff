@@ -293,6 +293,16 @@
 		"oAP": "\/build\/images\/Fast.mp3",
 		"oF": 0
 		},
+	"\/images\/LLE-PROJECT.jpg": {
+		"ft": 16384,
+		"iS": 1087047,
+		"oA": 0,
+		"oAP": "\/build\/images\/LLE-PROJECT.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/images\/motif.png": {
 		"ft": 32768,
 		"iS": 76147,
@@ -562,7 +572,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 545873305
+	"lastBuiltDate": 545918771
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
