@@ -44,17 +44,10 @@
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
 		"oF": 1
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
 	"\/config.rb": {
-		"cB": 0,
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
-		"oAP": "\/build\/config.rb",
+		"oAP": "\/config.rb",
 		"oF": 0
 		},
 	"\/css\/ie.css": {
@@ -220,6 +213,17 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/favicon.ico",
 		"oF": 1
+		},
+	"\/images\/_paris-designers-stuff.png": {
+		"ft": 32768,
+		"iS": 199422,
+		"oA": 1,
+		"oAP": "\/build\/images\/_paris-designers-stuff.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/arrows.png": {
 		"ft": 32768,
@@ -573,7 +577,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 546880411
+	"lastBuiltDate": 558938214
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
