@@ -512,7 +512,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/bleu.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/inc\/bankin\/images\/bt-super160.png": {
@@ -522,7 +522,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/bt-super160.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -533,7 +533,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/bt-superB.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -544,7 +544,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/bt-superNR.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -555,7 +555,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/bt_demo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -566,7 +566,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/cinetique.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -577,7 +577,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/economiser.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -588,7 +588,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/etiquette-globale-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -599,7 +599,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/etiquette-globale.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -610,7 +610,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/iphone-bg-menu.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -621,7 +621,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/iphone-bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -632,7 +632,7 @@
 		"oAP": "\/build\/inc\/bankin\/images\/nav-indicator-bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -670,7 +670,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/bg-choices.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -681,7 +681,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -692,7 +692,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/bg_form.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -703,7 +703,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/bg_input.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -714,7 +714,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/bt_envoyer.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -725,7 +725,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/mobile.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -736,7 +736,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/orange.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -747,7 +747,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/rounded.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -758,7 +758,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -769,7 +769,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/images\/x.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -827,7 +827,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg-choices.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -838,7 +838,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -849,7 +849,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_focus_input.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -860,7 +860,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_form.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -871,7 +871,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_input.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -882,7 +882,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bt_envoyer.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -893,7 +893,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/mobile.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -904,7 +904,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/orange.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -915,7 +915,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/rounded.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -926,7 +926,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -937,7 +937,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/x.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1090,7 +1090,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 563842762
+	"lastBuiltDate": 563846833
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

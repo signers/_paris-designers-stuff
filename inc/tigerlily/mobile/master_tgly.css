@@ -105,7 +105,7 @@ div.container h1{font:normal 1em museo-sans-1,museo-sans-2,sans-serif;text-align
 div.container h2{font:normal 1em museo-sans-1,museo-sans-2,sans-serif;text-align:center;}
 div.container ol{width:76.7%;text-align:center;margin-top:-4px;}
 div.container ol li{text-align:center;line-height:23px;font:normal 0.85em museo-sans-1,museo-sans-2,sans-serif;color:#fff;}
-div.container li label.error{width:100%;text-align:center;line-height:23px;font:normal 0.85em museo-sans-1,museo-sans-2,sans-serif;color:#fff;background:#;}
+div.container li label.error{width:100%;text-align:center;line-height:23px;font:normal 0.85em museo-sans-1,museo-sans-2,sans-serif;color:#fff;}
 
 /*Fix IE7 stupid 1px bug* */ 
 *+html input#cname, *+html input#cemail  {padding:10px 0 0 12px;height:25px}
