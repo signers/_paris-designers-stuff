@@ -44,9 +44,14 @@
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
 		"oF": 1
 		},
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/config.rb": {
-		"cB": 0,
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -386,6 +391,17 @@
 		"oA": 0,
 		"oAP": "\/build\/images\/Fast.mp3",
 		"oF": 1
+		},
+	"\/images\/img-atte-lle.png": {
+		"ft": 32768,
+		"iS": 67565,
+		"oA": 0,
+		"oAP": "\/build\/images\/img-atte-lle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/LLE-PROJECT.jpg": {
 		"ft": 16384,
