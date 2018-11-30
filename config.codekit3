@@ -44,14 +44,9 @@
 		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
 		"oF": 1
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
 	"\/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -158,12 +153,78 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/ico\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 58521,
+		"oA": 0,
+		"oAP": "\/build\/ico\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/ico\/app-touch-icon.png": {
 		"ft": 32768,
 		"iS": 10785,
 		"oA": 0,
 		"oAP": "\/build\/ico\/app-touch-icon.png",
 		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 32808,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 44499,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 54812,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 14295,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 19117,
+		"oA": 0,
+		"oAP": "\/build\/ico\/apple-icon-76x76.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -208,6 +269,28 @@
 		"oA": 0,
 		"oAP": "\/build\/ico\/apple-touch-icon-iphone.png",
 		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 7255,
+		"oA": 0,
+		"oAP": "\/build\/ico\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ico\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 26891,
+		"oA": 0,
+		"oAP": "\/build\/ico\/favicon-96x96.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -1090,7 +1173,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 563846833
+	"lastBuiltDate": 565234833
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

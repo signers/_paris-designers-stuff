@@ -46,8 +46,8 @@ a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;}
 .inner > figure img{margin:4% 0 3.5%;padding:0;text-align:center;width:350px;height:auto;}
-.inner > figure p {margin:2.5% 0 4%;padding:0;text-align:center;font-size: 130%;}
-.inner > figure a{margin:2.5% 0 4%;padding:0;text-align:center;}
+.inner > figure p {margin:2.5% 0 2%;padding:0;text-align:center;font-size: 130%;}
+.inner > figure a{margin:2.5% 0 0;padding:0;text-align:center;}
 
  
  /* RESPONSIVE CSS  TODO  & RETINA  TODO 
