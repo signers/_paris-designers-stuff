@@ -337,7 +337,7 @@ header[role="banner"] {margin:0 0 10px -26px;}
 #switch-navigation {height:2em;}
 .sp-content {background-size:2000px 450px;} 
 body .inner > figure img {width: 80%;}
-body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-size:90%;  line-height:1.3em;         
+body .inner > figure p, body .inner > figure p a{margin:0 1.8em 1.8em 1.8em;font-size:90%;  line-height:1.3em;         
   }
 }
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
