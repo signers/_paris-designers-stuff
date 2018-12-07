@@ -202,7 +202,9 @@ section > .section{position:absolute;width:100%;height:100%;overflow:hidden;}
 .page > .pageContent > article h2{margin:0;padding:5px;background-color: #111;width:4%;color:#fff;}
 .page > .pageContent > article p{background-color: #FFFFFF;margin:0;padding:5px;width:100%;}
 .page > .pageContent > article em{color:#e60559;}
-.page > .pageContent > figure img, #slider2 figure img{position: absolute;z-index: -1;top:11%;bottom:25px;}
+.page> .pageContent > #slider2 > figure img{position: absolute;z-index: -1;top:11%;bottom:25px;}
+.page > .pageContent > aside.scd {background-color:#fff;width:100%;height:100%;}
+.page > .pageContent > aside.scd > article h2 {margin:0;padding:5px;background-color: #111;width:4%;color:#fff;text-transform: uppercase;}
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;}
 #slideIndex .idxContainer{display: inline-block;margin:0;padding:0;}

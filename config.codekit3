@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,1072 +7,1070 @@
 		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "28905",
 "files": {
-	"\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc": {
+	"/.sass-cache/1495a56196e8a4991835c98fc975beda4799ad30/_utilities.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/.sass-cache\/1495a56196e8a4991835c98fc975beda4799ad30\/_utilities.scssc",
+		"oAP": "/build/.sass-cache/1495a56196e8a4991835c98fc975beda4799ad30/_utilities.scssc",
 		"oF": 1
 		},
-	"\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc": {
+	"/.sass-cache/da8688707e137e75503822bb0d3c856817d0ffd2/_reset.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/.sass-cache\/da8688707e137e75503822bb0d3c856817d0ffd2\/_reset.scssc",
+		"oAP": "/build/.sass-cache/da8688707e137e75503822bb0d3c856817d0ffd2/_reset.scssc",
 		"oF": 1
 		},
-	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc": {
+	"/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/ie.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/ie.scssc",
+		"oAP": "/build/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/ie.scssc",
 		"oF": 1
 		},
-	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc": {
+	"/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/print.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/print.scssc",
+		"oAP": "/build/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/print.scssc",
 		"oF": 1
 		},
-	"\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc": {
+	"/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/screen.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/.sass-cache\/e853c2f6693e3942247a98ba31948705436e54ef\/screen.scssc",
+		"oAP": "/build/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/screen.scssc",
 		"oF": 1
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
+	"/config.rb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/config.rb",
 		"oF": 0
 		},
-	"\/config.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/config.rb",
-		"oF": 0
-		},
-	"\/css\/ie.css": {
+	"/css/ie.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/ie-min.css",
+		"oAP": "/build/css/ie-min.css",
 		"oF": 1,
 		"oS": 0
 		},
-	"\/css\/index.css": {
+	"/css/index.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/index-min.css",
+		"oAP": "/build/css/index-min.css",
 		"oF": 1,
 		"oS": 3
 		},
-	"\/css\/index.min.css": {
+	"/css/index.min.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/index.min-min.css",
+		"oAP": "/build/css/index.min-min.css",
 		"oF": 1,
 		"oS": 3
 		},
-	"\/css\/master_eponyme.css": {
+	"/css/master_eponyme.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/build\/css\/master_eponyme-min.css",
+		"oAP": "/build/css/master_eponyme-min.css",
 		"oF": 1,
 		"oS": 2
 		},
-	"\/css\/print.css": {
+	"/css/print.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/print-min.css",
+		"oAP": "/build/css/print-min.css",
 		"oF": 1,
 		"oS": 0
 		},
-	"\/css\/screen.css": {
+	"/css/screen.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/screen-min.css",
+		"oAP": "/build/css/screen-min.css",
 		"oF": 1,
 		"oS": 0
 		},
-	"\/css\/typography.css": {
+	"/css/typography.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/build\/css\/typography-min.css",
+		"oAP": "/build/css/typography-min.css",
 		"oF": 1,
 		"oS": 0
 		},
-	"\/css\/video-js.css": {
+	"/css/video-js.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/video-js-min.css",
+		"oAP": "/build/css/video-js-min.css",
 		"oF": 1,
 		"oS": 0
 		},
-	"\/ico\/129x129.png": {
+	"/ico/129x129.png": {
 		"ft": 32768,
 		"iS": 19949,
 		"oA": 0,
-		"oAP": "\/build\/ico\/129x129.png",
+		"oAP": "/build/ico/129x129.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/512.png": {
+	"/ico/512.png": {
 		"ft": 32768,
 		"iS": 215633,
 		"oA": 0,
-		"oAP": "\/build\/ico\/512.png",
+		"oAP": "/build/ico/512.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/android-icon-192x192.png": {
+	"/ico/android-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 58521,
 		"oA": 0,
-		"oAP": "\/build\/ico\/android-icon-192x192.png",
+		"oAP": "/build/ico/android-icon-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/app-touch-icon.png": {
+	"/ico/app-touch-icon.png": {
 		"ft": 32768,
 		"iS": 10785,
 		"oA": 0,
-		"oAP": "\/build\/ico\/app-touch-icon.png",
+		"oAP": "/build/ico/app-touch-icon.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-icon-120x120.png": {
+	"/ico/apple-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 32808,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-icon-120x120.png",
+		"oAP": "/build/ico/apple-icon-120x120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-icon-152x152.png": {
+	"/ico/apple-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 44499,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-icon-152x152.png",
+		"oAP": "/build/ico/apple-icon-152x152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-icon-180x180.png": {
+	"/ico/apple-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 54812,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-icon-180x180.png",
+		"oAP": "/build/ico/apple-icon-180x180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-icon-60x60.png": {
+	"/ico/apple-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 14295,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-icon-60x60.png",
+		"oAP": "/build/ico/apple-icon-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-icon-76x76.png": {
+	"/ico/apple-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 19117,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-icon-76x76.png",
+		"oAP": "/build/ico/apple-icon-76x76.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-touch-icon-ipad-retina.png": {
+	"/ico/apple-touch-icon-ipad-retina.png": {
 		"ft": 32768,
 		"iS": 22576,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-touch-icon-ipad-retina.png",
+		"oAP": "/build/ico/apple-touch-icon-ipad-retina.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-touch-icon-ipad.png": {
+	"/ico/apple-touch-icon-ipad.png": {
 		"ft": 32768,
 		"iS": 8060,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-touch-icon-ipad.png",
+		"oAP": "/build/ico/apple-touch-icon-ipad.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-touch-icon-iphone-retina.png": {
+	"/ico/apple-touch-icon-iphone-retina.png": {
 		"ft": 32768,
 		"iS": 16789,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-touch-icon-iphone-retina.png",
+		"oAP": "/build/ico/apple-touch-icon-iphone-retina.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/apple-touch-icon-iphone.png": {
+	"/ico/apple-touch-icon-iphone.png": {
 		"ft": 32768,
 		"iS": 3958,
 		"oA": 0,
-		"oAP": "\/build\/ico\/apple-touch-icon-iphone.png",
+		"oAP": "/build/ico/apple-touch-icon-iphone.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/favicon-32x32.png": {
+	"/ico/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 7255,
 		"oA": 0,
-		"oAP": "\/build\/ico\/favicon-32x32.png",
+		"oAP": "/build/ico/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/favicon-96x96.png": {
+	"/ico/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 26891,
 		"oA": 0,
-		"oAP": "\/build\/ico\/favicon-96x96.png",
+		"oAP": "/build/ico/favicon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/ico\/favicon.ico": {
+	"/ico/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/ico\/favicon.ico",
+		"oAP": "/build/ico/favicon.ico",
 		"oF": 1
 		},
-	"\/images\/_paris-designers-stuff.png": {
+	"/images/_paris-designers-stuff.png": {
 		"ft": 32768,
 		"iS": 199422,
 		"oA": 1,
-		"oAP": "\/build\/images\/_paris-designers-stuff.png",
+		"oAP": "/build/images/_paris-designers-stuff.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/arrows.png": {
+	"/images/arrows.png": {
 		"ft": 32768,
 		"iS": 3470,
 		"oA": 0,
-		"oAP": "\/build\/images\/arrows.png",
+		"oAP": "/build/images/arrows.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/bg-bottom-chain.png": {
+	"/images/bg-bottom-chain.png": {
 		"ft": 32768,
 		"iS": 5682,
 		"oA": 0,
-		"oAP": "\/build\/images\/bg-bottom-chain.png",
+		"oAP": "/build/images/bg-bottom-chain.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/bg-sign.png": {
+	"/images/bg-sign.png": {
 		"ft": 32768,
 		"iS": 6452,
 		"oA": 0,
-		"oAP": "\/build\/images\/bg-sign.png",
+		"oAP": "/build/images/bg-sign.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/bg-under-video.png": {
+	"/images/bg-under-video.png": {
 		"ft": 32768,
 		"iS": 974,
 		"oA": 0,
-		"oAP": "\/build\/images\/bg-under-video.png",
+		"oAP": "/build/images/bg-under-video.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/close.png": {
+	"/images/close.png": {
 		"ft": 32768,
 		"iS": 331,
 		"oA": 0,
-		"oAP": "\/build\/images\/close.png",
+		"oAP": "/build/images/close.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/closeopenleftright.png": {
+	"/images/closeopenleftright.png": {
 		"ft": 32768,
 		"iS": 2117,
 		"oA": 0,
-		"oAP": "\/build\/images\/closeopenleftright.png",
+		"oAP": "/build/images/closeopenleftright.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/Fast.mp3": {
+	"/images/Fast.mp3": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/images\/Fast.mp3",
+		"oAP": "/build/images/Fast.mp3",
 		"oF": 1
 		},
-	"\/images\/img-atte-lle.png": {
+	"/images/img-atte-lle.png": {
 		"ft": 32768,
 		"iS": 67565,
 		"oA": 0,
-		"oAP": "\/build\/images\/img-atte-lle.png",
+		"oAP": "/build/images/img-atte-lle.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/LLE-PROJECT.jpg": {
+	"/images/LLE-PROJECT.jpg": {
 		"ft": 16384,
 		"iS": 1087047,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/build\/images\/LLE-PROJECT.jpg",
+		"oAP": "/build/images/LLE-PROJECT.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/motif.png": {
+	"/images/motif.png": {
 		"ft": 32768,
 		"iS": 76147,
 		"oA": 0,
-		"oAP": "\/build\/images\/motif.png",
+		"oAP": "/build/images/motif.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/arrows@2x.png": {
+	"/images/retina/arrows@2x.png": {
 		"ft": 32768,
 		"iS": 3430,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/arrows@2x.png",
+		"oAP": "/build/images/retina/arrows@2x.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/bg-bottom-chain@2x.png": {
+	"/images/retina/bg-bottom-chain@2x.png": {
 		"ft": 32768,
 		"iS": 24394,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/bg-bottom-chain@2x.png",
+		"oAP": "/build/images/retina/bg-bottom-chain@2x.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/bg-sign@2x.png": {
+	"/images/retina/bg-sign@2x.png": {
 		"ft": 32768,
 		"iS": 34437,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/bg-sign@2x.png",
+		"oAP": "/build/images/retina/bg-sign@2x.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/bg-under-video@2x.png": {
+	"/images/retina/bg-under-video@2x.png": {
 		"ft": 32768,
 		"iS": 2309,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/bg-under-video@2x.png",
+		"oAP": "/build/images/retina/bg-under-video@2x.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/signature@2x.png": {
+	"/images/retina/signature@2x.png": {
 		"ft": 32768,
 		"iS": 13964,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/signature@2x.png",
+		"oAP": "/build/images/retina/signature@2x.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/retina\/teasing@2x.jpg": {
+	"/images/retina/teasing@2x.jpg": {
 		"ft": 16384,
 		"iS": 369181,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/build\/images\/retina\/teasing@2x.jpg",
+		"oAP": "/build/images/retina/teasing@2x.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/signature.png": {
+	"/images/signature.png": {
 		"ft": 32768,
 		"iS": 6888,
 		"oA": 0,
-		"oAP": "\/build\/images\/signature.png",
+		"oAP": "/build/images/signature.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/spinner.gif": {
+	"/images/spinner.gif": {
 		"ft": 4194304,
 		"iS": 2209,
 		"oA": 0,
-		"oAP": "\/build\/images\/spinner.gif",
+		"oAP": "/build/images/spinner.gif",
 		"oF": 1,
 		"opt": 1
 		},
-	"\/images\/sr.png": {
+	"/images/sr.png": {
 		"ft": 32768,
 		"iS": 1388,
 		"oA": 0,
-		"oAP": "\/build\/images\/sr.png",
+		"oAP": "/build/images/sr.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/teasing.jpg": {
+	"/images/teasing.jpg": {
 		"ft": 16384,
 		"iS": 259589,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/build\/images\/teasing.jpg",
+		"oAP": "/build/images/teasing.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/video-js.png": {
+	"/images/video-js.png": {
 		"ft": 32768,
 		"iS": 6648,
 		"oA": 0,
-		"oAP": "\/build\/images\/video-js.png",
+		"oAP": "/build/images/video-js.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/writings.svg": {
+	"/images/writings.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
-		"oAP": "\/build\/images\/writings.svg",
+		"oAP": "/build/images/writings.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/inc\/bankin\/bankin-demo-1\/css\/application.css": {
+	"/inc/bankin/bankin-demo-1/css/application.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/bankin-demo-1\/css\/application-min.css",
+		"oAP": "/build/inc/bankin/bankin-demo-1/css/application-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/inc\/bankin\/bankin-demo-1\/index.html": {
+	"/inc/bankin/bankin-demo-1/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/inc\/bankin\/bankin-demo-1\/index.html",
+		"oAP": "/build/inc/bankin/bankin-demo-1/index.html",
 		"oF": 0
 		},
-	"\/inc\/bankin\/bankin-demo-2\/css\/application.css": {
+	"/inc/bankin/bankin-demo-2/css/application.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/bankin-demo-2\/css\/application-min.css",
+		"oAP": "/build/inc/bankin/bankin-demo-2/css/application-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/inc\/bankin\/bankin-demo-2\/index.html": {
+	"/inc/bankin/bankin-demo-2/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/inc\/bankin\/bankin-demo-2\/index.html",
+		"oAP": "/build/inc/bankin/bankin-demo-2/index.html",
 		"oF": 0
 		},
-	"\/inc\/bankin\/css\/application.css": {
+	"/inc/bankin/css/application.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/css\/application-min.css",
+		"oAP": "/build/inc/bankin/css/application-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/inc\/bankin\/css\/master_bankin.css": {
+	"/inc/bankin/css/master_bankin.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/css\/master_bankin-min.css",
+		"oAP": "/build/inc/bankin/css/master_bankin-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/inc\/bankin\/images\/bleu.jpg": {
+	"/inc/bankin/images/bleu.jpg": {
 		"ft": 16384,
 		"iS": 1873,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/bleu.jpg",
+		"oAP": "/build/inc/bankin/images/bleu.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/bt-super160.png": {
+	"/inc/bankin/images/bt-super160.png": {
 		"ft": 32768,
 		"iS": 2040,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/bt-super160.png",
+		"oAP": "/build/inc/bankin/images/bt-super160.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/bt-superB.png": {
+	"/inc/bankin/images/bt-superB.png": {
 		"ft": 32768,
 		"iS": 2670,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/bt-superB.png",
+		"oAP": "/build/inc/bankin/images/bt-superB.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/bt-superNR.png": {
+	"/inc/bankin/images/bt-superNR.png": {
 		"ft": 32768,
 		"iS": 2126,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/bt-superNR.png",
+		"oAP": "/build/inc/bankin/images/bt-superNR.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/bt_demo.png": {
+	"/inc/bankin/images/bt_demo.png": {
 		"ft": 32768,
 		"iS": 4126,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/bt_demo.png",
+		"oAP": "/build/inc/bankin/images/bt_demo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/cinetique.png": {
+	"/inc/bankin/images/cinetique.png": {
 		"ft": 32768,
 		"iS": 5616,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/cinetique.png",
+		"oAP": "/build/inc/bankin/images/cinetique.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/economiser.png": {
+	"/inc/bankin/images/economiser.png": {
 		"ft": 32768,
 		"iS": 10835,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/economiser.png",
+		"oAP": "/build/inc/bankin/images/economiser.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/etiquette-globale-sprite.png": {
+	"/inc/bankin/images/etiquette-globale-sprite.png": {
 		"ft": 32768,
 		"iS": 56104,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/etiquette-globale-sprite.png",
+		"oAP": "/build/inc/bankin/images/etiquette-globale-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/etiquette-globale.png": {
+	"/inc/bankin/images/etiquette-globale.png": {
 		"ft": 32768,
 		"iS": 53142,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/etiquette-globale.png",
+		"oAP": "/build/inc/bankin/images/etiquette-globale.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/iphone-bg-menu.png": {
+	"/inc/bankin/images/iphone-bg-menu.png": {
 		"ft": 32768,
 		"iS": 199968,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/iphone-bg-menu.png",
+		"oAP": "/build/inc/bankin/images/iphone-bg-menu.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/iphone-bg.png": {
+	"/inc/bankin/images/iphone-bg.png": {
 		"ft": 32768,
 		"iS": 154259,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/iphone-bg.png",
+		"oAP": "/build/inc/bankin/images/iphone-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/images\/nav-indicator-bg.png": {
+	"/inc/bankin/images/nav-indicator-bg.png": {
 		"ft": 32768,
 		"iS": 2840,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/images\/nav-indicator-bg.png",
+		"oAP": "/build/inc/bankin/images/nav-indicator-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/bankin\/inc\/master_functions.js": {
+	"/inc/bankin/inc/master_functions.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/inc\/min\/master_functions-min.js",
+		"oAP": "/build/inc/bankin/inc/min/master_functions-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/inc\/bankin\/inc\/modernizr.custom.js": {
+	"/inc/bankin/inc/modernizr.custom.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/inc\/bankin\/inc\/min\/modernizr.custom-min.js",
+		"oAP": "/build/inc/bankin/inc/min/modernizr.custom-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/inc\/bankin\/index.html": {
+	"/inc/bankin/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/inc\/bankin\/index.html",
+		"oAP": "/build/inc/bankin/index.html",
 		"oF": 0
 		},
-	"\/inc\/tigerlily\/images\/bg-choices.png": {
+	"/inc/tigerlily/images/bg-choices.png": {
 		"ft": 32768,
 		"iS": 996,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/bg-choices.png",
+		"oAP": "/build/inc/tigerlily/images/bg-choices.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/bg.png": {
+	"/inc/tigerlily/images/bg.png": {
 		"ft": 32768,
 		"iS": 2119,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/bg.png",
+		"oAP": "/build/inc/tigerlily/images/bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/bg_form.png": {
+	"/inc/tigerlily/images/bg_form.png": {
 		"ft": 32768,
 		"iS": 957,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/bg_form.png",
+		"oAP": "/build/inc/tigerlily/images/bg_form.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/bg_input.png": {
+	"/inc/tigerlily/images/bg_input.png": {
 		"ft": 32768,
 		"iS": 2139,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/bg_input.png",
+		"oAP": "/build/inc/tigerlily/images/bg_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/bt_envoyer.png": {
+	"/inc/tigerlily/images/bt_envoyer.png": {
 		"ft": 32768,
 		"iS": 2002,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/bt_envoyer.png",
+		"oAP": "/build/inc/tigerlily/images/bt_envoyer.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/mobile.png": {
+	"/inc/tigerlily/images/mobile.png": {
 		"ft": 32768,
 		"iS": 169886,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/mobile.png",
+		"oAP": "/build/inc/tigerlily/images/mobile.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/orange.png": {
+	"/inc/tigerlily/images/orange.png": {
 		"ft": 32768,
 		"iS": 940,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/orange.png",
+		"oAP": "/build/inc/tigerlily/images/orange.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/rounded.png": {
+	"/inc/tigerlily/images/rounded.png": {
 		"ft": 32768,
 		"iS": 1342,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/rounded.png",
+		"oAP": "/build/inc/tigerlily/images/rounded.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/rounded_input.png": {
+	"/inc/tigerlily/images/rounded_input.png": {
 		"ft": 32768,
 		"iS": 106,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/rounded_input.png",
+		"oAP": "/build/inc/tigerlily/images/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/images\/x.png": {
+	"/inc/tigerlily/images/x.png": {
 		"ft": 32768,
 		"iS": 2789,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/images\/x.png",
+		"oAP": "/build/inc/tigerlily/images/x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/index.html": {
+	"/inc/tigerlily/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/inc\/tigerlily\/index.html",
+		"oAP": "/build/inc/tigerlily/index.html",
 		"oF": 0
 		},
-	"\/inc\/tigerlily\/js\/jquery.min.js": {
+	"/inc/tigerlily/js/jquery.min.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/js\/min\/jquery.min-min.js",
+		"oAP": "/build/inc/tigerlily/js/min/jquery.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/inc\/tigerlily\/js\/jquery.validate-.js": {
+	"/inc/tigerlily/js/jquery.validate-.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/js\/min\/jquery.validate--min.js",
+		"oAP": "/build/inc/tigerlily/js/min/jquery.validate--min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/inc\/tigerlily\/js\/modernizr.custom.65716.js": {
+	"/inc/tigerlily/js/modernizr.custom.65716.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/js\/min\/modernizr.custom.65716-min.js",
+		"oAP": "/build/inc/tigerlily/js/min/modernizr.custom.65716-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/inc\/tigerlily\/master_tgly.css": {
+	"/inc/tigerlily/master_tgly.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/master_tgly-min.css",
+		"oAP": "/build/inc/tigerlily/master_tgly-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bg-choices.png": {
+	"/inc/tigerlily/mobile/images/bg-choices.png": {
 		"ft": 32768,
 		"iS": 996,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg-choices.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bg-choices.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bg.png": {
+	"/inc/tigerlily/mobile/images/bg.png": {
 		"ft": 32768,
 		"iS": 2119,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bg_focus_input.png": {
+	"/inc/tigerlily/mobile/images/bg_focus_input.png": {
 		"ft": 32768,
 		"iS": 1795,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_focus_input.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bg_focus_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bg_form.png": {
+	"/inc/tigerlily/mobile/images/bg_form.png": {
 		"ft": 32768,
 		"iS": 957,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_form.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bg_form.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bg_input.png": {
+	"/inc/tigerlily/mobile/images/bg_input.png": {
 		"ft": 32768,
 		"iS": 1243,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bg_input.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bg_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/bt_envoyer.png": {
+	"/inc/tigerlily/mobile/images/bt_envoyer.png": {
 		"ft": 32768,
 		"iS": 2002,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/bt_envoyer.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/bt_envoyer.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/mobile.png": {
+	"/inc/tigerlily/mobile/images/mobile.png": {
 		"ft": 32768,
 		"iS": 169958,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/mobile.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/mobile.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/orange.png": {
+	"/inc/tigerlily/mobile/images/orange.png": {
 		"ft": 32768,
 		"iS": 940,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/orange.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/orange.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/rounded.png": {
+	"/inc/tigerlily/mobile/images/rounded.png": {
 		"ft": 32768,
 		"iS": 1342,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/rounded.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/rounded.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/rounded_input.png": {
+	"/inc/tigerlily/mobile/images/rounded_input.png": {
 		"ft": 32768,
 		"iS": 106,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/rounded_input.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/images\/x.png": {
+	"/inc/tigerlily/mobile/images/x.png": {
 		"ft": 32768,
 		"iS": 2789,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/images\/x.png",
+		"oAP": "/build/inc/tigerlily/mobile/images/x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/inc\/tigerlily\/mobile\/index.html": {
+	"/inc/tigerlily/mobile/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/index.html",
+		"oAP": "/build/inc/tigerlily/mobile/index.html",
 		"oF": 0
 		},
-	"\/inc\/tigerlily\/mobile\/master_tgly.css": {
+	"/inc/tigerlily/mobile/master_tgly.css": {
 		"aP": 1,
 		"bl": 1,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/inc\/tigerlily\/mobile\/master_tgly-min.css",
+		"oAP": "/build/inc/tigerlily/mobile/master_tgly-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/index.html": {
-		"cB": 1,
+	"/index.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/build\/index.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "/build/index.html",
+		"oF": 0
 		},
-	"\/README.html": {
+	"/README.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/build\/README.html",
+		"oAP": "/build/README.html",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 0,
@@ -1081,7 +1079,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/build\/README.html",
+		"oAP": "/build/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1090,92 +1088,92 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/scripts\/device.js": {
+	"/scripts/device.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/device-min.js",
+		"oAP": "/build/scripts/min/device-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/jquery.mb.CSSAnimate.js": {
+	"/scripts/jquery.mb.CSSAnimate.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
+		"oAP": "/build/scripts/min/jquery.mb.CSSAnimate-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/jquery.mb.momentumSlide.js": {
+	"/scripts/jquery.mb.momentumSlide.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
+		"oAP": "/build/scripts/min/jquery.mb.momentumSlide-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/jquery.touchwipe.min.js": {
+	"/scripts/jquery.touchwipe.min.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
+		"oAP": "/build/scripts/min/jquery.touchwipe.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/master_functions.js": {
+	"/scripts/master_functions.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
+		"oAP": "/build/scripts/min/master_functions-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/modernizr.custom.js": {
+	"/scripts/modernizr.custom.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
+		"oAP": "/build/scripts/min/modernizr.custom-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/retina.js": {
+	"/scripts/retina.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/retina-min.js",
+		"oAP": "/build/scripts/min/retina-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/screenfull.js": {
+	"/scripts/screenfull.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
+		"oAP": "/build/scripts/min/screenfull-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/scripts\/video.js": {
+	"/scripts/video.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/scripts\/min\/video-min.js",
+		"oAP": "/build/scripts/min/video-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1189,149 +1187,103 @@
 	"creationDate": 506473496,
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "defaultFrameworkIcon",
-	"lastBuiltDate": 565234833
+	"iconImageName": "/ico/apple-touch-icon-ipad-retina.png",
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 565834358.08371496
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoprefixerEnableIEGrid": 1,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1343,7 +1295,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1355,7 +1328,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1391,53 +1382,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1446,6 +1430,7 @@
 	"bowerSaveDevDependencies": 1,
 	"bowerUseExactVersion": 1,
 	"browserRefreshDelay": 0,
+	"browserslistString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1803,6 +1788,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1814,6 +1803,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -1859,6 +1852,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -1877,10 +1874,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2079,9 +2072,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2435,6 +2432,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2463,6 +2464,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2470,6 +2475,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 0,
@@ -2525,7 +2534,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -2585,7 +2594,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost",
+	"externalServerAddress": "http://localhost",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -2980,7 +2989,6 @@
 		"escapeHTMLCharacters": 1,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 1,
 		"useDoubleQuotes": 0,
@@ -2993,12 +3001,13 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
@@ -3030,19 +3039,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 1,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3098,7 +3107,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 3,
@@ -3127,7 +3136,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
@@ -3151,36 +3160,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 0,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 1,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/flexbox",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, /flexbox",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3188,11 +3231,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3216,6 +3259,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -3232,7 +3279,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3240,20 +3295,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -3268,6 +3335,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -3276,12 +3351,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -3292,12 +3375,20 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
-			"active": 0,
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -3308,23 +3399,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3336,13 +3455,21 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/build"
+	"websiteRelativeRoot": "/build"
 	},
 "settingsFileVersion": "3"
 }
