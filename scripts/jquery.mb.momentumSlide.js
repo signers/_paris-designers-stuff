@@ -135,7 +135,7 @@ $.fn.CSSAnimate=function(a,b,h,i,e){return this.each(function(){var d=$(this);if
 
         $('img', $el).bind('dragstart.mbMomentum_'+el.opt.id, function(event){event.preventDefault();});
 
-        var wrapper= $("<div/></section>").addClass("mbScrollWrapper_"+el.opt.id).css({position:"relative", lineHeight:0, margin:0});
+        var wrapper= $("<div/></aside>").addClass("mbScrollWrapper_"+el.opt.id).css({position:"relative", lineHeight:0, margin:0});
         $el.wrapInner(wrapper);
         $el.css({overflow:"hidden"});
 
@@ -146,7 +146,7 @@ $.fn.CSSAnimate=function(a,b,h,i,e){return this.each(function(){var d=$(this);if
         el.pages = $(el.container).children();
 
         el.pages.each(function(i){
-          var wrapper = $("<div/></section>").addClass("pageContent");
+          var wrapper = $("<div/></aside>").addClass("pageContent");
           $(this).wrapInner(wrapper);
 
           var css = el.opt.direction == "h" ? {display:"inline-block", width:$el.outerWidth()} : {display:"block", height:$el.outerHeight()};
@@ -431,10 +431,10 @@ $.fn.CSSAnimate=function(a,b,h,i,e){return this.each(function(){var d=$(this);if
       indexBox.empty();
       if(el.pages.length==1)
         return;
-      var idxContainer =$("<div/></section>").addClass("idxContainer");
+      var idxContainer =$("<div/></aside>").addClass("idxContainer");
       indexBox.append(idxContainer);
       for (var i=0; i< el.pages.length;i++){
-        var indexEl=$("<div/></section>").addClass("idxPage").attr("id","pageIdx_"+i).data("idx",i);
+        var indexEl=$("<div/></aside>").addClass("idxPage").attr("id","pageIdx_"+i).data("idx",i);
         indexEl.click(function(){
           $.mbMomentumSlide.goTo(el,$(this).data("idx")+1);
         });
