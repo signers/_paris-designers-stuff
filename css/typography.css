@@ -2,7 +2,7 @@
 /* TODO TYPOGRAPHY
 -------------------------------------------------- */
 
-header h1 {font: 700 1.4em/46px 'Titillium Web', sans-serif;}
+header h1, figure h1 {font: 700 1.4em/46px 'Titillium Web', sans-serif;}
 figure p  {font: 400 1.35em/40px 'Roboto Condensed', sans-serif;}
 
 
