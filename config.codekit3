@@ -51,8 +51,7 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"cB": 0,
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -1195,7 +1194,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/ico/apple-touch-icon-ipad-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 565907435.50782502
+	"lastBuiltDate": 565982720.03135002
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

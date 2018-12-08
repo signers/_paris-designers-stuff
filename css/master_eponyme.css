@@ -196,10 +196,12 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 -------------------------------------------------- */
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;}
-.page{position:relative;vertical-align:top;width:100%;height:100%;}
-.page > .pageContent{margin:0;width:100%;height:100%;background:#fff;}
-article h2 {position:absolute;z-index:9999;top:0;margin:0px;padding:5px;background-color: #111;width:4%;color:#fff;text-transform: uppercase;}
+.page{position:relative;width:100%;height:100%;background:#fff;}
 .page > div img {float:left;margin:0}
+article > h2 {position:absolute;z-index:9999;top:0;margin:0px;padding:5px;background-color: #111;width:4%;color:#fff;text-transform: uppercase;}
+figure > h1 {position:absolute;z-index:1;top:0;margin:60px;padding:15px;background-color: #fff;width:4%;color:#111;text-transform: uppercase;}
+
+
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
 #slideIndex .idxContainer{display: inline-block;margin:0;padding:0;}
