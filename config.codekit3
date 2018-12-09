@@ -2,6 +2,14 @@
 "AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
 "buildSteps": [
 	{
+		"itemsToProcess": [
+			"\/scripts\/master_functions.js"
+			],
+		"name": "New \"Process Certain Files\" Step",
+		"stepType": 0,
+		"uuidString": "50AC61EA-C9E6-455A-B7C0-C82B59DCB77F"
+		},
+	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
 		"uuidString": "749700FF-FAC9-4C02-8195-D940B3C91853"
@@ -738,7 +746,7 @@
 		"oAP": "\/build\/inc\/bankin\/inc\/min\/master_functions-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/inc\/bankin\/inc\/modernizr.custom.js": {
 		"ft": 64,
@@ -748,7 +756,7 @@
 		"oAP": "\/build\/inc\/bankin\/inc\/min\/modernizr.custom-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/inc\/bankin\/index.html": {
 		"cB": 0,
@@ -882,7 +890,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/js\/min\/jquery.min-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/inc\/tigerlily\/js\/jquery.validate-.js": {
 		"ft": 64,
@@ -892,7 +900,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/js\/min\/jquery.validate--min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/inc\/tigerlily\/js\/modernizr.custom.65716.js": {
 		"ft": 64,
@@ -902,7 +910,7 @@
 		"oAP": "\/build\/inc\/tigerlily\/js\/min\/modernizr.custom.65716-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/inc\/tigerlily\/master_tgly.css": {
 		"aP": 1,
@@ -1090,9 +1098,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/device-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/jquery.mb.CSSAnimate.js": {
 		"ft": 64,
@@ -1100,9 +1108,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.CSSAnimate-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/jquery.mb.momentumSlide.js": {
 		"ft": 64,
@@ -1110,9 +1118,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/jquery.mb.momentumSlide-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/jquery.touchwipe.min.js": {
 		"ft": 64,
@@ -1120,9 +1128,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/jquery.touchwipe.min-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/master_functions.js": {
 		"ft": 64,
@@ -1130,9 +1138,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/master_functions-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/modernizr.custom.js": {
 		"ft": 64,
@@ -1140,9 +1148,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/modernizr.custom-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/retina.js": {
 		"ft": 64,
@@ -1150,9 +1158,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/retina-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/screenfull.js": {
 		"ft": 64,
@@ -1160,9 +1168,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/screenfull-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/scripts\/video.js": {
 		"ft": 64,
@@ -1170,9 +1178,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/scripts\/min\/video-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		}
 	},
 "hooks": [
@@ -1184,7 +1192,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/ico\/apple-touch-icon-ipad-retina.png",
-	"lastBuiltDate": 566004099
+	"lastBuiltDate": 566091452
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2975,7 +2983,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0,
+		"shouldRunCacheBuster": 1,
 		"useCDATA": 1,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 1
@@ -2999,10 +3007,10 @@
 		"createSourceMap": 1,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
-		"transpilerStyle": 0
+		"transpilerStyle": 1
 		},
 	"languageDefaultsJSON": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.json",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
