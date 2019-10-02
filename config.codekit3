@@ -53,8 +53,7 @@
 		"oF": 1
 		},
 	"\/config.rb": {
-		"cB": 0,
-		"ft": 8192,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "\/config.rb",
 		"oF": 0
@@ -1192,7 +1191,7 @@
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/ico\/apple-touch-icon-ipad-retina.png",
-	"lastBuiltDate": 566091452
+	"lastBuiltDate": 591690654
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2978,7 +2977,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"escapeHTMLCharacters": 1,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
