@@ -36,6 +36,8 @@ a.vim:hover, a.tree:hover{background-color:#fff;border:none;}
 a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
+div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;width:75%;}
+
 /* TODO FUNCTION
 -------------------------------------------------- */
 
@@ -44,8 +46,8 @@ a.vims, a.trees  {background-position: -31px 5px;display: block;}
 .inner > figure p {margin:2.5% 0 2%;padding:0;text-align:center;font-size: 130%;}
 .inner > figure a{margin:2.5% 0 0;padding:0;text-align:center;}
 
- 
- /* RESPONSIVE CSS  TODO  & RETINA  TODO 
+
+ /* RESPONSIVE CSS  TODO  & RETINA  TODO
 -------------------------------------------------- */
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
@@ -53,7 +55,7 @@ a.vims, a.trees  {background-position: -31px 5px;display: block;}
   only screen and (-o-min-device-pixel-ratio: 2/1),
   only screen and (min-device-pixel-ratio: 2) {
   .head {
-    background:#020109 url(../images/retina/bg-sign@2x.png) top left repeat-x; 
+    background:#020109 url(../images/retina/bg-sign@2x.png) top left repeat-x;
     background-size: 26px 909px; }
   #strip{
     background:#020109 url(../images/retina/bg-under-video@2x.png) 0 0 repeat;
@@ -130,7 +132,7 @@ input{
     -moz-transition: left ease-in 0.8s;
     -o-transition: left ease-in 0.8s;
     -ms-transition: left ease-in 0.8s;
-    transition: left ease-in 0.8s; 
+    transition: left ease-in 0.8s;
 }
 
 .sp-slider > li {
@@ -150,7 +152,7 @@ input{
     -moz-transition: opacity ease-in 0.4s 0.8s;
     -o-transition: opacity ease-in 0.4s 0.8s;
     -ms-transition: opacity ease-in 0.4s 0.8s;
-    transition: opacity ease-in 0.4s 0.8s; 
+    transition: opacity ease-in 0.4s 0.8s;
 }
 .sp-slider > li img{
     -webkit-box-sizing: border-box;
@@ -205,12 +207,12 @@ figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;backgroun
   }
 #slideIndex .idxPage.sel{}
 
-section#content{position:absolute;overflow:hidden;z-index:999;margin: 0 auto;text-align:center;background:#fff;}    
+section#content{position:absolute;overflow:hidden;z-index:999;margin: 0 auto;text-align:center;background:#fff;}
 
 #content img:hover  {-moz-transition:all .5s ease;  -o-transition:all .5s ease; -webkit-transition:all .5s ease;transition:all .5s ease;opacity: .2;cursor: pointer;}
 #content .-box-do{border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:0 1px 5px #acacac;-moz-box-shadow:0 1px 5px #acacac;-webkit-box-shadow:0 1px 5px #acacac;background-color:#fff;display:inline-block;overflow:hidden;vertical-align:top;width:505px;height:100%;margin:1px 0 3px 1px;padding:10px;}
-#content .-box {border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:0 1px 5px #acacac;-moz-box-shadow:0 1px 5px #acacac;-webkit-box-shadow:0 1px 5px #acacac;background-color:#fff;display:inline-block;overflow:hidden;vertical-align:top;width:240px;height:auto;margin:1px 0 3px 1px;padding:10px;}    
-#content .-box h3 {margin:0;text-align:left;}   
+#content .-box {border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:0 1px 5px #acacac;-moz-box-shadow:0 1px 5px #acacac;-webkit-box-shadow:0 1px 5px #acacac;background-color:#fff;display:inline-block;overflow:hidden;vertical-align:top;width:240px;height:auto;margin:1px 0 3px 1px;padding:10px;}
+#content .-box h3 {margin:0;text-align:left;}
 #content .-box p {line-height: 20px;text-align:left;margin:0;padding:5px 0 10px;}
 
 img {height: auto;max-width: 100%;}
@@ -230,7 +232,7 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
     overflow: hidden;
     position: relative;
     cursor:pointer;
-    list-style:none; 
+    list-style:none;
     bottom:0;
 }
 .org-menu li  img {
@@ -259,7 +261,7 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
 
 }
 .org-menu li:hover .org-icon{
-     background: url('../images/sr.png') center center no-repeat; 
+     background: url('../images/sr.png') center center no-repeat;
      background-size: 26px 23px;
      height:23px;
      width:26px;
@@ -275,9 +277,10 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
     }
     to {
         -webkit-transform: translateY(0%) scale(1);
-        opacity: 1;        
+        opacity: 1;
     }
 }
+
 @-moz-keyframes moveFromBottom {
     from {
         -moz-transform: translateY(200%) scale(0.5);
@@ -285,7 +288,7 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
     }
     to {
         -moz-transform: translateY(0%) scale(1);
-        opacity: 1;        
+        opacity: 1;
     }
 }
 @-ms-keyframes moveFromBottom {
@@ -295,12 +298,12 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
     }
     to {
         -ms-transform: translateY(0%) scale(1);
-        opacity: 1;        
+        opacity: 1;
     }
 }
 
 
-/* RESPONSIVE TODO ..., CSS3 box-flex     
+/* RESPONSIVE TODO ..., CSS3 box-flex
     display: -webkit-flex;
     display: -moz-box;
     display: -ms-flexbox;
@@ -325,9 +328,9 @@ header[role="banner"] {margin:0 0 10px -26px;}
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;}
 #nav {margin-left:-6.3px;}
 #switch-navigation {height:2em;}
-.sp-content {background-size:2000px 450px;} 
+.sp-content {background-size:2000px 450px;}
 body .inner > figure img {width: 80%;}
-body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-size:90%;  line-height:1.8em;         
+body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-size:90%;  line-height:1.8em;
   }
 }
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -335,16 +338,16 @@ body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-siz
  }
 }
 
-@media only screen 
-and (min-device-width : 768px) 
+@media only screen
+and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 2){
 .sp-content {margin:3% 6%; }
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;
  }
 }
-@media only screen 
-and (min-device-width : 768px) 
+@media only screen
+and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)
 {
@@ -407,4 +410,3 @@ box-sizing: content-box;}
 .chain b:nth-child(14) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 26px 543px; animation-delay:2.8s !important;
   }
 }
-

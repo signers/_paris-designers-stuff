@@ -58,7 +58,9 @@
 		"oF": 1
 		},
 	"/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -401,11 +403,11 @@
 		"oAP": "/build/images/Fast.mp3",
 		"oF": 1
 		},
-	"/images/img-atte-lle.png": {
+	"/images/LLE-III-30-40-00.png": {
 		"ft": 32768,
-		"iS": 67565,
+		"iS": 0,
 		"oA": 0,
-		"oAP": "/build/images/img-atte-lle.png",
+		"oAP": "/build/images/LLE-III-30-40-00.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1225,7 +1227,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/ico/apple-touch-icon-ipad-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 596164927.69964898
+	"lastBuiltDate": 596442498.81592906
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
