@@ -36,7 +36,7 @@ a.vim:hover, a.tree:hover{background-color:#fff;border:none;}
 a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
-div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;width:75%;}
+div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;width:auto;}
 
 /* TODO FUNCTION
 -------------------------------------------------- */

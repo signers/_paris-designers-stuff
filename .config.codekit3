@@ -57,23 +57,11 @@
 		"oAP": "/build/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/screen.scssc",
 		"oF": 1
 		},
-	"/config.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/config.rb",
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
 		"oF": 0
-		},
-	"/css/ie.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/css/ie-min.css",
-		"oF": 1,
-		"oS": 0
 		},
 	"/css/index.css": {
 		"aP": 1,
@@ -104,16 +92,6 @@
 		"oAP": "/build/css/master_eponyme-min.css",
 		"oF": 1,
 		"oS": 2
-		},
-	"/css/print.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/css/print-min.css",
-		"oF": 1,
-		"oS": 0
 		},
 	"/css/screen.css": {
 		"aP": 1,
@@ -362,28 +340,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/bg-under-video.png": {
-		"ft": 32768,
-		"iS": 974,
-		"oA": 0,
-		"oAP": "/build/images/bg-under-video.png",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/close.png": {
-		"ft": 32768,
-		"iS": 331,
-		"oA": 0,
-		"oAP": "/build/images/close.png",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/closeopenleftright.png": {
 		"ft": 32768,
 		"iS": 2117,
@@ -520,17 +476,6 @@
 		"oAP": "/build/images/spinner.gif",
 		"oF": 1,
 		"opt": 1
-		},
-	"/images/sr.png": {
-		"ft": 32768,
-		"iS": 1388,
-		"oA": 0,
-		"oAP": "/build/images/sr.png",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"/images/teasing.jpg": {
 		"ft": 16384,
@@ -782,33 +727,11 @@
 		"oAP": "/build/inc/bankin/index.html",
 		"oF": 0
 		},
-	"/inc/tigerlily/images/bg-choices.png": {
-		"ft": 32768,
-		"iS": 996,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/images/bg-choices.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/inc/tigerlily/images/bg.png": {
 		"ft": 32768,
 		"iS": 2119,
 		"oA": 0,
 		"oAP": "/build/inc/tigerlily/images/bg.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/images/bg_form.png": {
-		"ft": 32768,
-		"iS": 957,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/images/bg_form.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -842,39 +765,6 @@
 		"iS": 169886,
 		"oA": 0,
 		"oAP": "/build/inc/tigerlily/images/mobile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/images/orange.png": {
-		"ft": 32768,
-		"iS": 940,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/images/orange.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/images/rounded.png": {
-		"ft": 32768,
-		"iS": 1342,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/images/rounded.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/images/rounded_input.png": {
-		"ft": 32768,
-		"iS": 106,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/images/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -943,17 +833,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/inc/tigerlily/mobile/images/bg-choices.png": {
-		"ft": 32768,
-		"iS": 996,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/bg-choices.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/inc/tigerlily/mobile/images/bg.png": {
 		"ft": 32768,
 		"iS": 2119,
@@ -976,28 +855,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/inc/tigerlily/mobile/images/bg_form.png": {
-		"ft": 32768,
-		"iS": 957,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/bg_form.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/mobile/images/bg_input.png": {
-		"ft": 32768,
-		"iS": 1243,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/bg_input.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/inc/tigerlily/mobile/images/bt_envoyer.png": {
 		"ft": 32768,
 		"iS": 2002,
@@ -1014,39 +871,6 @@
 		"iS": 169958,
 		"oA": 0,
 		"oAP": "/build/inc/tigerlily/mobile/images/mobile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/mobile/images/orange.png": {
-		"ft": 32768,
-		"iS": 940,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/orange.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/mobile/images/rounded.png": {
-		"ft": 32768,
-		"iS": 1342,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/rounded.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/inc/tigerlily/mobile/images/rounded_input.png": {
-		"ft": 32768,
-		"iS": 106,
-		"oA": 0,
-		"oAP": "/build/inc/tigerlily/mobile/images/rounded_input.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1088,6 +912,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/index.html",
+		"oF": 0
+		},
+	"/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/LICENSE",
+		"oF": 0
+		},
+	"/normalize.css-master.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/normalize.css-master.zip",
 		"oF": 0
 		},
 	"/README.html": {
@@ -1183,17 +1023,6 @@
 		"sC": 1,
 		"tS": 1
 		},
-	"/scripts/retina.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 1,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/scripts/min/retina-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 1
-		},
 	"/scripts/screenfull.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1225,9 +1054,9 @@
 	"creationDate": 506473496,
 	"displayValue": "_paris-designers-stuff",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "/ico/apple-touch-icon-ipad-retina.png",
+	"iconImageName": "/ico/apple-touch-icon-iphone-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 596442498.81592906
+	"lastBuiltDate": 606616118.18690097
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

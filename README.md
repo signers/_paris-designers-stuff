@@ -1,4 +1,2 @@
-_paris-designers-stuff
-======================
-
-Common knowledge
+# _paris-designers-stuff
+ 
