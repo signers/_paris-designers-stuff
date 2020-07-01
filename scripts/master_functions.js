@@ -12,9 +12,9 @@ return new Za.prototype.init(a,b,c,d,e)}m.Tween=Za,Za.prototype={constructor:Za,
 /*! TODO */
 $(function(){
 	$(window).scroll(function() {
-		if($(window).scrollTop() > 0) {	
+		if($(window).scrollTop() > 0) {
 			$("#back").fadeIn(50);
-		} else {	
+		} else {
 			$("#back").fadeOut(50);
 		}
 	});
@@ -40,42 +40,42 @@ $(document).ready(function() {
 
 // To make images retina, add a class "2x" to the img element
 // and add a <image-name>@2x.png image. Assumes jquery is loaded.
- 
+
 /**
 function isRetina() {
 	var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
 					  (min--moz-device-pixel-ratio: 1.5),\
 					  (-o-min-device-pixel-ratio: 3/2),\
 					  (min-resolution: 1.5dppx)";
- 
+
 	if (window.devicePixelRatio > 1)
 		return true;
- 
+
 	if (window.matchMedia && window.matchMedia(mediaQuery).matches)
 		return true;
- 
+
 	return false;
 };
- 
- 
+
+
 function retina() {
-	
+
 	if (!isRetina())
 		return;
-	
+
 	$("img.2x").map(function(i, image) {
-		
+
 		var path = $(image).attr("src");
-		
+
 		path = path.replace(".png", "@2x.png");
 		path = path.replace(".jpg", "@2x.jpg");
-		
+
 		$(image).attr("src", path);
 	});
 };
- 
+
 $(document).ready(retina);
-/ 
+/
 
 /**
 * jquery.mb.components
@@ -530,139 +530,139 @@ jQuery.fn.CSSAnimate=function(a,b,k,l,f){return this.each(function(){var c=jQuer
     });
 
   })
- 
+
 $(document).ready(function() {
 
    $("#vim").click(function(e){
        e.preventDefault();
 	   var animate_height = '30%';
 	   if ($(window).width() <=0) {
-			animate_height = '1000px';  
-			
+			animate_height = '1000px';
+
 			// resize images here?
-			//$("div#panel li img").width(338); 
+			//$("div#panel li img").width(338);
 	   }
 
         $("#strip").animate({height: animate_height},"medium");
-    });   
+    });
 
     $("#vims").click(function(e){
         e.preventDefault();
         $("#strip").animate({height: "0px"},"medium");
-    });  
+    });
 
     $("#video a").click(function () {
         $("#video a").toggle();
-    });  
+    });
 
 
    $("#tree").click(function(e){
        e.preventDefault();
 	   var animate_height = '45%';
 	   if ($(window).width() <=0) {
-			animate_height = '1000px';  
-			
+			animate_height = '1000px';
+
 	   }
           $("#press").animate({height: animate_height},"medium");
-    });   
+    });
 
     $("#trees").click(function(e){
         e.preventDefault();
         $("#press").animate({height: "0"},"medium");
-    });  
+    });
         $("#closex").click(function(e){
         e.preventDefault();
         $("#press").animate({height: "0px"},"medium");
     });
     $("#think a").click(function () {
         $("#think a").toggle();
-    });  
+    });
 
     $("#signers").click(function(e){
         e.preventDefault();
         $("#rules").animate({height: "0px"},"medium");
-    });  
+    });
 
    $("#signs" ).click(function(e){
      e.preventDefault();
 	   var animate_height = '100%';
 	   if ($(window).width() <=50) {
-			animate_height = '580px';  
+			animate_height = '580px';
 
        }
           $("#rules").animate({height: animate_height},"medium");
-    });  
+    });
     $("#sign a ").click(function () {
         $("#sign a ").toggle();
-    }); 
+    });
 
      $("#texts").click(function(e){
         e.preventDefault();
         $("#rules").animate({height: "0px"},"medium");
-    });  
+    });
 
    $("#txt").click(function(e){
        e.preventDefault();
 	   var animate_height = '0';
 	   if ($(window).width() <=0) {
-			animate_height = '0px';  
-			
+			animate_height = '0px';
+
 			// resize images here?
-			//$("div#press li img").width(338); 
+			//$("div#press li img").width(338);
 	   }
           $("#rules").animate({height: animate_height},"medium");
-    });  
+    });
     $("#text a ").click(function () {
         $("#text a ").toggle();
-    }); 
+    });
 
      $("#liters").click(function(e){
         e.preventDefault();
         $("#rules").animate({height: "0px"},"medium");
-    });  
+    });
 
    $("#liter").click(function(e){
        e.preventDefault();
 	   var animate_height = '0';
 	   if ($(window).width() <=0) {
-			animate_height = '0px';  
-			
+			animate_height = '0px';
+
 			// resize images here?
-			//$("div#press li img").width(338); 
+			//$("div#press li img").width(338);
 	   }
           $("#rules").animate({height: animate_height},"medium");
-    });  
+    });
     $("#lit a ").click(function () {
         $("#lit a ").toggle();
-    }); 
+    });
 
  $("#vids").click(function(e){
         e.preventDefault();
         $("#rules").animate({height: "0px"},"medium");
-    });  
+    });
 
    $("#vid").click(function(e){
        e.preventDefault();
 	   var animate_height = '0';
 	   if ($(window).width() <=0) {
-			animate_height = '0px';  
-			
+			animate_height = '0px';
+
 			// resize images here?
-			//$("div#press li img").width(338); 
+			//$("div#press li img").width(338);
 	   }
           $("#rules").animate({height: animate_height},"medium");
-    });  
+    });
     $("#deo a ").click(function () {
         $("#deo a ").toggle();
-    }); 
+    });
 
 
 	$(".tab_content").hide();
 	$("ul.tabs li").addClass("").show();
 	$("ul.tabs li#signs").addClass("active").show();
-	$(".tab_content:first").hide(-1);	
+	$(".tab_content:first").hide(-1);
 	$("ul.tabs li").click(function() {
-		$("ul.tabs li").removeClass("active"); 
+		$("ul.tabs li").removeClass("active");
 		$(this).addClass("active");
 		$(".tab_content").hide();
 		var activeTab = $(this).find("a").attr("href");
@@ -672,9 +672,6 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-$('a[rel*="external"]').click(function() 
-{window.open($(this).attr('href')); return false;}); 
+$('a[rel*="external"]').click(function()
+{window.open($(this).attr('href')); return false;});
 });
-
-
-

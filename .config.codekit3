@@ -355,13 +355,13 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/build/images/Fast.mp3",
-		"oF": 1
+		"oF": 0
 		},
 	"/images/LLE-III-30-40-00.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 2117336,
 		"oA": 0,
 		"oAP": "/build/images/LLE-III-30-40-00.png",
 		"oF": 0,
@@ -1056,7 +1056,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/ico/apple-touch-icon-iphone-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 606616118.18690097
+	"lastBuiltDate": 613599953.20080698
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
