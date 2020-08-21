@@ -57,12 +57,6 @@
 		"oAP": "/build/.sass-cache/e853c2f6693e3942247a98ba31948705436e54ef/screen.scssc",
 		"oF": 1
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/css/index.css": {
 		"aP": 1,
 		"bl": 1,
@@ -1056,7 +1050,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/ico/apple-touch-icon-iphone-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 615657367.22330999
+	"lastBuiltDate": 619074784.59455395
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
