@@ -392,6 +392,171 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/pantone/IMG_3638.PNG": {
+		"ft": 32768,
+		"iS": 345793,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3638.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3639.PNG": {
+		"ft": 32768,
+		"iS": 354901,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3639.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3640.PNG": {
+		"ft": 32768,
+		"iS": 303655,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3640.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3641.PNG": {
+		"ft": 32768,
+		"iS": 346877,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3641.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3642.PNG": {
+		"ft": 32768,
+		"iS": 342976,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3642.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3644.PNG": {
+		"ft": 32768,
+		"iS": 325647,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3644.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3645.PNG": {
+		"ft": 32768,
+		"iS": 354989,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3645.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3647.PNG": {
+		"ft": 32768,
+		"iS": 319107,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3647.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3648.PNG": {
+		"ft": 32768,
+		"iS": 294910,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3648.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3649.PNG": {
+		"ft": 32768,
+		"iS": 326218,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3649.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3651.PNG": {
+		"ft": 32768,
+		"iS": 344403,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3651.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3652.PNG": {
+		"ft": 32768,
+		"iS": 335666,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3652.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3653.PNG": {
+		"ft": 32768,
+		"iS": 406791,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3653.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3654.PNG": {
+		"ft": 32768,
+		"iS": 328378,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3654.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/pantone/IMG_3655.PNG": {
+		"ft": 32768,
+		"iS": 330327,
+		"oA": 0,
+		"oAP": "/build/images/pantone/IMG_3655.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/retina/arrows@2x.png": {
 		"ft": 32768,
 		"iS": 3430,
@@ -922,14 +1087,6 @@
 		"oAP": "/build/LICENSE",
 		"oF": 0
 		},
-	"/normalize.css-master.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/build/normalize.css-master.zip",
-		"oF": 0
-		},
 	"/README.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1056,7 +1213,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/ico/apple-touch-icon-iphone-retina.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 619662366.37407899
+	"lastBuiltDate": 635551032.32329702
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
