@@ -42,9 +42,9 @@ div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;width:auto;}
 -------------------------------------------------- */
 
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;}
-.inner > figure img{margin:4% 0 3.5%;padding:0;text-align:center;width:350px;height:auto;}
-.inner > figure p {margin:2.5% 0 2%;padding:0;text-align:center;font-size: 130%;}
-.inner > figure a{margin:2.5% 0 0;padding:0;text-align:center;}
+.inner > figure img{margin:4% 0 3%;padding:0;text-align:center;width:350px;height:auto;}
+.inner > figure p {margin:0 0 1%;padding:0;text-align:center;font-size: 130%;}
+.inner > figure a{margin:0 0 2%;padding:0;text-align:center;}
 
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
