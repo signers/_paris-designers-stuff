@@ -200,7 +200,6 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #sec > div{background:#020109;}
 article > h2 {position:absolute;z-index:9999;top:0;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #111;width:auto;color:#fff;text-transform: uppercase;}
 figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:auto;color:#111;text-transform: uppercase;}
-
 article > p {position:absolute;z-index:9999;top:0;right:0;margin:2.3em 0 2.3em 0;padding:5.5em;line-height:5.2em;background:#020109;width:auto;color:#fff;text-transform:uppercase;letter-spacing:2px;}
 article > p a {margin:auto;padding:1.5em 0 1.5em;line-height:5.2em;background:#020109;width:auto;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 
