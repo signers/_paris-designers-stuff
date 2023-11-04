@@ -14,10 +14,8 @@ figure p  {font: 400 1.35em/40px 'Roboto Condensed', sans-serif;}
 .-box h3 {font: 600 1.1em 'Roboto Condensed', sans-serif;}
 .-box p {font: 400 0.8em 'Titillium Web', sans-serif;}
 
-
-article > p {font: 400 1em/2.1em 'Titillium Web', sans-serif;color:#777;}
+article > p {font: 400 1em/2.1em 'Titillium Web', sans-serif;color:#888;}
 article > p a {font: 400 0.85em/0em 'Titillium Web', sans-serif;color:#888;}
-
 
 .sp-slider > li h1  {font-family:'PT Sans', sans-serif;font-weight:300;}
 #s-sign h2, #s-text h2, #s-liter h2, #s-video h2{font: 500 0.80em/25px 'Roboto Condensed', sans-serif;}
