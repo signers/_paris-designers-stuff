@@ -192,12 +192,10 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 /* SLIDE BOTTOM
 -------------------------------------------------- */
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;background:#020109}
-#s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;}
-.page{position:relative;z-index:-1;width:100%;height:100%;}
-.pageContent {background:#020109;}
-.page > div {float:left;margin:auto;height:100%;width:100%;background:#020109 url(../images/retina/bg-sign@2x.png) top left repeat-x;}
-.page > div img {float:left;margin:-2em 0 0 0;height:80%;}
-article > h2 {position:absolute;z-index:9999;top:0;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #111;width:auto;color:#fff;text-transform: uppercase;}
+#s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url(../images/retina/bg-sign@2x.png) top left repeat-x;}
+.page{position:relative;z-index:-1;width:100%;height:100%;top:0;}
+.page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
+article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:auto;color:#fff;text-transform: uppercase;}
 figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:auto;color:#111;text-transform: uppercase;}
 article.blanc > p, article.blanc > a
 {position:absolute;top:0;right:0;display:inline-block;z-index:9999;margin:1.5em 0 1.5em 0;padding:2.5em;line-height:3.2em;background:#020109;width:auto;color:#fff;text-transform:uppercase;letter-spacing:2px;}
