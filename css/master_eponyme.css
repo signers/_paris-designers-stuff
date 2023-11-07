@@ -199,11 +199,10 @@ article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;
 figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:auto;color:#020109;text-transform: uppercase;}
 .motif {float:left;margin:1.5em 0 1.5em 0;padding:3.5em 0 0 0;}
 article.blanc > h4
-{position:absolute;top:0.7em;right:-3em;display:inline-block;z-index:9999;margin:1em 2.8em 1em 0;padding:1em 3.8em 3em 1.5em;line-height:2.2em;background:#020109;width:auto;color:#fff;text-transform:uppercase;letter-spacing:2px;}
+{position:absolute;top:0.7em;right:-3em;z-index:9999;margin:1em 2.8em 1em 0;padding:1em 2.5em 3em 1.5em;line-height:2.2em;background:#020109;width:auto;color:#fff;text-transform:uppercase;letter-spacing:2px;}
 article.blanc > p
-{position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0.5em 2.5em 1.8em;line-height:1em;background:#020109;width:inherit;color:#fff;text-transform:uppercase;letter-spacing:2px;}
-article.blanc > p a {text-transform:lowercase;}
-article.blanc > p a:hover {color:#fff;text-transform:lowercase;}
+{position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0 2.5em 1.4em;line-height:1em;background:#020109;width:inherit;color:#fff;text-transform:lowercase;letter-spacing:2px;}
+article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;}
 
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:lowercase;letter-spacing:2px;}
