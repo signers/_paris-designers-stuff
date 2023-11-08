@@ -5,6 +5,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 /* HEADER HEAD CONTENT LAYOUT
 -------------------------------------------------- */
 
+body .inner {width:100% inherit;}
 header[role="banner"] {margin:0;padding:2.3% 0 0 7.5%;width:100%;display:inline-block;}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
@@ -23,9 +24,9 @@ box-shadow: 0 1px 25px #111;}
 -------------------------------------------------- */
 
 #nav {position: relative;background:#020109;border-top:0.1rem dashed rgba(255,255,255,0.2);box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);bottom:0; border-bottom:0.1rem dashed rgba(255,255,255,0.2);margin:0;}
-#nav ul {list-style:none;margin:0 4% 0 3.8%;padding:0;text-align:center;}
+#nav ul {list-style:none;margin:0 4em 0 3.8em;padding:0;text-align:center;}
 #nav li {margin:0 -4px 0 0;padding:0;text-align:center;display:inline-block;width:25%;font-size:18px;text-transform:uppercase;letter-spacing:2px;}
-nav a {text-decoration:none;color:#7d7d79;padding:33px 0;display:block;border-width:0.1rem dashed rgba(255,255,255,0.2);border-left:0.1rem dashed rgba(255,255,255,0.2);}
+nav a {text-decoration:none;color:#7d7d79;padding:33px 0;display:block;border-width:0.1em dashed rgba(255,255,255,0.2);border-left:0.1rem dashed rgba(255,255,255,0.2);}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
 nav a#vids, li.active a#vids, li a#vid{border-right:0.1rem dashed rgba(255,255,255,0.2);}
 #nav ul li.active a, nav a:hover {color:#fff;}
@@ -41,10 +42,10 @@ div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;width:auto;}
 /* TODO FUNCTION
 -------------------------------------------------- */
 
-.inner > figure {position:relative;text-align:center;width:auto;right:4%;}
-.inner > figure img{margin:4% 0 3%;padding:0;text-align:center;width:350px;height:auto;}
-.inner > figure p {margin:0 0 1%;padding:0;text-align:center;font-size: 130%;}
-.inner > figure a{margin:0 0 2%;padding:0;text-align:center;}
+.inner > figure {position:relative;text-align:center;width:auto;right:4%;top:0;bottom:0;}
+.inner > figure img{margin:1em 0 2em;padding:0;text-align:center;width:350px;height:auto;}
+.inner > figure p {margin:0 0 1em;padding:0;text-align:center;font-size: 130%;}
+.inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
 
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
@@ -191,7 +192,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER
 -------------------------------------------------- */
-section #section{position:absolute;width:100%;height:100%;overflow:hidden;background:#020109}
+section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url(../images/retina/bg-sign@2x.png) top left repeat-x;}
 .page{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
@@ -208,14 +209,13 @@ article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercas
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
-#slideIndex .idxContainer{display: inline-block;margin:0;padding:0;}
 #slideIndex .idxPage{
     display: inline-block;
     margin:0;
   }
 #slideIndex .idxPage.sel{}
 
-section#content{position:absolute;overflow:hidden;z-index:999;margin: 0 auto;text-align:center;background:#fff;}
+section#content{position:absolute;overflow:hidden;z-index:999;margin: 0 auto;text-align:center;background:#020109;}
 
 #content img:hover  {-moz-transition:all .5s ease;  -o-transition:all .5s ease; -webkit-transition:all .5s ease;transition:all .5s ease;opacity: .2;cursor: pointer;}
 #content .-box-do{border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:0 1px 5px #acacac;-moz-box-shadow:0 1px 5px #acacac;-webkit-box-shadow:0 1px 5px #acacac;background-color:#fff;display:inline-block;overflow:hidden;vertical-align:top;width:505px;height:100%;margin:1px 0 3px 1px;padding:10px;}
@@ -380,6 +380,8 @@ and (-webkit-min-device-pixel-ratio: 1)
 .chain b {width:3%; height:100%; display:block; float:left; animation:chain 3s infinite;-moz-box-sizing: content-box;
 -webkit-box-sizing: content-box;
 box-sizing: content-box;}
+
+
 
 .chain b:nth-child(1) {background: url('../images/bg-bottom-chain.png') top left repeat-x; animation-delay:0.2s !important;}
 .chain b:nth-child(2) {background: url('../images/bg-bottom-chain.png') top left repeat-x; animation-delay:0.4s !important;}
