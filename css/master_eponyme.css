@@ -26,7 +26,7 @@ box-shadow: 0 1px 25px #111;}
 #nav {position: relative;background:#020109;border-top:0.1rem dashed rgba(255,255,255,0.2);box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);bottom:0; border-bottom:0.1rem dashed rgba(255,255,255,0.2);margin:0;}
 #nav ul {list-style:none;margin:0.3em 4em 0 3.8em;padding:0;text-align:center;}
 #nav li {margin:0 -4px 0 0;padding:0;text-align:center;display:inline-block;width:25%;font-size:18px;text-transform:uppercase;letter-spacing:2px;}
-nav a {text-decoration:none;color:#7d7d79;padding:30px 0;display:block;border-width:0.1em dashed rgba(255,255,255,0.2);border-left:0.1rem dashed rgba(255,255,255,0.2);}
+nav a {text-decoration:none;color:#7d7d79;padding:25px 0;display:block;border-width:0.1em dashed rgba(255,255,255,0.2);border-left:0.1rem dashed rgba(255,255,255,0.2);}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
 nav a#vids, li.active a#vids, li a#vid{border-right:0.1rem dashed rgba(255,255,255,0.2);}
 #nav ul li.active a, nav a:hover {color:#fff;}
