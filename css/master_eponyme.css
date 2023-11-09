@@ -38,7 +38,7 @@ a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;height:80%;}
-div > img.tempoA {float:left;margin:0;padding:1.5em 10em 15em 5em ;height:80%;}
+div > img.tempoA {float:left;margin:1em;padding:0.5em 10em 15em 5em ;height:80%;}
 
 /* TODO FUNCTION
 -------------------------------------------------- */
@@ -209,11 +209,16 @@ article.blanc > p
 {position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0 2.5em 1.4em;line-height:1em;background:#020109;width:inherit;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;text-decoration: none;}
 
+.pageA > figure
+{position:absolute;z-index:9999;top:7%;padding:0 0.5em 0 0.5em;line-height:2.2em;width:auto;color:#999;text-transform:uppercase;letter-spacing:2px;}
+.pageA > h2
+{position:absolute;z-index:9999;top:-1.5%;padding:0 0.5em 0.5em;line-height:2.2em;width:auto;color:#999;text-transform:uppercase;letter-spacing:2px;}
+
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 
 #desc-s-signA
-{float:right;display:inline-block;margin:6.5em 0 0 50%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
+{float:right;display:inline-block;margin:4.5em 0 0 50%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
 
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
@@ -407,13 +412,13 @@ box-sizing: content-box;}
 .chain b:nth-child(14) {background: url('../images/bg-bottom-chain.png') top left repeat-x;  animation-delay:2.8s !important;}
 
 .chain-down div:first-child {width:100%; height:100%; top:0; left:0; margin:0;}
-.chain-down b {width:10%; height:40%; margin:0; animation:chain-down 3s ease-in-out infinite;}
+.chain-down b {width:100%; height:40%; margin:0; animation:chain-down 3s ease-in-out infinite;}
 
 @keyframes chain
 {0%,100%{padding:0;} 50%{padding:0 5%;}}
 
 @keyframes chain-full
-{0%,100%{padding:0;} 50%{padding:0 1%;}}
+{0%,100%{padding:0;} 50%{padding:0 10%;}}
 
 @keyframes chain-down
 {0%,100%{padding:0;} 50%{padding:3% 0;}}
