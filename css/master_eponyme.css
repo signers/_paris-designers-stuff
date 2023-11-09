@@ -195,8 +195,8 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 -------------------------------------------------- */
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
-#s-signA {position:fixed;width:100%;height:100%;overflow:hidden;}
-.pageA{position:relative;z-index:-1;width:100%;height:100%;top:0;}
+#s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
+.pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 aside > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 .page{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
@@ -215,10 +215,8 @@ article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercas
 {position:absolute;z-index:9999;top:-1.5%;padding:0 0.5em 0.5em;line-height:2.2em;width:auto;color:#999;text-transform:uppercase;letter-spacing:2px;}
 
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
-{float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:lowercase;letter-spacing:2px;}
+{float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
 
-#desc-s-signA
-{float:right;display:inline-block;margin:4.5em 0 0 50%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
 
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
