@@ -38,7 +38,7 @@ a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;height:80%;}
-div > img.tempoA {float:left;margin:1em;padding:0.5em 10em 15em 5em ;height:80%;}
+div > img.tempoA, div > img.tempoB {float:left;margin:1em;padding:0.5em 10em 15em 5em ;height:80%;}
 
 /* TODO FUNCTION
 -------------------------------------------------- */
@@ -428,7 +428,7 @@ box-sizing: content-box;}
   only screen and (-moz-min-device-pixel-ratio: 2),
   only screen and (-o-min-device-pixel-ratio: 2/1),
   only screen and (min-device-pixel-ratio: 2) {
-.chain b:nth-child(1) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 26px 543px; animation-delay:0.2s !important;}
+.chain b:nth-child(1) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 1.5em 33em; animation-delay:0.2s !important;}
 .chain b:nth-child(2) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 26px 543px; animation-delay:0.6s !important;}
 .chain b:nth-child(3) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 26px 543px; animation-delay:0.6s !important;}
 .chain b:nth-child(4) {background: url('../images/retina/bg-bottom-chain@2x.png') top left repeat-x; background-size: 26px 543px; animation-delay:0.8s !important;}
