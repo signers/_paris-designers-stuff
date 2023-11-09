@@ -212,6 +212,10 @@ article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercas
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 
+#desc-s-signA
+{float:right;display:inline-block;margin:6.5em 0 0 50%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
+
+
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
 #slideIndex .idxPage{
     display: inline-block;
