@@ -48,8 +48,8 @@ div > img.tempoA, div > img.tempoB {float:left;margin:1em;padding:0.5em 10em 15e
 .inner > figure p {margin:0 0 1em;padding: 1em;text-align:center;font-size: 130%;}
 .inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
 
-img.rules {margin:1em 0 2em;padding:0;text-align:center;width:auto;height:2em;}
-img.rules {margin:0 0 1em;padding:0;text-align:center;font-size: 130%;}
+img.rules {margin:0em 0 2em;padding:0;text-align:center;width:auto;height:2em;}
+img.rules {margin:-0.3em 0 1em;padding:0;text-align:center;font-size: 130%;}
 
 p.inners {float:right;margin:0 12em 1em 12em;padding:0.5em;text-align:center;font-size: 100%;}
 p.inners a {margin:0 0 1em;padding:0.5em;font: 400 1em/40px 'Roboto Condensed', sans-serif;color:#888;}
