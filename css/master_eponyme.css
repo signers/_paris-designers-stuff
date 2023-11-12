@@ -37,14 +37,14 @@ a.vim:hover, a.tree:hover{background-color:#fff;border:none;}
 a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
-div > img.tempo {float:left;margin:3em;padding:3em 10em 15em 5em ;height:80%;}
-div > img.tempoA, div > img.tempoB {float:left;margin:1em;padding:0.5em 10em 15em 5em ;height:80%;}
+div > img.tempo {float:left;margin:3em;padding:20em 5em 25em 5em ;height:80%;}
+
 
 /* TODO FUNCTION
 -------------------------------------------------- */
 
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;top:0;bottom:0;}
-.inner > figure img {margin:1em 0 2em;padding:0;text-align:center;width:auto;height:2.5em;}
+.inner > figure img {margin:1em 0 2em;padding:0;text-align:center;width:auto;height:3.5em;}
 .inner > figure p {margin:0 0 1em;padding: 1em;text-align:center;font-size: 130%;}
 .inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
 
@@ -52,7 +52,7 @@ img.rules {margin:0em 0 2em;padding:0;text-align:center;width:auto;height:2em;}
 img.rules {margin:-0.3em 0 1em;padding:0;text-align:center;font-size: 130%;}
 
 p.inners {float:right;margin:0 12em 1em 12em;padding:0.5em;text-align:center;font-size: 100%;}
-p.inners a {margin:0 0 1em;padding:0.5em;font: 400 1em/40px 'Roboto Condensed', sans-serif;color:#888;}
+p.inners a {margin:0 0 1em;padding:0.5em;font: 400 1em/40px 'Roboto Condensed', sans-serif;color:#C0C2C1;}
 
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
