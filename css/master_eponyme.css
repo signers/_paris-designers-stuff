@@ -4,7 +4,6 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 
 /* HEADER HEAD CONTENT LAYOUT
 -------------------------------------------------- */
-
 body .inner {width:100% inherit;}
 header[role="banner"] {margin:0;padding:2.3% 0 0 3.2%;width:100%;display:inline-block;}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
@@ -22,7 +21,6 @@ box-shadow: 0 1px 25px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-
 #nav {position: relative;background:#020109;border-top:0.1rem dashed rgba(255,255,255,0.2);box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);bottom:0; border-bottom:0.1rem dashed rgba(255,255,255,0.2);margin:0;background:#020109 url('../images/bg-bottom-chain.png') top left repeat-x;}
 #nav ul {list-style:none;margin:0.3em 4em 0 3.8em;padding:0;text-align:center;}
 #nav li {margin:0 -4px 0 0;padding:0;text-align:center;display:inline-block;width:25%;font-size:18px;text-transform:uppercase;letter-spacing:2px;}
@@ -39,26 +37,19 @@ a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;height:80%;}
 
-
-
 /* TODO FUNCTION
 -------------------------------------------------- */
-
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;top:-5em;bottom:0;}
-.inner > figure img {margin:0 0 2em;padding:0;text-align:center;width:auto;height:2.3em;}
+.inner > figure img {margin:0 0 2em;padding:0;text-align:center;width:auto;height:2em;}
 .inner > figure p {margin:0 0 1em;padding:0 1em;text-align:center;font-size: 130%;}
 .inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
 
-
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-
 p.inners {float:right;margin:0 8em 1em 12em;padding:0 0.5em;text-align:center;font-size: 100%;}
 p.inners a {margin:0 0 1em;padding:0 0.5em;font: 400 1em/40px 'Roboto Condensed', sans-serif;color:#C0C2C1;}
 
-
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
 -------------------------------------------------- */
-
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
   only screen and (-moz-min-device-pixel-ratio: 2),
   only screen and (-o-min-device-pixel-ratio: 2/1),
@@ -77,9 +68,6 @@ p.inners a {margin:0 0 1em;padding:0 0.5em;font: 400 1em/40px 'Roboto Condensed'
 
 /* BOX OVERLAY STRIP CSS
 -------------------------------------------------- */
-
-
-
 .sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020109 url('../images/retina/teasing@2x.jpg') top left no-repeat;background-size:100% 100%;box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);-moz-box-sizing:border-box;box-sizing:border-box;
 box-shadow: 1px 1px 1px #111;}
 
@@ -196,8 +184,6 @@ input.sp-selector-4:checked ~ .sp-content .sp-slider > li:nth-child(4),
 input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
     opacity: 1;
 }
-
-
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER
 -------------------------------------------------- */
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
@@ -223,8 +209,6 @@ article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercas
 
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
-
-
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
 #slideIndex .idxPage{
@@ -341,7 +325,6 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
   }
 }
 -------------------------------------------------- */
-
 @media only screen and (min-device-width: 240px) and (max-device-width: 300px)  {
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:80%;margin:30px 0;}
 body .inner > figure img {width: 80%;}
@@ -366,7 +349,6 @@ body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-siz
 
 /* DEV CONTENT
 -------------------------------------------------- */
-
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px)
@@ -393,13 +375,10 @@ and (-webkit-min-device-pixel-ratio: 1)
  }
 }
 
-
 .chain div:first-child {width:300px; height:10px; position:absolute; top:50%; left:50%;}
 .chain b {width:3%; height:100%; display:block; float:left; animation:chain 3s infinite;-moz-box-sizing: content-box;
 -webkit-box-sizing: content-box;
 box-sizing: content-box;}
-
-
 
 .chain b:nth-child(1) {background: url('../images/bg-bottom-chain.png') top left repeat-x; animation-delay:0.2s !important;}
 .chain b:nth-child(2) {background: url('../images/bg-bottom-chain.png') top left repeat-x; animation-delay:0.4s !important;}
@@ -427,7 +406,6 @@ box-sizing: content-box;}
 
 @keyframes chain-down
 {0%,100%{padding:0;} 50%{padding:3% 0;}}
-
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
   only screen and (-moz-min-device-pixel-ratio: 2),
