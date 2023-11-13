@@ -6,7 +6,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 -------------------------------------------------- */
 
 body .inner {width:100% inherit;}
-header[role="banner"] {margin:0;padding:2.3% 0 0 2.5%;width:100%;display:inline-block;}
+header[role="banner"] {margin:0;padding:2.3% 0 0 3.2%;width:100%;display:inline-block;}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
 #rules {width: 100%;height: 100%;color: #999;top:0;overflow: hidden;position: relative;z-index: 3;}
