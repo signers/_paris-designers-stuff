@@ -21,12 +21,12 @@ box-shadow: 0 1px 25px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position: relative;background:#020109;border-top:0.1rem dashed rgba(255,255,255,0.2);box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);bottom:0; border-bottom:0.1rem dashed rgba(255,255,255,0.2);margin:0;background:#020109 url('../images/bg-bottom-chain.png') top left repeat-x;}
-#nav ul {list-style:none;margin:0.3em 4em 0 3.8em;padding:0;text-align:center;}
-#nav li {margin:0 -4px 0 0;padding:0;text-align:center;display:inline-block;width:25%;font-size:18px;text-transform:uppercase;letter-spacing:2px;}
-nav a {text-decoration:none;color:#7d7d79;padding:25px 0;display:block;border-width:0.1em dashed rgba(255,255,255,0.2);border-left:0.1rem dashed rgba(255,255,255,0.2);}
+#nav {position: absolute;top:0;left:15em;z-index: 3;}
+#nav ul {list-style:none;margin:0.3em 4em 0 0;padding:4em 0;text-align:left;}
+#nav li {margin:0;padding:0 0.5em;text-align:center;display:inline-block;width:auto;text-transform:uppercase;letter-spacing:2px;}
+nav a {text-decoration:none;color:#7d7d79;padding:5px 0;display:block;}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
-nav a#vids, li.active a#vids, li a#vid{border-right:0.1rem dashed rgba(255,255,255,0.2);}
+nav a#vids, li.active a#vids, li a#vid{}
 #nav ul li.active a, nav a:hover {color:#fff;}
 
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;}
@@ -41,7 +41,7 @@ div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;heigh
 -------------------------------------------------- */
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;top:-5em;bottom:0;}
 .inner > figure img {margin:0 0 2em;padding:0;text-align:center;width:auto;height:2em;}
-.inner > figure p {margin:0 0 1em;padding:0 1em;text-align:center;font-size: 130%;}
+.inner > figure p {margin:0 0 1em;padding:0 1em;text-align:center;}
 .inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
