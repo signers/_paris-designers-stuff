@@ -1,9 +1,7 @@
-
-/* TODO TYPOGRAPHY
--------------------------------------------------- */
-
 header h1, figure h1 {font: 700 1.4em/46px 'Titillium Web', sans-serif;}
 figure p  {font: 400 1.35em/40px 'Roboto Condensed', sans-serif;}
+
+#switch-navigation  {font: 400 1em 'Roboto Condensed', sans-serif;font-weight:200;text-transform: uppercase;color:#888;letter-spacing:2px;}
 
 #navA li  {font: 400 1.3em 'Roboto Condensed', sans-serif;font-weight:800;text-transform: uppercase;color:#C0C2C1;letter-spacing:2px;}
 .inner figure p {font: 400 1.15em/2.2em 'Roboto Condensed', sans-serif;color:#888;}
@@ -20,4 +18,3 @@ article > h3, article > h4, article.blanc > h4 {font: 600 0.85em 'Titillium Web'
 
 .sp-slider > li h1  {font-family:'PT Sans', sans-serif;font-weight:300;}
 #s-sign h2, #s-text h2, #s-liter h2, #s-video h2{font: 500 0.80em/25px 'Roboto Condensed', sans-serif;}
-
