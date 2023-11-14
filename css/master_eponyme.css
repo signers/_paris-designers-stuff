@@ -22,7 +22,7 @@ box-shadow: 0 1px 25px #111;}
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
 #nav, #navA {position: absolute;top:0;left:15em;z-index: 3;}
-#nav ul,  #navA ul{list-style:none;margin:0.3em 4em 0 0;padding:4em 0;text-align:left;}
+#nav ul,  #navA ul{list-style:none;margin:0.3em 4em 0 0;padding:4em 4em 0;text-align:left;}
 #nav li, #navA li {margin:0;padding:0 0.5em;text-align:center;display:inline-block;width:auto;text-transform:uppercase;letter-spacing:2px;}
 nav a {text-decoration:none;color:#7d7d79;padding:5px 0;display:block;}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
