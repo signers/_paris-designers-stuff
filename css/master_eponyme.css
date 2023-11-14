@@ -40,7 +40,7 @@ div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;heigh
 
 /* TODO FUNCTION
 -------------------------------------------------- */
-.inner > figure {position:relative;text-align:center;width:auto;right:4%;top:-5em;bottom:0;}
+.inner > figure {position:relative;text-align:center;width:auto;right:4%;top:-5.2em;bottom:0;}
 .inner > figure img {margin:0 0 2em;padding:0;text-align:center;width:auto;height:2em;}
 .inner > figure p {margin:0 0 1em;padding:0 1em;text-align:center;}
 .inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
