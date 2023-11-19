@@ -297,7 +297,22 @@
 	<script src="scripts/jquery.mb.CSSAnimate.js" type="text/javascript"></script>
 	<script src="scripts/screenfull.js" type="text/javascript"></script>
 	<script src="scripts/device.js" type="text/javascript"></script>
-	<script src="scripts/video.js" type="text/javascript"></script>
+
+<!--
+  <script src="https://embed.cloudflarestream.com/embed/sdk.latest.js"></script>
+
+<script>
+  const player = Stream(document.getElementById('stream-player'));
+  player.addEventListener('play', () => {
+    console.log('playing!');
+  });
+  player.play().catch(() => {
+    console.log('playback failed, muting to try again');
+    player.muted = true;
+    player.play();
+  });
+</script>
+-->
 
 </body>
 </html>
