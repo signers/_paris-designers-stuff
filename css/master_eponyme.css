@@ -33,7 +33,7 @@ nav a#vids, li.active a#vids, li a#vid{}
 #navA ul li.active a, nav a:hover {color:#fff;}
 
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;}
-a.vim, a.vims, a.tree, a.trees {background:#1b1a1a url("../images/closeopenleftright.png") no-repeat 0 0;background-size:75px 98px;height:27px;width:60px;text-indent:-4000px;display:block;margin: 0 auto;position: relative;z-index: 1;cursor:pointer;border:none;}
+a.vim, a.vims, a.tree, a.trees {background:#221c26 url("../images/closeopenleftright.png") no-repeat 0 0;background-size:75px 98px;height:27px;width:60px;text-indent:-4000px;display:block;margin: 0 auto;position: relative;z-index: 1;cursor:pointer;border:none;}
 a.vim:hover, a.tree:hover{background-color:#fff;border:none;}
 a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
@@ -194,7 +194,7 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 aside > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
-.page{position:relative;z-index:-1;width:100%;height:100%;top:0;}
+.page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:auto;color:#fff;text-transform: uppercase;}
 figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:auto;color:#020109;text-transform: uppercase;}
