@@ -197,7 +197,8 @@ aside > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:auto;color:#fff;text-transform: uppercase;}
-figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:auto;color:#020109;text-transform: uppercase;}
+figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:8.8em;color:#020109;text-transform: uppercase;}
+.vign {position:relative;z-index:9999;top:12em;padding:0.5em 0.9em;background-color:#020109;width:13em;}
 .motif {float:left;margin:1.5em 0 1.5em 0;padding:3.5em 0 0 0;}
 article.blanc > h4
 {position:absolute;top:0.7em;right:-3em;z-index:9999;margin:1em 2.8em 1em 0;padding:1em 2.5em 3em 1.5em;line-height:2.2em;background:#020109;width:auto;color:#999;text-transform:uppercase;letter-spacing:2px;}
