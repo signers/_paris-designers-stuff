@@ -206,6 +206,8 @@ article.blanc > p
 {position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0 2.5em 1.4em;line-height:1em;background:#020109;width:inherit;color:#fff;text-transform:lowercase;letter-spacing:2px;}
 article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;text-decoration: none;}
 
+#ifsign, #iftext, #ifliter, #ifvideo {float:none;margin-left:30%;padding-top: 22.734375%;width:40%; height:auto;}
+
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER
 --------------------------------------------------
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
