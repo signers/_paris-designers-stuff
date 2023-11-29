@@ -10,28 +10,25 @@ header[role="banner"] {margin:0;padding:2.3% 0 0 3.2%;width:100%;display:inline-
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
 #rules {width: 100%;height: 100%;color: #999;top:0;overflow: hidden;position: relative;z-index: 3;}
-.head {width:100%;margin:0;background:#020109;}
-.head .inner, .section-inner {padding:0% 4% 1.2% 11%;}
+.head .inner, .section-inner {padding:0% 4% 1.2% 11%;margin:0}
 .head .text p {display:inline-block;margin:2.6% 3% 0 1.3%;width:27%;}
 
 #block-video {position: relative;top: 0;left: 0;width: 100%;z-index:100;box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
 box-shadow: 0 1px 25px #111;}
 #strip {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;background:#020109 url('../images/bg-under-video.png') top left repeat-x; overflow: hidden;}
 #press {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;overflow: hidden;display:inline-block;}
-#switch-navigation {display:block;width:100%;color:#555;margin:à;padding:0;border-top:1px solid rgba(255,255,255,.1);height:5em;}
-#switch-navigation {margin:0 0 1em;padding:0 1em;text-align:center;}
+#switch-navigation {display:block;width:100%;color:#555;margin:0;padding:0;border-top:1px solid rgba(255,255,255,.1);height:5em;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav, #navA {position:relative;top:0;left:auto;z-index: 3;}
-#nav ul,  #navA ul{list-style:none;margin:0.3em 2em 0 0;padding:0em 4em 0;text-align:left;}
-#nav li, #navA li {margin:0;padding:0 0.5em;text-align:center;display:inline-block;width:auto;}
+#nav {position:relative;top:0;left:auto;z-index: 3;}
+#nav ul{list-style:none;margin:1.3em 2em 0 0;padding:0em 4em 0;text-align:left;}
+#nav li {margin:0;padding:0 0.5em;text-align:center;display:inline-block;width:auto;}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
-nav a#vids, li.active a#vids, li a#vid{}
 #nav ul li.active a, nav a:hover {color:#fff;}
-#navA ul li.active a, nav a:hover {color:#fff;}
 
-a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;}
+
+a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;padding:0}
 a.vim, a.vims, a.tree, a.trees {background:#221c26 url("../images/closeopenleftright.png") no-repeat 0 0;background-size:75px 98px;height:27px;width:60px;text-indent:-4000px;display:block;margin: 0 auto;position: relative;z-index: 1;cursor:pointer;border:none;}
 a.vim:hover, a.tree:hover{background-color:#fff;border:none;}
 a.vim, a.tree {background-position: 15px 5px;display: block;}
@@ -43,12 +40,11 @@ div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;heigh
 -------------------------------------------------- */
 .inner > figure {position:relative;text-align:center;width:auto;right:4%;top:-5.2em;bottom:0;}
 .inner > figure img {margin:0 0 2em;padding:0;text-align:center;width:auto;height:2em;}
-.inner > figure p {margin:0 0 1em;padding:0 1em;text-align:center;}
-.inner > figure a{margin:0 0 1em;padding:0;text-align:center;}
+.inner > figure p, .inner > figure a {margin:0 0 1em;padding:0 1em;text-align:center;}
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-p.inners {float:right;margin:0 8em 1em 12em;padding:0 0.5em;text-align:center;font-size: 100%;}
-p.inners a {margin:0 0 1em;padding:0 0.5em;}
+p.inners {float:right;margin:-0.2em 8em 1em 12em;padding:0 0.5em;text-align:center;font-size: 100%;}
+p.inners a {margin:-0.2em 0 1em 0;padding:0 0.5em;}
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
 -------------------------------------------------- */
@@ -193,9 +189,8 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
 #ifsign, #iftext, #ifliter, #ifvideo {float:none;margin-left:30%;padding-top: 22.734375%;width:40%; height:auto;}
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
-aside > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
-.page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
+aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:auto;color:#fff;text-transform: uppercase;}
 figure > h1 {position:absolute;z-index:9999;top:7%;padding:0.5em 0.9em;background-color: #fff;width:8.8em;color:#020109;text-transform: uppercase;}
 .vign {position:relative;z-index:9999;top:12em;padding:0.5em 0.9em;background-color:#020109;width:13em;}
