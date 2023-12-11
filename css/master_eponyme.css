@@ -21,7 +21,7 @@ box-shadow: 0 1px 25px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position:relative;top:0;left:-2em;z-index: 3;}
+#nav {position:relative;top:0;left:-2em;z-index: 3;width:auto;}
 #nav a {cursor:pointer;}
 #nav ul{float:left;list-style:none;margin:0.5em 0;padding:0 0.2em 0 0;text-align:left;}
 #nav li {float:left;margin:0;padding:0 0.5em 0.5em;text-align:center;display:inline-block;width:auto;}
@@ -44,7 +44,7 @@ div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;heigh
 .inner > figure p, .inner > figure a {margin:0 0 1em;padding:0 1em;text-align:center;}
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-p.inners {float:right;margin:-0.2em 8em 1em 12em;padding:0 0.5em;text-align:center;font-size: 100%;}
+p.inners {float:right;margin:0.2em 8em 1em 0;padding:0 0.5em;text-align:center;font-size: 100%;}
 p.inners a {margin:-0.2em 0 1em 0;padding:0 0.5em;}
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
@@ -334,16 +334,13 @@ nav li a {font-size:85%;
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px)  {
 header[role="banner"] {margin:0 0 10px -26px;}
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;}
-#nav {margin-left:-6.3px;}
-#switch-navigation {height:2em;}
+.head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;}
 .sp-content {background-size:2000px 450px;}
 body .inner > figure img {width: 80%;}
 body .inner > figure p, body .inner > figure p a{margin:0 1.8em 0 1.8em;font-size:90%;  line-height:1.8em;
   }
 }
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-#switch-navigation {height:6.8em;
- }
 }
 
 /* DEV CONTENT
