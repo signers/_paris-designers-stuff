@@ -22,10 +22,11 @@ box-shadow: 0 1px 25px #111;}
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
 #nav {position:relative;top:0;left:-2em;z-index: 3;}
+#nav a {cursor:pointer;}
 #nav ul{float:left;list-style:none;margin:0.5em 0;padding:0 0.2em 0 0;text-align:left;}
 #nav li {float:left;margin:0;padding:0 0.5em 0.5em;text-align:center;display:inline-block;width:auto;}
 a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
-#nav ul li.active a, nav a:hover {color:#fff;}
+#nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;}
 
 
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;padding:0}
