@@ -21,12 +21,12 @@ box-shadow: 0 1px 25px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position:relative;top:0;left:-2em;z-index: 3;width:auto;}
+#nav {position:relative;top:0;let:-2em;z-index: 3;}
 #nav a {cursor:pointer;}
-#nav ul{float:left;list-style:none;margin:0.5em 0;padding:0 0.2em 0 0;text-align:left;}
-#nav li {float:left;margin:0;padding:0 0.5em 0.5em;text-align:center;display:inline-block;width:auto;}
-a.signs, a#signs, a.txt, a#txt, a.liter, a#liter, a.vid, a#vid, a.signers, a#signers, a.texts, a#texts, a.liters, a#liters, a.vids, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
-#nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;}
+#nav ul{float:left;list-style:none;margin:0;padding:0;text-align:left;display:inline-block;}
+#nav ul li {margin:0.3em 0 0.5em;padding: 0 0.3em;text-align:left;}
+a#signs, a#txt, a#liter, a#vid, a#signers, a#texts, a#liters, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
+#nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;text-align:left;}
 
 
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;padding:0}
@@ -200,11 +200,11 @@ article.blanc > p
 article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;text-decoration: none;}
 
 
-/* TODO SLIDE DEV BLOCK BDD À RATIONALISER
+/* TODO SLIDE DEV BLOCK BDD À RATIONALISER*/
 --------------------------------------------------
 #desc-s-sign,#desc-s-text,#desc-s-liter,#desc-s-video
 {float:right;display:inline-block;margin:6.5em 0 0 60%;padding:2.5em 1em 2em 2em;line-height:3.2em;background:#020109;color:#fff;text-transform:uppercase;letter-spacing:2px;}
-*/
+
 
 #slideIndex{position: absolute;width: 100%;bottom:0;text-align: center;z-index: 100;background:#111111;}
 #slideIndex .idxPage{
