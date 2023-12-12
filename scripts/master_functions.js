@@ -558,9 +558,9 @@ $(document).ready(function() {
 
    $("#tree").click(function(e){
        e.preventDefault();
-	   var animate_height = '45%';
+	   var animate_height = '95%';
 	   if ($(window).width() <=0) {
-			animate_height = '1000px';
+			animate_height = '100px';
 
 	   }
           $("#press").animate({height: animate_height},"medium");
@@ -568,7 +568,7 @@ $(document).ready(function() {
 
     $("#trees").click(function(e){
         e.preventDefault();
-        $("#press").animate({height: "0"},"medium");
+        $("#press").animate({height: "0px"},"medium");
     });
         $("#closex").click(function(e){
         e.preventDefault();
@@ -580,7 +580,7 @@ $(document).ready(function() {
 
     $("#signers").click(function(e){
         e.preventDefault();
-        $("#rules").animate({height: "0px"},"medium");
+        $("#rules").animate({height: "100px"},"medium");
     });
 
    $("#signs" ).click(function(e){
