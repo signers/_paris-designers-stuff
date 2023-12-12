@@ -24,7 +24,7 @@ box-shadow: 0 1px 25px #111;}
 #nav {position:relative;top:0;left:0;z-index: 3;}
 #nav a {cursor:pointer;}
 #nav ul{float:left;list-style:none;margin:0;padding:0;text-align:left;display:inline-block;}
-#nav ul li {margin:0.3em 0 0.5em;padding: 0 0.3em;text-align:left;}
+#nav ul li {margin:0.3em 0 0 0.1em;padding: 0 0.5em 0 0;text-align:left;}
 a#signs, a#txt, a#liter, a#vid, a#signers, a#texts, a#liters, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
 #nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;text-align:left;}
 
