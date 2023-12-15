@@ -185,7 +185,10 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
-#ifsign, #iftext, #ifliter, #ifvideo {float:none;margin-left:30%;padding-top: 22.734375%;width:40%; height:auto;}
+#ifsign, #iftext-A, #ifliter, #ifvideo {float:right;margin-left:30%;padding-top: 22.734375%;width:40%; height:auto;}
+/* #iftext-A > iframe {float:right;margin-left:20em;padding-top:7.1em;width:20%; height:auto;}
+#iftext-B > iframe {float:right;margin-left:48em;padding-top:7.1em;width:20%; height:auto;}
+#iftext-C > iframe {float:right;margin-left:76.3em;padding-top:7.1em;width:20%; height:auto;}*/
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
