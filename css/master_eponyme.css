@@ -65,7 +65,7 @@ p.inners a {margin:0 0 1em 0;padding:0 0.5em;}
 
 /* TODO BOX OVERLAY STRIP CSS
 -------------------------------------------------- */
-.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020202 url('../images/retina/teasing1@2x.jpg') center center no-repeat;background-size:75% 100%;}
+.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020202 url('../images/retina/teasing1@2x.jpg') center center no-repeat;background-size:72% 100%;}
 
 .sp-slideshow input {display:none;}
 .sp-selector-1, .button-label-1 {margin-left: -36px;}
