@@ -64,8 +64,7 @@ p.inners a {margin:0 0 1em 0;padding:0 0.5em;}
 
 /* TODO BOX OVERLAY STRIP CSS
 -------------------------------------------------- */
-.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020109 url('../images/retina/teasing@2x.jpg') top left no-repeat;background-size:100% 100%;box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);-moz-box-sizing:border-box;box-sizing:border-box;
-box-shadow: 1px 1px 1px #111;}
+.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020202 url('../images/retina/teasing1@2x.jpg') 0 -7em no-repeat;background-size:100% 143%;}
 
 .sp-slideshow input {display:none;}
 .sp-selector-1, .button-label-1 {margin-left: -36px;}
@@ -162,10 +161,13 @@ input{
 .sp-slider > li h1{
     display: block;
     margin:12% auto;
-    background:#020109;
-    width:180px;
+    background:#010101;
+    width:110px;
     box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
-    box-shadow: 0 1px 5px #ACACAC;
+    box-shadow: 0 1px 5px #222;
+}
+.sp-slider > li{
+    font-size:12px;
 }
 
 input.sp-selector-1:checked ~ .sp-content .sp-slider {left: 0;}
