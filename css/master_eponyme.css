@@ -13,7 +13,7 @@ header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 .head .inner, .section-inner {padding:0% 4% 0% 11%;margin:0}
 .head .text p {display:inline-block;margin:2% 3% 0 1.3%;width:27%;}
 
-#block-video {position: relative;top: 0;left: 0;width: 100%;height:90%;z-index:100;box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
+#block-video {position: relative;top: 0;left: 0;width: 100%;height:90%;z-index:100;box-shadow:0px 0px 2px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
 box-shadow: 0 1px 35px #111;}
 #strip {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;background:#020109 url('../images/bg-under-video.png') top left repeat-x; overflow: hidden;}
 #press {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;overflow: hidden;display:inline-block;}
@@ -21,7 +21,7 @@ box-shadow: 0 1px 35px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position:relative;top:2px;left:0;z-index: 3;}
+#nav {position:relative;top:0;left:0;z-index: 3;}
 #nav a {cursor:pointer;}
 #nav ul{float:left;list-style:none;margin-top:0;padding:0;text-align:left;display:inline-block;}
 #nav ul li {margin:0 0 0 0.1em;padding: 0 0.5em 0 0;text-align:left;}
@@ -65,7 +65,8 @@ p.inners a {margin:0 0 1em 0;padding:0 0.5em;}
 
 /* TODO BOX OVERLAY STRIP CSS
 -------------------------------------------------- */
-.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020202 url('../images/retina/teasing1@2x.jpg') center center no-repeat;background-size:72% 100%;}
+.sp-content {float: none;width: auto;margin:3% 3.2%;height: auto;overflow: hidden;background:#020202 url('../images/retina/teasing@2x.jpg') top left no-repeat;background-size:100% 100%;box-shadow:1px 1px 1px 1px  rgba(0,0,0,0.2);-moz-box-sizing:border-box;box-sizing:border-box;
+box-shadow: 1px 1px 1px #111;}
 
 .sp-slideshow input {display:none;}
 .sp-selector-1, .button-label-1 {margin-left: -36px;}
@@ -163,13 +164,11 @@ input{
     display: block;
     margin:12% auto;
     background:#010101;
-    width:110px;
+    width:310px;
     box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
     box-shadow: 0 1px 5px #222;
 }
-.sp-slider > li{
-    font-size:12px;
-}
+
 
 input.sp-selector-1:checked ~ .sp-content .sp-slider {left: 0;}
 input.sp-selector-2:checked ~ .sp-content .sp-slider {left: -100%}
@@ -189,9 +188,6 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
 #ifsign, #iftext, #ifliter, #ifvideo {float:right;margin-left:30%;margin-top:1.68em;padding-top: 22.934375%;width:40%; height:auto;}
-/* #iftext-A > iframe {float:right;margin-left:20em;padding-top:7.1em;width:20%; height:auto;}
-#iftext-B > iframe {float:right;margin-left:48em;padding-top:7.1em;width:20%; height:auto;}
-#iftext-C > iframe {float:right;margin-left:76.3em;padding-top:7.1em;width:20%; height:auto;}*/
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
@@ -203,7 +199,7 @@ article.blanc > h4
 article.blanc > p
 {position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0 2.5em 1.4em;line-height:1em;background:#020109;width:inherit;color:#fff;}
 article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;text-decoration: none;}
-.gen-img {position:absolute;left:30%;top:0;padding:3.15em 0}
+.gen-img {position:absolute;left:26%;top:0;padding:3.15em 0}
 .gen-img > img {width:70%;}
 
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER*/
