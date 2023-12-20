@@ -6,24 +6,24 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 -------------------------------------------------- */
 
 body {width:100% inherit;background:#020109 url('../images/retina/bg-sign@2x.png') 11em -3em repeat;}
-header[role="banner"] {margin:0;padding:2.3% 0 0 3.2%;width:100%;display:inline-block;}
+header[role="banner"] {margin:0;padding:2% 0 0 3.2%;width:100%;display:inline-block;}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
-#rules {width: 100%;height: 100%;color: #999;top:0;overflow: hidden;position: relative;z-index: 3;}
-.head .inner, .section-inner {padding:0% 4% 1.2% 11%;margin:0}
-.head .text p {display:inline-block;margin:2.6% 3% 0 1.3%;width:27%;}
+#rules {width: 100%;height: 100%;color: #999;top:-15px;overflow: hidden;position: relative;z-index: 3;}
+.head .inner, .section-inner {padding:0% 4% 0% 11%;margin:0}
+.head .text p {display:inline-block;margin:2% 3% 0 1.3%;width:27%;}
 
-#block-video {position: relative;top: 0;left: 0;width: 100%;z-index:100;box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
-box-shadow: 0 1px 25px #111;}
+#block-video {position: relative;top: 0;left: 0;width: 100%;height:90%;z-index:100;box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
+box-shadow: 0 1px 35px #111;}
 #strip {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;background:#020109 url('../images/bg-under-video.png') top left repeat-x; overflow: hidden;}
 #press {position: relative;z-index: 3;width: 100%;height: 0px;color: #999;overflow: hidden;display:inline-block;}
 #switch-navigation {display:block;width:100%;color:#555;margin:0;padding:0;border-top:1px solid rgba(255,255,255,.1);height:5em;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position:relative;top:-2px;left:0;z-index: 3;}
+#nav {position:relative;top:-4px;left:0;z-index: 3;}
 #nav a {cursor:pointer;}
-#nav ul{float:left;list-style:none;margin:0;padding:0;text-align:left;display:inline-block;}
+#nav ul{float:left;list-style:none;margin-top:0;padding:0;text-align:left;display:inline-block;}
 #nav ul li {margin:0 0 0 0.1em;padding: 0.3em 0.5em 0 0;text-align:left;}
 a#signs, a#txt, a#liter, a#vid, a#signers, a#texts, a#liters, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
 #nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;text-align:left;}
@@ -36,12 +36,13 @@ a.vim, a.tree {background-position: 15px 5px;display: block;}
 a.vims, a.trees  {background-position: -31px 5px;display: block;}
 
 div > img.tempo {float:right;margin:3em;padding:20em 0 25em 0 ;width: 100%;height:40%;}
+#press p {padding-bottom:2em}
 
 /* TODO FUNCTION
 -------------------------------------------------- */
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-p.inners {float:right;margin:-0.2em 9em 1em 0;padding:0 0;text-align:center;font-size: 100%;}
+p.inners {float:right;margin:-0.3em 8em 0em 0;padding:0 0;text-align:center;font-size: 100%;}
 p.inners a {margin:0 0 1em 0;padding:0 0.5em;}
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
@@ -196,8 +197,7 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:auto;color:#fff;text-transform: uppercase;}
 figure > h1 {position:absolute;z-index:9999;top:6%;padding:0.5em 0.9em ;background-color: #fff;width:8.8em;color:#020109;text-transform: uppercase;}
-.vign {position:relative;z-index:9999;top:11em;padding:0.5em 0.9em;background-color:#020109;width:13em;}
-.motif {float:left;margin:1.5em 0 1.5em 0;padding:3.5em 0 0 0;}
+.vign {position:relative;z-index:9999;top:10em;padding:0.5em 0.9em;background-color:#020109;width:13em;}
 article.blanc > h4
 {position:absolute;top:0.7em;right:-3em;z-index:9999;margin:1em 2.8em 1em 0;padding:1em 2.5em 3em 1.5em;line-height:2.2em;background:#020109;width:auto;color:#999;}
 article.blanc > p
