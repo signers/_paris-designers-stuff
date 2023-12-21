@@ -21,7 +21,7 @@ box-shadow: 0 1px 35px #111;}
 
 /* TODO FUNCTION NAV
 -------------------------------------------------- */
-#nav {position:relative;top:0;left:0;z-index: 3;padding: 0 0.5em 0 0;}
+#nav {position:relative;top:0.25em;left:0;z-index: 3;padding: 0 0.5em 0 0;}
 #nav a {cursor:pointer;}
 #nav ul{float:left;list-style:none;margin-top:0;padding:0;text-align:left;display:inline-block;}
 #nav ul li {margin:0 0 0 0.1em;padding: 0 0.5em 0 0;text-align:left;}
