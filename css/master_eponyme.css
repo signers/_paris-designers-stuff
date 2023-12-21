@@ -28,6 +28,7 @@ box-shadow: 0 1px 35px #111;}
 a#signs, a#txt, a#liter, a#vid, a#signers, a#texts, a#liters, a#vids{cursor:pointer;display: none;width:100%;text-decoration:none;display:inline-block;}
 #nav ul li.active a, nav a:hover {color:#fff;cursor:pointer;text-align:left;}
 
+#press span.active {color:#fff;cursor:pointer;text-align:left;}
 
 a#vims, a#trees {background-color:#fff;border:none;cursor:pointer;display: none;padding:0}
 a.vim, a.vims, a.tree, a.trees {background:#555 url("../images/closeopenleftright.png") no-repeat 0 0;background-size:75px 98px;height:27px;width:60px;text-indent:-4000px;display:block;margin: 0 auto;position: relative;z-index: 1;cursor:pointer;border:none;}
@@ -43,7 +44,7 @@ div > img.tempo {float:right;margin:-3em;padding:20em 0 10em 0 ;width: 100%;heig
 -------------------------------------------------- */
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-p.inners {float:right;margin:-0.1em 10.1em 0em 0;padding:0 0;text-align:center;font-size: 100%;}
+p.inners {float:right;margin:-0.1em 9.3em 0em 0;padding:0 0;text-align:center;font-size: 100%;}
 p.inners a {margin:0 0 1em 0;padding:0 0.5em;}
 
  /* RESPONSIVE CSS  TODO  & RETINA  TODO
@@ -98,7 +99,7 @@ box-shadow: 1px 1px 1px #111;}
 .sp-selector-2:checked ~ .sp-arrow.sp-a3,
 .sp-selector-3:checked ~ .sp-arrow.sp-a4,
 .sp-selector-4:checked ~ .sp-arrow.sp-a5 {
-    right: 15px;
+    right: 10px;
     display: block;
     background-position: top right;
 }
@@ -106,7 +107,7 @@ box-shadow: 1px 1px 1px #111;}
 .sp-selector-3:checked ~ .sp-arrow.sp-a2,
 .sp-selector-4:checked ~ .sp-arrow.sp-a3,
 .sp-selector-5:checked ~ .sp-arrow.sp-a4 {
-    left: 15px;
+    left: 10px;
     display: block;
     background-position: top left;
 }
@@ -138,8 +139,8 @@ input{
     -o-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
-    height: 100%;
-    padding: 0 60px;
+    height: 90%;
+    padding: 0 30px;
     float: left;
     text-align: center;
     opacity: 0.1;
@@ -157,13 +158,13 @@ input{
     box-sizing: border-box;
     display: block;
     margin: 0 auto;
-    padding: 40px 0 50px 0;
+    padding: 10px 0 10px 10px;
     max-height: 100%;
     max-width: 100%;
 }
 .sp-slider > li h1{
     display: block;
-    margin:12% auto;
+    margin:10% auto;
     background:#010101;
     width:310px;
     box-shadow:0px 0px 6px rgba(0,0,0,0.4);-moz-box-sizing:border-box;box-sizing:border-box;
