@@ -5,7 +5,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 /* TODO HEADER HEAD CONTENT LAYOUT
 -------------------------------------------------- */
 
-body {width:100%;background: url('../images/retina/bg-sign@2x.png') 0 0.5em repeat-x;}
+body {width:100%;background: url('../images/retina/bg-under-videobg@2x.png') 0 0.5em repeat;}
 header[role="banner"] {margin:0;padding:2% 0 0 3.2%;width:100%;display:inline-block;line-height:1em}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
@@ -189,7 +189,10 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
-#ifsign, #iftext, #ifliter, #ifvideo {float:right;margin-left:30%;margin-top:1.68em;padding-top: 22.934375%;width:40%; height:auto;}
+#ifsign, #iftext, #ifvideo {float:left;margin:1.68em 0 0 0;padding: 22.934375% 0 0 0;width:auto; height:auto;}
+#ifliter0 {float:left;margin-top:-6em;margin-left:20em;padding: 0 3em 10em 0;width:1em; height:auto;}
+#ifliter1 {float:left;margin-top:-6em;margin-left:20em;padding: 0 3em 10em 0;width:1em; height:auto;}
+#ifliter2 {float:left;margin-top:-6em;margin-left:20em;padding: 0 3em 10em 0;width:1em; height:auto;}
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
