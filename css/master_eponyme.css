@@ -190,7 +190,7 @@ section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
 #s-signA, #s-signB, #s-signC, #s-signD {position:fixed;width:100%;height:100%;overflow:hidden;}
 #ifsign, #iftext, #ifvideo {float:left;margin:1.68em 0 0 0;padding: 22.934375% 0 0 0;width:auto; height:auto;}
-#ifliter0, #ifliter1, #ifliter2 {float:left;margin-top:-6.50em;margin-left:20em;padding: 0 3em 10em 0;width:1em; height:auto;}
+#ifliter0, #ifliter1, #ifliter2 {float:left;margin-top:-11.50em;margin-left:20em;padding: 0 3em 12em 0;width:1em; height:auto;}
 .pageA,.pageB,.pageC,.pageD{position:relative;z-index:-1;width:100%;height:100%;top:0;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
