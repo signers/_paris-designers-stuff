@@ -189,12 +189,12 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 section #section{position:absolute;width:100%;height:100%;overflow:hidden;}
 .page{position:relative;z-index:1;width:100%;height:100%;top:0;}
 #s-sign, #s-text, #s-liter, #s-video {position:fixed;width:100%;height:100%;overflow:hidden;background:#020109 url('../images/retina/bg-sign@2x.png') top left repeat-x;}
-#ifsign, #iftext, #ifvideo {float:left;margin:1.68em 0 0 0;padding: 22.934375% 0 0 0;width:auto; height:auto;}
-#ifliter0, #ifliter1, #ifliter2 {float:left;margin-top:-11.90em;margin-left:19em;padding: 0 1em 12em 0;width:0.7em; height:auto;}
+#ifsign, #iftext, #ifliter0, #ifvideo {float:left;margin:1.68em 0 0 0;padding: 22.934375% 0 0 0;width:auto; height:auto;}
+#ifliter0, #ifliter1, #ifliter2 {float:left;margin-top:4em;margin-left:2.5em;margin-right:17em;padding: 0 1em 0.1em 0;width:0.7em; height:auto;}
 aside > div img, .page > div img {float:left;margin:-1.5em 0 0 0;height:80%;}
 article > h2 {position:absolute;z-index:9999;top:1em;left:0;padding:0.5em 1.3em;line-height:1.2em;background-color: #020109;width:inherit;color:#fff;text-transform: uppercase;}
-figure > h1 {position:relative;z-index:9999;top:4em;padding:0.5em 0.9em ;background-color: #fff;width:8.8em;color:#020109;text-transform: uppercase;}
-.vign {position:relative;z-index:9999;top:5em;padding:0.5em 1.5em 0 0.5em;background-color:#020109;width:13em;}
+figure > h1 {float: left;margin:3em 0 3em;padding:0.5em 1em ;background-color: #fff;width:auto;color:#020109;text-transform: uppercase;}
+.vign {position:fixed;z-index:9999;margin-top:10em;padding:0.5em 1.2em 0 0.5em;background-color:#020109;width:auto;}
 article.blanc > h4
 {position:absolute;top:0.7em;right:-3em;z-index:9999;margin:1em 2.8em 1em 0;padding:1em 2.5em 3em 1.5em;line-height:2.2em;background:#020109;width:auto;color:#999;}
 article.blanc > p
