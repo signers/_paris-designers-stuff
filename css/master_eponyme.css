@@ -5,7 +5,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2
 /* TODO HEADER HEAD CONTENT LAYOUT
 -------------------------------------------------- */
 
-body {width:100%;background: url('../images/retina/bg-under-videobg@2x.png') 0 0.5em repeat;}
+body {width:100%;background: url('../images/retina/bg-bottom-chain@2x.jpg') 0 1.5em repeat;}
 header[role="banner"] {margin:0;padding:2% 0 0 3.2%;width:100%;display:inline-block;line-height:1em}
 header[role="banner"] ul li, ul li a {list-style:none;margin:0;float:left;}
 
