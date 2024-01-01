@@ -206,7 +206,7 @@ article.blanc > h4
 article.blanc > p
 {position:absolute;top:0.2em;right:0;z-index:9999;margin:3.5em 0 0.5em 0;padding:1.5em 0 2.5em 1.4em;line-height:1em;background:#020109;width:inherit;color:#fff;}
 article.blanc > a, article.blanc > p a:hover {color:#fff;text-transform:lowercase;text-decoration: none;}
-.gen-img {position:absolute;left:22em;top:0;padding:3.15em 0}
+.gen-img {position:absolute;left:24%;top:0;padding:3.15em 0}
 .gen-img > img {width:70%;}
 
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER*/
