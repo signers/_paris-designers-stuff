@@ -32,7 +32,7 @@ article > h3, article > h4, article.blanc > h4 {font: 600 0.85em 'Titillium Web'
 .vign a {font: 600 1em/2.1em 'Roboto Condensed', sans-serif;font-weight:500;text-transform: uppercase;color:#fff;letter-spacing:2px;text-decoration: underline;}
 .vign a:hover {font: 600 1em/2.1em 'Roboto Condensed', sans-serif;font-weight:500;text-transform: uppercase;color:#fff;letter-spacing:2px;text-decoration: none;}
 
-#ifliter0 > h3, #ifliter1 > h3, #ifliter2 > h3 {font: 200 1em/2.1em 'Titillium Web', sans-serif;font-weight:600;color:#888;}
+#ifliter0 > h3, #ifliter1 > h3, #ifliter2 > h3 {font: 200 1em/2.1em 'Titillium Web', sans-serif;font-weight:600;color:#111;}
 
 .sp-slider > li h1  {font: 200 1em/2.1em 'Titillium Web', sans-serif;font-weight:600;color:#888;}
 #s-sign h2, #s-text h2, #s-liter h2, #s-video h2{font: 500 0.80em/25px 'Roboto Condensed', sans-serif;}
