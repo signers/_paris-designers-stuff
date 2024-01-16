@@ -44,10 +44,11 @@ div > img.tempo {float:right;margin:-3em;padding:18em 0 10em 0 ;width: 100%;heig
 -------------------------------------------------- */
 
 img.rules {margin:-0.3em -0.7em 0 0 ;padding:0;text-align:center;width:auto;height:2.1em;}
-p.inners {float:left;margin:-0.1em 5.3em 0 0;padding:0 0;text-align:center;font-size: 100%;}
+p.inners {float:left;margin:0.3em  5.3em 0 0;padding:0 0;text-align:center;font-size: 100%;}
+li.inners, li.inners a {font-size: 100%;}
 p.inners a {margin:0 0 1em 0;padding:0 0.1em;}
 
-p.frame {float:right;margin:-0.1em 10.5em 0 0;padding:0 0;text-align:center;font-size: 100%;}
+p.frame {float:right;margin:0.3em 10.5em 0 0;padding:0 0;text-align:center;font-size: 100%;}
 p.frame a {margin:0 0 1em 0;padding:0 0.5em;}
 
 
